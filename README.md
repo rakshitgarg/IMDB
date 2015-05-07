@@ -1,0 +1,2 @@
+# IMDB Search Engine(Offline)
+We took a scrape of 50 most popular movies of each year from 1962-2012. Attributes of a movie are title, year of release, outline, genre, certificate, runtime, director(s) and actors. The program reads the details of movies from text files. The movie attributes are stored in relevant data structures such as Linked Lists, Arrays and Trees. After initialization, the program allows search by movie name, director name, actor name, etc.
