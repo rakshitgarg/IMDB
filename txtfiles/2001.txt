@@ -1,0 +1,757 @@
+#Movie
+#Title The Lord of the Rings: The Fellowship of the Ring
+#TitleImage images/titles/1951.jpg
+#Outline An innocent hobbit of The Shire journeys with eight companions to the fires of Mount Doom to destroy the One Ring and the dark lord Sauron forever.
+#Director Peter Jackson
+#DirectorImage images/persons/1392.jpg
+#Actor Elijah Wood
+#ActorImage images/persons/704.jpg
+#Actor Ian McKellen
+#ActorImage images/persons/5212.jpg
+#Actor Orlando Bloom
+#ActorImage images/persons/89217.jpg
+#Genre Action | Adventure | Fantasy
+#Certificate PG_13
+#Runtime 178 mins.
+#Movie
+#Title Harry Potter and the Sorcerer's Stone
+#TitleImage images/titles/1952.jpg
+#Outline Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School of Witchcraft and Wizardry.
+#Director Chris Columbus
+#DirectorImage images/persons/1060.jpg
+#Actor Daniel Radcliffe
+#ActorImage images/persons/705356.jpg
+#Actor Rupert Grint
+#ActorImage images/persons/342488.jpg
+#Actor Richard Harris
+#ActorImage images/persons/1321.jpg
+#Genre Adventure | Family | Fantasy
+#Certificate TV_PG
+#Runtime 152 mins.
+#Movie
+#Title Donnie Darko
+#TitleImage images/titles/1953.jpg
+#Outline A troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes, after narrowly escaping a bizarre accident.
+#Director Richard Kelly
+#DirectorImage images/persons/446819.jpg
+#Actor Jake Gyllenhaal
+#ActorImage images/persons/350453.jpg
+#Actor Jena Malone
+#ActorImage images/persons/540441.jpg
+#Actor Mary McDonnell
+#ActorImage images/persons/1521.jpg
+#Genre Drama | Mystery | Sci-Fi
+#Certificate R
+#Runtime 113 mins.
+#Movie
+#Title Spirited Away
+#TitleImage images/titles/1954.jpg
+#Outline In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into animals; and a bathhouse for these creatures.
+#Director Hayao Miyazaki
+#DirectorImage images/persons/594503.jpg
+#Actor Daveigh Chase
+#ActorImage images/persons/153738.jpg
+#Actor Suzanne Pleshette
+#ActorImage images/persons/687189.jpg
+#Actor Miyu Irino
+#ActorImage images/persons/997115.jpg
+#Genre Animation | Adventure | Family | Fantasy
+#Certificate PG
+#Runtime 125 mins.
+#Movie
+#Title Spy Kids
+#TitleImage images/titles/1955.jpg
+#Outline The children of secret-agent parents must save them from danger.
+#Director Robert Rodriguez
+#DirectorImage images/persons/1675.jpg
+#Actor Alexa Vega
+#ActorImage images/persons/891786.jpg
+#Actor Daryl Sabara
+#ActorImage images/persons/754512.jpg
+#Actor Antonio Banderas
+#ActorImage images/persons/104.jpg
+#Genre Action | Adventure | Comedy | Family | Sci-Fi
+#Certificate PG
+#Runtime 88 mins.
+#Movie
+#Title A Beautiful Mind
+#TitleImage images/titles/1956.jpg
+#Outline After a brilliant but asocial mathematician accepts secret work in cryptography, his life takes a turn to the nightmarish.
+#Director Ron Howard
+#DirectorImage images/persons/165.jpg
+#Actor Russell Crowe
+#ActorImage images/persons/128.jpg
+#Actor Ed Harris
+#ActorImage images/persons/438.jpg
+#Actor Jennifer Connelly
+#ActorImage images/persons/124.jpg
+#Genre Biography | Drama
+#Certificate PG_13
+#Runtime 135 mins.
+#Movie
+#Title Blow
+#TitleImage images/titles/1957.jpg
+#Outline The story of George Jung, the man who established the American cocaine market in the 1970s.
+#Director Ted Demme
+#DirectorImage images/persons/1130.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Actor Penélope Cruz
+#ActorImage images/persons/4851.jpg
+#Actor Franka Potente
+#ActorImage images/persons/4376.jpg
+#Genre Biography | Crime | Drama
+#Certificate R
+#Runtime 124 mins.
+#Movie
+#Title Am�lie
+#TitleImage images/titles/1958.jpg
+#Outline Amelie, an innocent and naive girl in Paris, with her own sense of justice, decides to help those around her and along the way, discovers love.
+#Director Jean-Pierre Jeunet
+#DirectorImage images/persons/466.jpg
+#Actor Audrey Tautou
+#ActorImage images/persons/851582.jpg
+#Actor Mathieu Kassovitz
+#ActorImage images/persons/440913.jpg
+#Actor Rufus
+#ActorImage images/persons/749363.jpg
+#Genre Comedy | Romance
+#Certificate R
+#Runtime 122 mins.
+#Movie
+#Title Monsters, Inc.
+#TitleImage images/titles/1959.jpg
+#Outline Monsters generate their city's power by scaring children, but they are terribly afraid themselves of being contaminated by children, so when one enters Monstropolis, top scarer Sulley finds his world disrupted.
+#Director Pete Docter
+#DirectorImage images/persons/230032.jpg
+#Director David Silverman
+#DirectorImage images/persons/798899.jpg
+#Actor Billy Crystal
+#ActorImage images/persons/345.jpg
+#Actor John Goodman
+#ActorImage images/persons/422.jpg
+#Actor Mary Gibbs
+#ActorImage images/persons/316701.jpg
+#Genre Animation | Adventure | Comedy | Family | Fantasy
+#Certificate TV_PG
+#Runtime 92 mins.
+#Movie
+#Title Training Day
+#TitleImage images/titles/1960.jpg
+#Outline On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.
+#Director Antoine Fuqua
+#DirectorImage images/persons/298807.jpg
+#Actor Denzel Washington
+#ActorImage images/persons/243.jpg
+#Actor Ethan Hawke
+#ActorImage images/persons/160.jpg
+#Actor Scott Glenn
+#ActorImage images/persons/1277.jpg
+#Genre Crime | Drama | Thriller
+#Certificate R
+#Runtime 122 mins.
+#Movie
+#Title Black Hawk Down
+#TitleImage images/titles/1961.jpg
+#Outline 123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
+#Director Ridley Scott
+#DirectorImage images/persons/631.jpg
+#Actor Josh Hartnett
+#ActorImage images/persons/1326.jpg
+#Actor Ewan McGregor
+#ActorImage images/persons/191.jpg
+#Actor Tom Sizemore
+#ActorImage images/persons/1744.jpg
+#Genre Drama | History | War
+#Certificate R
+#Runtime 144 mins.
+#Movie
+#Title Ocean's Eleven
+#TitleImage images/titles/1962.jpg
+#Outline Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.
+#Director Steven Soderbergh
+#DirectorImage images/persons/1752.jpg
+#Actor George Clooney
+#ActorImage images/persons/123.jpg
+#Actor Brad Pitt
+#ActorImage images/persons/93.jpg
+#Actor Julia Roberts
+#ActorImage images/persons/210.jpg
+#Genre Crime | Thriller
+#Certificate PG_13
+#Runtime 116 mins.
+#Movie
+#Title Scary Movie 2
+#TitleImage images/titles/1963.jpg
+#Outline Four teens are tricked by their professor into visiting a haunted house for a school project.
+#Director Keenen Ivory Wayans
+#DirectorImage images/persons/5540.jpg
+#Actor Anna Faris
+#ActorImage images/persons/267506.jpg
+#Actor Marlon Wayans
+#ActorImage images/persons/5541.jpg
+#Actor Anthony Acker
+#ActorImage images/persons/9919.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 83 mins.
+#Movie
+#Title The Princess Diaries
+#TitleImage images/titles/1964.jpg
+#Outline Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her 15th year.
+#Director Garry Marshall
+#DirectorImage images/persons/5190.jpg
+#Actor Julie Andrews
+#ActorImage images/persons/267.jpg
+#Actor Anne Hathaway
+#ActorImage images/persons/4266.jpg
+#Actor Hector Elizondo
+#ActorImage images/persons/1185.jpg
+#Genre Comedy | Drama | Family | Romance
+#Certificate G
+#Runtime 115 mins.
+#Movie
+#Title Pearl Harbor
+#TitleImage images/titles/1965.jpg
+#Outline Pearl Harbor follows the story of two best friends, Rafe and Danny, and their love lives as they go off to join the war.
+#Director Michael Bay
+#DirectorImage images/persons/881.jpg
+#Actor Ben Affleck
+#ActorImage images/persons/255.jpg
+#Actor Kate Beckinsale
+#ActorImage images/persons/295.jpg
+#Actor Josh Hartnett
+#ActorImage images/persons/1326.jpg
+#Genre Action | Drama | Romance | War
+#Certificate R
+#Runtime 183 mins.
+#Movie
+#Title Mulholland Dr.
+#TitleImage images/titles/1966.jpg
+#Outline After a car wreck on the winding Mulholland Drive renders a woman amnesic, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.
+#Director David Lynch
+#DirectorImage images/persons/186.jpg
+#Actor Naomi Watts
+#ActorImage images/persons/915208.jpg
+#Actor Laura Harring
+#ActorImage images/persons/5009.jpg
+#Actor Justin Theroux
+#ActorImage images/persons/857620.jpg
+#Genre Drama | Mystery | Thriller
+#Certificate R
+#Runtime 147 mins.
+#Movie
+#Title Original Sin
+#TitleImage images/titles/1967.jpg
+#Outline A young man is plunged into a life of subterfuge, deceit and mistaken identity in pursuit of a femme fatale whose heart is never quite within his grasp. Remake of François Truffaut's 1969 film 'Mississippi Mermaid'
+#Director Michael Cristofer
+#DirectorImage images/persons/188165.jpg
+#Actor Antonio Banderas
+#ActorImage images/persons/104.jpg
+#Actor Angelina Jolie
+#ActorImage images/persons/1401.jpg
+#Actor Thomas Jane
+#ActorImage images/persons/5048.jpg
+#Genre Drama | Mystery | Romance
+#Certificate UNRATED
+#Runtime 116 mins.
+#Movie
+#Title Hannibal
+#TitleImage images/titles/1968.jpg
+#Outline Hannibal returns to America and attempts to make contact with disgraced Agent Starling and survive a vengeful victim's plan.
+#Director Ridley Scott
+#DirectorImage images/persons/631.jpg
+#Actor Anthony Hopkins
+#ActorImage images/persons/164.jpg
+#Actor Julianne Moore
+#ActorImage images/persons/194.jpg
+#Actor Gary Oldman
+#ActorImage images/persons/198.jpg
+#Genre Crime | Drama | Thriller
+#Certificate R
+#Runtime 131 mins.
+#Movie
+#Title Moulin Rouge!
+#TitleImage images/titles/1969.jpg
+#Outline A poet falls for a beautiful courtesan whom a jealous duke covets in this stylish musical, with music drawn from familiar 20th century sources.
+#Director Baz Luhrmann
+#DirectorImage images/persons/525303.jpg
+#Actor Nicole Kidman
+#ActorImage images/persons/173.jpg
+#Actor Ewan McGregor
+#ActorImage images/persons/191.jpg
+#Actor John Leguizamo
+#ActorImage images/persons/491.jpg
+#Genre Drama | Musical | Romance
+#Certificate PG_13
+#Runtime 127 mins.
+#Movie
+#Title Shrek
+#TitleImage images/titles/1970.jpg
+#Outline An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.
+#Director Andrew Adamson
+#DirectorImage images/persons/11470.jpg
+#Director Vicky Jenson
+#DirectorImage images/persons/421776.jpg
+#Actor Mike Myers
+#ActorImage images/persons/196.jpg
+#Actor Eddie Murphy
+#ActorImage images/persons/552.jpg
+#Actor Cameron Diaz
+#ActorImage images/persons/139.jpg
+#Genre Animation | Adventure | Comedy | Family | Fantasy
+#Certificate PG
+#Runtime 90 mins.
+#Movie
+#Title The Fast and the Furious
+#TitleImage images/titles/1971.jpg
+#Outline An undercover cop infiltrates an underworld subculture of Los Angeles street racers looking to bust a hijacking ring, and soon begins to question his loyalties when his new street racing friends become the prime suspects.
+#Director Rob Cohen
+#DirectorImage images/persons/3418.jpg
+#Actor Vin Diesel
+#ActorImage images/persons/4874.jpg
+#Actor Paul Walker
+#ActorImage images/persons/908094.jpg
+#Actor Michelle Rodriguez
+#ActorImage images/persons/735442.jpg
+#Genre Action | Crime | Thriller
+#Certificate PG_13
+#Runtime 106 mins.
+#Movie
+#Title The Others
+#TitleImage images/titles/1972.jpg
+#Outline A woman who lives in a darkened old house with her two photosensitive children becomes convinced that her family home is haunted.
+#Director Alejandro Amenábar
+#DirectorImage images/persons/24622.jpg
+#Actor Nicole Kidman
+#ActorImage images/persons/173.jpg
+#Actor Christopher Eccleston
+#ActorImage images/persons/1172.jpg
+#Actor Fionnula Flanagan
+#ActorImage images/persons/1217.jpg
+#Genre Drama | Mystery | Thriller
+#Certificate PG_13
+#Runtime 101 mins.
+#Movie
+#Title Not Another Teen Movie
+#TitleImage images/titles/1973.jpg
+#Outline A sendup of all the teen movies that have accumulated in the past two decades.
+#Director Joel Gallen
+#DirectorImage images/persons/302778.jpg
+#Actor Chyler Leigh
+#ActorImage images/persons/500200.jpg
+#Actor Jaime Pressly
+#ActorImage images/persons/5326.jpg
+#Actor Chris Evans
+#ActorImage images/persons/262635.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 89 mins.
+#Movie
+#Title Sweet November
+#TitleImage images/titles/1974.jpg
+#Outline Nelson is a man devoted to his advertising career in San Francisco. One day, while taking a driving test at the DMV...
+#Director Pat O'Connor
+#DirectorImage images/persons/640466.jpg
+#Actor Keanu Reeves
+#ActorImage images/persons/206.jpg
+#Actor Charlize Theron
+#ActorImage images/persons/234.jpg
+#Actor Jason Isaacs
+#ActorImage images/persons/5042.jpg
+#Genre Drama | Romance
+#Certificate PG_13
+#Runtime 119 mins.
+#Movie
+#Title A.I. Artificial Intelligence
+#TitleImage images/titles/1975.jpg
+#Outline A highly advanced robotic boy longs to become "real" so that he can regain the love of his human mother.
+#Director Steven Spielberg
+#DirectorImage images/persons/229.jpg
+#Actor Haley Joel Osment
+#ActorImage images/persons/5286.jpg
+#Actor Jude Law
+#ActorImage images/persons/179.jpg
+#Actor Frances O'Connor
+#ActorImage images/persons/640323.jpg
+#Genre Adventure | Drama | Sci-Fi
+#Certificate PG_13
+#Runtime 146 mins.
+#Movie
+#Title The Royal Tenenbaums
+#TitleImage images/titles/1976.jpg
+#Outline An estranged family of former child prodigies reunites when one of their member announces he has a terminal illness.
+#Director Wes Anderson
+#DirectorImage images/persons/27572.jpg
+#Actor Gene Hackman
+#ActorImage images/persons/432.jpg
+#Actor Gwyneth Paltrow
+#ActorImage images/persons/569.jpg
+#Actor Anjelica Huston
+#ActorImage images/persons/1378.jpg
+#Genre Comedy | Drama
+#Certificate R
+#Runtime 110 mins.
+#Movie
+#Title Legally Blonde
+#TitleImage images/titles/1977.jpg
+#Outline When a blonde sorority queen is dumped by her boyfriend, she decides to follow him to law school to get him back and, once there, learns she has more legal savvy than she ever imagined.
+#Director Robert Luketic
+#DirectorImage images/persons/525659.jpg
+#Actor Reese Witherspoon
+#ActorImage images/persons/702.jpg
+#Actor Luke Wilson
+#ActorImage images/persons/5561.jpg
+#Actor Selma Blair
+#ActorImage images/persons/4757.jpg
+#Genre Comedy | Romance
+#Certificate PG_13
+#Runtime 96 mins.
+#Movie
+#Title Zoolander
+#TitleImage images/titles/1978.jpg
+#Outline At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.
+#Director Ben Stiller
+#DirectorImage images/persons/1774.jpg
+#Actor Ben Stiller
+#ActorImage images/persons/1774.jpg
+#Actor Owen Wilson
+#ActorImage images/persons/5562.jpg
+#Actor Christine Taylor
+#ActorImage images/persons/852132.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 89 mins.
+#Movie
+#Title A Knight's Tale
+#TitleImage images/titles/1979.jpg
+#Outline After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.
+#Director Brian Helgeland
+#DirectorImage images/persons/1338.jpg
+#Actor Heath Ledger
+#ActorImage images/persons/5132.jpg
+#Actor Mark Addy
+#ActorImage images/persons/4692.jpg
+#Actor Rufus Sewell
+#ActorImage images/persons/1722.jpg
+#Genre Action | Adventure | Drama | Romance
+#Certificate UNRATED
+#Runtime 132 mins.
+#Movie
+#Title Vanilla Sky
+#TitleImage images/titles/1980.jpg
+#Outline A successful publisher finds his life taking a turn for the surreal after a car accident with a jaded lover.
+#Director Cameron Crowe
+#DirectorImage images/persons/1081.jpg
+#Actor Tom Cruise
+#ActorImage images/persons/129.jpg
+#Actor Penélope Cruz
+#ActorImage images/persons/4851.jpg
+#Actor Cameron Diaz
+#ActorImage images/persons/139.jpg
+#Genre Mystery | Romance | Sci-Fi | Thriller
+#Certificate R
+#Runtime 136 mins.
+#Movie
+#Title Enemy at the Gates
+#TitleImage images/titles/1981.jpg
+#Outline A Russian sniper and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.
+#Director Jean-Jacques Annaud
+#DirectorImage images/persons/269.jpg
+#Actor Jude Law
+#ActorImage images/persons/179.jpg
+#Actor Ed Harris
+#ActorImage images/persons/438.jpg
+#Actor Joseph Fiennes
+#ActorImage images/persons/1212.jpg
+#Genre Drama | History | Thriller | War
+#Certificate R
+#Runtime 131 mins.
+#Movie
+#Title Behind Enemy Lines
+#TitleImage images/titles/1982.jpg
+#Outline A Navy navigator is shot down over enemy territory and is ruthlessly pursued by a secret police enforcer and the opposing troops. Meanwhile his commanding officer goes against orders in an attempt to rescue him.
+#Director John Moore
+#DirectorImage images/persons/601382.jpg
+#Actor Gene Hackman
+#ActorImage images/persons/432.jpg
+#Actor Owen Wilson
+#ActorImage images/persons/5562.jpg
+#Actor Gabriel Macht
+#ActorImage images/persons/532683.jpg
+#Genre Action | War | Drama | Thriller
+#Certificate PG_13
+#Runtime 106 mins.
+#Movie
+#Title The Devil's Backbone
+#TitleImage images/titles/1983.jpg
+#Outline After Carlos, a 12-year-old whose father has died in the Spanish Civil War, arrives at an ominous boy's orphanage he discovers the school is haunted and has many dark secrets that he must uncover.
+#Director Guillermo del Toro
+#DirectorImage images/persons/868219.jpg
+#Actor Marisa Paredes
+#ActorImage images/persons/4650.jpg
+#Actor Eduardo Noriega
+#ActorImage images/persons/635330.jpg
+#Actor Federico Luppi
+#ActorImage images/persons/527002.jpg
+#Genre Drama | Horror
+#Certificate R
+#Runtime 106 mins.
+#Movie
+#Title Jurassic Park III
+#TitleImage images/titles/1984.jpg
+#Outline A decidedly odd couple with ulterior motives convince Dr. Alan Grant to go to Isla Sorna (the second InGen dinosaur lab.), resulting in an unexpected landing...and unexpected new inhabitants on the island.
+#Director Joe Johnston
+#DirectorImage images/persons/2653.jpg
+#Actor Sam Neill
+#ActorImage images/persons/554.jpg
+#Actor William H. Macy
+#ActorImage images/persons/513.jpg
+#Actor Téa Leoni
+#ActorImage images/persons/495.jpg
+#Genre Adventure | Sci-Fi | Thriller
+#Certificate PG_13
+#Runtime 92 mins.
+#Movie
+#Title Lara Croft: Tomb Raider
+#TitleImage images/titles/1985.jpg
+#Outline Video game adventurer Lara Croft comes to life in a movie where she races against time and villains to recover powerful ancient artifacts.
+#Director Simon West
+#DirectorImage images/persons/922346.jpg
+#Actor Angelina Jolie
+#ActorImage images/persons/1401.jpg
+#Actor Jon Voight
+#ActorImage images/persons/685.jpg
+#Actor Iain Glen
+#ActorImage images/persons/322513.jpg
+#Genre Action | Adventure | Fantasy | Thriller
+#Certificate PG_13
+#Runtime 100 mins.
+#Movie
+#Title I Am Sam
+#TitleImage images/titles/1986.jpg
+#Outline A mentally retarded man fights for custody of his 7-year-old daughter, and in the process teaches his cold-hearted lawyer the value of love and family.
+#Director Jessie Nelson
+#DirectorImage images/persons/625458.jpg
+#Actor Sean Penn
+#ActorImage images/persons/576.jpg
+#Actor Michelle Pfeiffer
+#ActorImage images/persons/201.jpg
+#Actor Dakota Fanning
+#ActorImage images/persons/266824.jpg
+#Genre Drama
+#Certificate PG_13
+#Runtime 132 mins.
+#Movie
+#Title Bridget Jones's Diary
+#TitleImage images/titles/1987.jpg
+#Outline A British woman is determined to improve herself while she looks for love in a year in which she keeps a personal diary.
+#Director Sharon Maguire
+#DirectorImage images/persons/536632.jpg
+#Actor Renée Zellweger
+#ActorImage images/persons/250.jpg
+#Actor Colin Firth
+#ActorImage images/persons/147.jpg
+#Actor Hugh Grant
+#ActorImage images/persons/424.jpg
+#Genre Comedy | Drama | Romance
+#Certificate R
+#Runtime 97 mins.
+#Movie
+#Title Serendipity
+#TitleImage images/titles/1988.jpg
+#Outline A couple reunite years after the night they first met, fell in love, and separated, convinced that one day they'd end up together.
+#Director Peter Chelsom
+#DirectorImage images/persons/155093.jpg
+#Actor John Cusack
+#ActorImage images/persons/131.jpg
+#Actor Kate Beckinsale
+#ActorImage images/persons/295.jpg
+#Actor Jeremy Piven
+#ActorImage images/persons/5315.jpg
+#Genre Comedy | Romance | Fantasy
+#Certificate PG_13
+#Runtime 90 mins.
+#Movie
+#Title Planet of the Apes
+#TitleImage images/titles/1989.jpg
+#Outline An Air Force astronaut crash lands on a mysterious planet where evolved, talking apes dominant a race of primitive humans.
+#Director Tim Burton
+#DirectorImage images/persons/318.jpg
+#Actor Mark Wahlberg
+#ActorImage images/persons/242.jpg
+#Actor Helena Bonham Carter
+#ActorImage images/persons/307.jpg
+#Actor Tim Roth
+#ActorImage images/persons/619.jpg
+#Genre Action | Adventure | Sci-Fi | Thriller
+#Certificate PG_13
+#Runtime 119 mins.
+#Movie
+#Title American Pie 2
+#TitleImage images/titles/1990.jpg
+#Outline The continuing bawdy adventures of a group of friends reuniting after their first year of college.
+#Director J.B. Rogers
+#DirectorImage images/persons/736930.jpg
+#Actor Jason Biggs
+#ActorImage images/persons/4755.jpg
+#Actor Seann William Scott
+#ActorImage images/persons/5405.jpg
+#Actor Shannon Elizabeth
+#ActorImage images/persons/2436.jpg
+#Genre Comedy | Romance
+#Certificate UNRATED
+#Runtime 108 mins.
+#Movie
+#Title Swordfish
+#TitleImage images/titles/1991.jpg
+#Outline A secretive renegade counter-terrorist co-opts the world's greatest hacker (who is trying to stay clean) to steal billions in US Government dirty money.
+#Director Dominic Sena
+#DirectorImage images/persons/784061.jpg
+#Actor John Travolta
+#ActorImage images/persons/237.jpg
+#Actor Hugh Jackman
+#ActorImage images/persons/413168.jpg
+#Actor Halle Berry
+#ActorImage images/persons/932.jpg
+#Genre Action | Thriller | Crime
+#Certificate R
+#Runtime 99 mins.
+#Movie
+#Title Monster's Ball
+#TitleImage images/titles/1992.jpg
+#Outline After a family tragedy, a racist prison guard reexamines his attitudes while falling in love with the African American wife of the last prisoner he executed.
+#Director Marc Forster
+#DirectorImage images/persons/286975.jpg
+#Actor Billy Bob Thornton
+#ActorImage images/persons/671.jpg
+#Actor Halle Berry
+#ActorImage images/persons/932.jpg
+#Actor Taylor Simpson
+#ActorImage images/persons/801231.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 111 mins.
+#Movie
+#Title Das Experiment
+#TitleImage images/titles/1993.jpg
+#Outline The movie is based on the infamous "Stanford Prison Experiment" conducted in 1971. A makeshift prison is set up in a research lab...
+#Director Oliver Hirschbiegel
+#DirectorImage images/persons/386570.jpg
+#Actor Moritz Bleibtreu
+#ActorImage images/persons/1953.jpg
+#Actor Christian Berkel
+#ActorImage images/persons/75321.jpg
+#Actor Oliver Stokowski
+#ActorImage images/persons/831440.jpg
+#Genre Drama | Thriller
+#Certificate R
+#Movie
+#Title Super Troopers
+#TitleImage images/titles/1994.jpg
+#Outline Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.
+#Director Jay Chandrasekhar
+#DirectorImage images/persons/151540.jpg
+#Actor Jay Chandrasekhar
+#ActorImage images/persons/151540.jpg
+#Actor Kevin Heffernan
+#ActorImage images/persons/373571.jpg
+#Actor André Vippolis
+#ActorImage images/persons/899282.jpg
+#Genre Comedy | Crime | Mystery
+#Certificate R
+#Runtime 100 mins.
+#Movie
+#Title The Mummy Returns
+#TitleImage images/titles/1995.jpg
+#Outline The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.
+#Director Stephen Sommers
+#DirectorImage images/persons/814085.jpg
+#Actor Brendan Fraser
+#ActorImage images/persons/409.jpg
+#Actor Rachel Weisz
+#ActorImage images/persons/1838.jpg
+#Actor John Hannah
+#ActorImage images/persons/1314.jpg
+#Genre Action | Adventure | Fantasy
+#Certificate PG_13
+#Runtime 130 mins.
+#Movie
+#Title From Hell
+#TitleImage images/titles/1996.jpg
+#Outline In Victorian Era London, a troubled clairvoyant police detective investigates the murders by Jack The Ripper.
+#Director Albert Hughes
+#DirectorImage images/persons/400436.jpg
+#Director Allen Hughes
+#DirectorImage images/persons/400441.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Actor Heather Graham
+#ActorImage images/persons/1287.jpg
+#Actor Ian Holm
+#ActorImage images/persons/453.jpg
+#Genre Horror | Mystery | Thriller
+#Certificate R
+#Runtime 122 mins.
+#Movie
+#Title Jay and Silent Bob Strike Back
+#TitleImage images/titles/1997.jpg
+#Outline The comic 'Bluntman and Chronic' is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation they set out to wreck the movie.
+#Director Kevin Smith
+#DirectorImage images/persons/3620.jpg
+#Actor Jason Mewes
+#ActorImage images/persons/582939.jpg
+#Actor Kevin Smith
+#ActorImage images/persons/3620.jpg
+#Actor Ben Affleck
+#ActorImage images/persons/255.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 104 mins.
+#Movie
+#Title Sex and Lucia
+#TitleImage images/titles/1998.jpg
+#Outline Various lives converge on an isolated island, all connected by an author whose novel has become inextricably entwined with his own life.
+#Director Julio Medem
+#DirectorImage images/persons/575523.jpg
+#Actor Paz Vega
+#ActorImage images/persons/891895.jpg
+#Actor Tristán Ulloa
+#ActorImage images/persons/880554.jpg
+#Actor Najwa Nimri
+#ActorImage images/persons/632385.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 128 mins.
+#Movie
+#Title Y Tu Mam� Tambi�n
+#TitleImage images/titles/1999.jpg
+#Outline In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.
+#Director Alfonso Cuarón
+#DirectorImage images/persons/190859.jpg
+#Actor Maribel Verdú
+#ActorImage images/persons/893941.jpg
+#Actor Gael García Bernal
+#ActorImage images/persons/305558.jpg
+#Actor Ana López Mercado
+#ActorImage images/persons/1004635.jpg
+#Genre Drama
+#Certificate UNRATED
+#Runtime 106 mins.
+#Movie
+#Title Atlantis: The Lost Empire
+#TitleImage images/titles/2000.jpg
+#Outline A young adventurer named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.
+#Director Gary Trousdale
+#DirectorImage images/persons/873779.jpg
+#Director Kirk Wise
+#DirectorImage images/persons/936374.jpg
+#Actor Michael J. Fox
+#ActorImage images/persons/150.jpg
+#Actor Jim Varney
+#ActorImage images/persons/1815.jpg
+#Actor Corey Burton
+#ActorImage images/persons/123553.jpg
+#Genre Animation | Adventure | Family | Sci-Fi
+#Certificate TV_PG
+#Runtime 95 mins.

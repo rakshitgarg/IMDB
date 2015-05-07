@@ -1,0 +1,757 @@
+#Movie
+#Title Inception
+#TitleImage images/titles/2401.jpg
+#Outline In a world where technology exists to enter the human mind through dream invasion, a highly skilled thief is given a final chance at redemption which involves executing his toughest job to date: Inception.
+#Director Christopher Nolan
+#DirectorImage images/persons/634240.jpg
+#Actor Leonardo DiCaprio
+#ActorImage images/persons/138.jpg
+#Actor Joseph Gordon-Levitt
+#ActorImage images/persons/330687.jpg
+#Actor Ellen Page
+#ActorImage images/persons/680983.jpg
+#Genre Action | Adventure | Mystery | Sci-Fi | Thriller
+#Certificate PG_13
+#Runtime 148 mins.
+#Movie
+#Title Kick-Ass
+#TitleImage images/titles/2402.jpg
+#Outline Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.
+#Director Matthew Vaughn
+#DirectorImage images/persons/891216.jpg
+#Actor Aaron Taylor-Johnson
+#ActorImage images/persons/1093951.jpg
+#Actor Nicolas Cage
+#ActorImage images/persons/115.jpg
+#Actor Chloë Grace Moretz
+#ActorImage images/persons/1631269.jpg
+#Genre Action | Comedy
+#Certificate R
+#Runtime 117 mins.
+#Movie
+#Title Clash of the Titans
+#TitleImage images/titles/2403.jpg
+#Outline Perseus, mortal son of Zeus, battles the minions of the underworld to stop them from conquering the Earth and the heavens.
+#Director Louis Leterrier
+#DirectorImage images/persons/504642.jpg
+#Actor Sam Worthington
+#ActorImage images/persons/941777.jpg
+#Actor Liam Neeson
+#ActorImage images/persons/553.jpg
+#Actor Ralph Fiennes
+#ActorImage images/persons/146.jpg
+#Genre Action | Adventure | Fantasy
+#Certificate PG_13
+#Runtime 106 mins.
+#Movie
+#Title Shutter Island
+#TitleImage images/titles/2404.jpg
+#Outline Drama set in 1954, U.S. Marshal Teddy Daniels is investigating the disappearance of a murderess who escaped from a hospital for the criminally insane and is presumed to be hiding nearby.
+#Director Martin Scorsese
+#DirectorImage images/persons/217.jpg
+#Actor Leonardo DiCaprio
+#ActorImage images/persons/138.jpg
+#Actor Emily Mortimer
+#ActorImage images/persons/607865.jpg
+#Actor Mark Ruffalo
+#ActorImage images/persons/749263.jpg
+#Genre Mystery | Thriller
+#Certificate R
+#Runtime 138 mins.
+#Movie
+#Title The Twilight Saga: Eclipse
+#TitleImage images/titles/2405.jpg
+#Outline As a string of mysterious killings grips Seattle, Bella, whose high school graduation is fast approaching, is forced to choose between her love for vampire Edward and her friendship with werewolf Jacob.
+#Director David Slade
+#DirectorImage images/persons/1720541.jpg
+#Actor Kristen Stewart
+#ActorImage images/persons/829576.jpg
+#Actor Robert Pattinson
+#ActorImage images/persons/1500155.jpg
+#Actor Taylor Lautner
+#ActorImage images/persons/1210124.jpg
+#Genre Adventure | Drama | Fantasy | Romance
+#Certificate PG_13
+#Runtime 124 mins.
+#Movie
+#Title Despicable Me
+#TitleImage images/titles/2406.jpg
+#Outline When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.
+#Director Pierre Coffin
+#DirectorImage images/persons/1853544.jpg
+#Director Chris Renaud
+#DirectorImage images/persons/719208.jpg
+#Actor Steve Carell
+#ActorImage images/persons/136797.jpg
+#Actor Jason Segel
+#ActorImage images/persons/781981.jpg
+#Actor Russell Brand
+#ActorImage images/persons/1258970.jpg
+#Genre Animation | Comedy | Crime | Family
+#Certificate PG
+#Runtime 95 mins.
+#Movie
+#Title The Social Network
+#TitleImage images/titles/2407.jpg
+#Outline Harvard student Mark Zuckerberg creates the social networking website that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.
+#Director David Fincher
+#DirectorImage images/persons/399.jpg
+#Actor Jesse Eisenberg
+#ActorImage images/persons/251986.jpg
+#Actor Andrew Garfield
+#ActorImage images/persons/1940449.jpg
+#Actor Justin Timberlake
+#ActorImage images/persons/5493.jpg
+#Genre Biography | Drama
+#Certificate PG_13
+#Runtime 120 mins.
+#Movie
+#Title The Expendables
+#TitleImage images/titles/2408.jpg
+#Outline A team of mercenaries is given the assignment to take out a corrupt military leader and a rogue CIA operative on a Latin American island.
+#Director Sylvester Stallone
+#DirectorImage images/persons/230.jpg
+#Actor Sylvester Stallone
+#ActorImage images/persons/230.jpg
+#Actor Jason Statham
+#ActorImage images/persons/5458.jpg
+#Actor Jet Li
+#ActorImage images/persons/1472.jpg
+#Genre Action | Thriller
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Black Swan
+#TitleImage images/titles/2409.jpg
+#Outline A ballet dancer wins the lead in "Swan Lake" and is perfect for the role of the delicate White Swan - Princess Odette - but slowly loses her mind as she becomes more and more like Odile, the Black Swan.
+#Director Darren Aronofsky
+#DirectorImage images/persons/4716.jpg
+#Actor Natalie Portman
+#ActorImage images/persons/204.jpg
+#Actor Mila Kunis
+#ActorImage images/persons/5109.jpg
+#Actor Vincent Cassel
+#ActorImage images/persons/1993.jpg
+#Genre Drama | Mystery | Thriller
+#Certificate R
+#Runtime 108 mins.
+#Movie
+#Title Easy A
+#TitleImage images/titles/2410.jpg
+#Outline A clean-cut high school student relies on the school's rumor mill to advance her social and financial standing.
+#Director Will Gluck
+#DirectorImage images/persons/323239.jpg
+#Actor Emma Stone
+#ActorImage images/persons/1297015.jpg
+#Actor Amanda Bynes
+#ActorImage images/persons/4789.jpg
+#Actor Penn Badgley
+#ActorImage images/persons/46112.jpg
+#Genre Comedy | Romance
+#Certificate PG_13
+#Runtime 92 mins.
+#Movie
+#Title The Town
+#TitleImage images/titles/2411.jpg
+#Outline As he plans his next job, a longtime thief tries to balance his feelings for a bank manager connected to one of his earlier heists, as well as the FBI agent looking to bring him and his crew down.
+#Director Ben Affleck
+#DirectorImage images/persons/255.jpg
+#Actor Ben Affleck
+#ActorImage images/persons/255.jpg
+#Actor Rebecca Hall
+#ActorImage images/persons/356017.jpg
+#Actor Jon Hamm
+#ActorImage images/persons/358316.jpg
+#Genre Crime | Drama | Thriller
+#Certificate R
+#Runtime 125 mins.
+#Movie
+#Title Iron Man 2
+#TitleImage images/titles/2412.jpg
+#Outline Because of his superhero alter ego, Tony Stark must contend with deadly issues involving the government, his own friends and new enemies.
+#Director Jon Favreau
+#DirectorImage images/persons/269463.jpg
+#Actor Robert Downey Jr.
+#ActorImage images/persons/375.jpg
+#Actor Mickey Rourke
+#ActorImage images/persons/620.jpg
+#Actor Gwyneth Paltrow
+#ActorImage images/persons/569.jpg
+#Genre Action | Adventure | Sci-Fi
+#Certificate PG_13
+#Runtime 124 mins.
+#Movie
+#Title How to Train Your Dragon
+#TitleImage images/titles/2413.jpg
+#Outline A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+#Director Dean DeBlois
+#DirectorImage images/persons/213450.jpg
+#Director Chris Sanders
+#DirectorImage images/persons/761498.jpg
+#Actor Jay Baruchel
+#ActorImage images/persons/59431.jpg
+#Actor Gerard Butler
+#ActorImage images/persons/124930.jpg
+#Actor Christopher Mintz-Plasse
+#ActorImage images/persons/2395586.jpg
+#Genre Animation | Adventure | Comedy | Drama | Family | Fantasy
+#Certificate PG
+#Runtime 98 mins.
+#Movie
+#Title Scott Pilgrim vs. the World
+#TitleImage images/titles/2414.jpg
+#Outline Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.
+#Director Edgar Wright
+#DirectorImage images/persons/942367.jpg
+#Actor Michael Cera
+#ActorImage images/persons/148418.jpg
+#Actor Mary Elizabeth Winstead
+#ActorImage images/persons/935541.jpg
+#Actor Kieran Culkin
+#ActorImage images/persons/1085.jpg
+#Genre Action | Comedy | Fantasy | Romance
+#Certificate PG_13
+#Runtime 112 mins.
+#Movie
+#Title Toy Story 3
+#TitleImage images/titles/2415.jpg
+#Outline The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+#Director Lee Unkrich
+#DirectorImage images/persons/881279.jpg
+#Actor Tom Hanks
+#ActorImage images/persons/158.jpg
+#Actor Tim Allen
+#ActorImage images/persons/741.jpg
+#Actor Joan Cusack
+#ActorImage images/persons/349.jpg
+#Genre Animation | Adventure | Comedy | Family | Fantasy
+#Certificate G
+#Runtime 103 mins.
+#Movie
+#Title Tangled
+#TitleImage images/titles/2416.jpg
+#Outline The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.
+#Director Nathan Greno
+#DirectorImage images/persons/1977355.jpg
+#Director Byron Howard
+#DirectorImage images/persons/397174.jpg
+#Actor Mandy Moore
+#ActorImage images/persons/601553.jpg
+#Actor Zachary Levi
+#ActorImage images/persons/1157048.jpg
+#Actor Donna Murphy
+#ActorImage images/persons/614220.jpg
+#Genre Animation | Comedy | Family | Fantasy | Musical | Romance
+#Certificate PG
+#Runtime 100 mins.
+#Movie
+#Title Red
+#TitleImage images/titles/2417.jpg
+#Outline When his peaceful life is threatened by a high-tech assassin, former black-ops agent Frank Moses reassembles his old team in a last ditch effort to survive and uncover his assailants.
+#Director Robert Schwentke
+#DirectorImage images/persons/777881.jpg
+#Actor Bruce Willis
+#ActorImage images/persons/246.jpg
+#Actor Helen Mirren
+#ActorImage images/persons/545.jpg
+#Actor Morgan Freeman
+#ActorImage images/persons/151.jpg
+#Genre Action | Comedy | Thriller
+#Certificate PG_13
+#Runtime 111 mins.
+#Movie
+#Title Insidious
+#TitleImage images/titles/2418.jpg
+#Outline A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.
+#Director James Wan
+#DirectorImage images/persons/1490123.jpg
+#Actor Patrick Wilson
+#ActorImage images/persons/933940.jpg
+#Actor Rose Byrne
+#ActorImage images/persons/126284.jpg
+#Actor Ty Simpkins
+#ActorImage images/persons/1339223.jpg
+#Genre Horror | Thriller
+#Certificate PG_13
+#Runtime 103 mins.
+#Movie
+#Title Alice in Wonderland
+#TitleImage images/titles/2419.jpg
+#Outline 19-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror.
+#Director Tim Burton
+#DirectorImage images/persons/318.jpg
+#Actor Mia Wasikowska
+#ActorImage images/persons/1985859.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Actor Helena Bonham Carter
+#ActorImage images/persons/307.jpg
+#Genre Adventure | Family | Fantasy
+#Certificate PG
+#Runtime 108 mins.
+#Movie
+#Title Grown Ups
+#TitleImage images/titles/2420.jpg
+#Outline After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.
+#Director Dennis Dugan
+#DirectorImage images/persons/240797.jpg
+#Actor Adam Sandler
+#ActorImage images/persons/1191.jpg
+#Actor Salma Hayek
+#ActorImage images/persons/161.jpg
+#Actor Kevin James
+#ActorImage images/persons/416673.jpg
+#Genre Comedy
+#Certificate PG_13
+#Runtime 102 mins.
+#Movie
+#Title Knight and Day
+#TitleImage images/titles/2421.jpg
+#Outline A story of a girl who gets mixed up with a spy trying to clear his name.
+#Director James Mangold
+#DirectorImage images/persons/3506.jpg
+#Actor Tom Cruise
+#ActorImage images/persons/129.jpg
+#Actor Cameron Diaz
+#ActorImage images/persons/139.jpg
+#Actor Peter Sarsgaard
+#ActorImage images/persons/765597.jpg
+#Genre Action | Adventure | Comedy | Thriller
+#Certificate PG_13
+#Runtime 109 mins.
+#Movie
+#Title Predators
+#TitleImage images/titles/2422.jpg
+#Outline A group of elite warriors are hunted by members of a merciless alien race known as Predators.
+#Director Nimród Antal
+#DirectorImage images/persons/30735.jpg
+#Actor Adrien Brody
+#ActorImage images/persons/4778.jpg
+#Actor Laurence Fishburne
+#ActorImage images/persons/401.jpg
+#Actor Topher Grace
+#ActorImage images/persons/333410.jpg
+#Genre Action | Adventure | Sci-Fi | Thriller
+#Certificate R
+#Runtime 107 mins.
+#Movie
+#Title TRON: Legacy
+#TitleImage images/titles/2423.jpg
+#Outline The son of a virtual world designer goes looking for his father and ends up inside the digital world that his father designed. He meets his father's creation turned bad and a unique ally who was born inside the digital domain of The Grid.
+#Director Joseph Kosinski
+#DirectorImage images/persons/2676052.jpg
+#Actor Jeff Bridges
+#ActorImage images/persons/313.jpg
+#Actor Garrett Hedlund
+#ActorImage images/persons/1330560.jpg
+#Actor Olivia Wilde
+#ActorImage images/persons/1312575.jpg
+#Genre Action | Adventure | Sci-Fi
+#Certificate PG
+#Runtime 125 mins.
+#Movie
+#Title The King's Speech
+#TitleImage images/titles/2424.jpg
+#Outline The story of King George VI of Britain, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it.
+#Director Tom Hooper
+#DirectorImage images/persons/393799.jpg
+#Actor Colin Firth
+#ActorImage images/persons/147.jpg
+#Actor Geoffrey Rush
+#ActorImage images/persons/1691.jpg
+#Actor Helena Bonham Carter
+#ActorImage images/persons/307.jpg
+#Genre Biography | Drama | History
+#Certificate R
+#Runtime 118 mins.
+#Movie
+#Title The Fighter
+#TitleImage images/titles/2425.jpg
+#Outline A look at the early years of boxer "Irish" Micky Ward and his brother who helped train him before going pro in the mid 1980s.
+#Director David O. Russell
+#DirectorImage images/persons/751102.jpg
+#Actor Mark Wahlberg
+#ActorImage images/persons/242.jpg
+#Actor Christian Bale
+#ActorImage images/persons/288.jpg
+#Actor Amy Adams
+#ActorImage images/persons/10736.jpg
+#Genre Biography | Drama | Sport
+#Certificate R
+#Runtime 116 mins.
+#Movie
+#Title The Book of Eli
+#TitleImage images/titles/2426.jpg
+#Outline A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.
+#Director The Hughes Brothers
+#DirectorImage images/persons/1428229.jpg
+#Actor Denzel Washington
+#ActorImage images/persons/243.jpg
+#Actor Mila Kunis
+#ActorImage images/persons/5109.jpg
+#Actor Ray Stevenson
+#ActorImage images/persons/829032.jpg
+#Genre Action | Adventure | Drama | Thriller | Western
+#Certificate R
+#Runtime 118 mins.
+#Movie
+#Title Harry Potter and the Deathly Hallows: Part 1
+#TitleImage images/titles/2427.jpg
+#Outline As Harry races against time and evil to destroy the Horcruxes, he uncovers the existence of three most powerful objects in the wizarding world: the Deathly Hallows.
+#Director David Yates
+#DirectorImage images/persons/946734.jpg
+#Actor Daniel Radcliffe
+#ActorImage images/persons/705356.jpg
+#Actor Emma Watson
+#ActorImage images/persons/914612.jpg
+#Actor Rupert Grint
+#ActorImage images/persons/342488.jpg
+#Genre Adventure | Drama | Fantasy | Mystery
+#Certificate PG_13
+#Runtime 146 mins.
+#Movie
+#Title Blue Valentine
+#TitleImage images/titles/2428.jpg
+#Outline The film centers on a contemporary married couple, charting their evolution over a span of years by cross-cutting between time periods.
+#Director Derek Cianfrance
+#DirectorImage images/persons/161834.jpg
+#Actor Ryan Gosling
+#ActorImage images/persons/331516.jpg
+#Actor Michelle Williams
+#ActorImage images/persons/931329.jpg
+#Actor John Doman
+#ActorImage images/persons/231283.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 112 mins.
+#Movie
+#Title Boy Wonder
+#TitleImage images/titles/2429.jpg
+#Outline A traumatized boy grows into a shy, determined teenager who patrols the mean streets of New York City, helping those in need and dishing out severe punishment to remorseless thugs.
+#Director Michael Morrissey
+#DirectorImage images/persons/3155184.jpg
+#Actor Caleb Steinmeyer
+#ActorImage images/persons/2222743.jpg
+#Actor Zulay Henao
+#ActorImage images/persons/1748489.jpg
+#Actor Bill Sage
+#ActorImage images/persons/756083.jpg
+#Genre Action | Crime | Drama | Thriller
+#Certificate R
+#Runtime 93 mins.
+#Movie
+#Title The Other Guys
+#TitleImage images/titles/2430.jpg
+#Outline Two mismatched New York City detectives seize an opportunity to step up like the city's top cops whom they idolize -- only things don't quite go as planned.
+#Director Adam McKay
+#DirectorImage images/persons/570912.jpg
+#Actor Will Ferrell
+#ActorImage images/persons/2071.jpg
+#Actor Mark Wahlberg
+#ActorImage images/persons/242.jpg
+#Actor Derek Jeter
+#ActorImage images/persons/1157013.jpg
+#Genre Action | Comedy | Crime
+#Certificate TV_MA
+#Runtime 107 mins.
+#Movie
+#Title Hot Tub Time Machine
+#TitleImage images/titles/2431.jpg
+#Outline A malfunctioning time machine at a ski resort takes a man back to 1986 with his two friends and nephew, where they must relive a fateful night and not change anything to make sure the nephew is born.
+#Director Steve Pink
+#DirectorImage images/persons/684336.jpg
+#Actor John Cusack
+#ActorImage images/persons/131.jpg
+#Actor Rob Corddry
+#ActorImage images/persons/1117791.jpg
+#Actor Craig Robinson
+#ActorImage images/persons/732497.jpg
+#Genre Adventure | Comedy | Sci-Fi
+#Certificate R
+#Runtime 101 mins.
+#Movie
+#Title Never Let Me Go
+#TitleImage images/titles/2432.jpg
+#Outline Kathy H, Tommy and Ruth are students at a mysterious boarding school. Kathy watches from afar as Ruth and Tommy fall in love, but fate has a greater threat in store for all of them.
+#Director Mark Romanek
+#DirectorImage images/persons/738796.jpg
+#Actor Keira Knightley
+#ActorImage images/persons/461136.jpg
+#Actor Carey Mulligan
+#ActorImage images/persons/1659547.jpg
+#Actor Andrew Garfield
+#ActorImage images/persons/1940449.jpg
+#Genre Drama | Fantasy | Romance
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Due Date
+#TitleImage images/titles/2433.jpg
+#Outline High-strung father-to-be Peter Highman is forced to hitch a ride with aspiring actor Ethan Tremblay on a road trip in order to make it to his child's birth on time.
+#Director Todd Phillips
+#DirectorImage images/persons/680846.jpg
+#Actor Robert Downey Jr.
+#ActorImage images/persons/375.jpg
+#Actor Zach Galifianakis
+#ActorImage images/persons/302108.jpg
+#Actor Michelle Monaghan
+#ActorImage images/persons/1157358.jpg
+#Genre Comedy | Drama
+#Certificate R
+#Runtime 95 mins.
+#Movie
+#Title Takers
+#TitleImage images/titles/2434.jpg
+#Outline A group of bank robbers find their multi-million dollar plan interrupted by a hard-boiled detective.
+#Director John Luessenhop
+#DirectorImage images/persons/525141.jpg
+#Actor Chris Brown
+#ActorImage images/persons/2093097.jpg
+#Actor Hayden Christensen
+#ActorImage images/persons/159789.jpg
+#Actor Matt Dillon
+#ActorImage images/persons/369.jpg
+#Genre Action | Crime | Drama
+#Certificate PG_13
+#Runtime 107 mins.
+#Movie
+#Title She's Out of My League
+#TitleImage images/titles/2435.jpg
+#Outline An average Joe meets the perfect woman, but his lack of confidence and the influence of his friends and family begin to pick away at the relationship.
+#Director Jim Field Smith
+#DirectorImage images/persons/1637768.jpg
+#Actor Jay Baruchel
+#ActorImage images/persons/59431.jpg
+#Actor Alice Eve
+#ActorImage images/persons/1404408.jpg
+#Actor T.J. Miller
+#ActorImage images/persons/2554352.jpg
+#Genre Comedy | Romance
+#Certificate R
+#Runtime 104 mins.
+#Movie
+#Title Love and Other Drugs
+#TitleImage images/titles/2436.jpg
+#Outline A woman suffering from Parkinson's befriends a drug rep working for Pfizer against 1990s Pittsburgh backdrop.
+#Director Edward Zwick
+#DirectorImage images/persons/1880.jpg
+#Actor Jake Gyllenhaal
+#ActorImage images/persons/350453.jpg
+#Actor Anne Hathaway
+#ActorImage images/persons/4266.jpg
+#Actor Judy Greer
+#ActorImage images/persons/339460.jpg
+#Genre Comedy | Drama | Romance
+#Certificate R
+#Runtime 112 mins.
+#Movie
+#Title Salt
+#TitleImage images/titles/2437.jpg
+#Outline A CIA agent goes on the run after a defector accuses her of being a Russian spy.
+#Director Phillip Noyce
+#DirectorImage images/persons/637518.jpg
+#Actor Angelina Jolie
+#ActorImage images/persons/1401.jpg
+#Actor Liev Schreiber
+#ActorImage images/persons/630.jpg
+#Actor Chiwetel Ejiofor
+#ActorImage images/persons/252230.jpg
+#Genre Action | Crime | Mystery | Thriller
+#Certificate TV_MA
+#Runtime 100 mins.
+#Movie
+#Title The A-Team
+#TitleImage images/titles/2438.jpg
+#Outline A group of Iraq War veterans looks to clear their name with the U.S. military, who suspect the four men of committing a crime for which they were framed.
+#Director Joe Carnahan
+#DirectorImage images/persons/138620.jpg
+#Actor Liam Neeson
+#ActorImage images/persons/553.jpg
+#Actor Bradley Cooper
+#ActorImage images/persons/177896.jpg
+#Actor Sharlto Copley
+#ActorImage images/persons/1663205.jpg
+#Genre Action | Adventure | Thriller
+#Certificate PG_13
+#Runtime 117 mins.
+#Movie
+#Title The Next Three Days
+#TitleImage images/titles/2439.jpg
+#Outline A married couple's life is turned upside down when the wife is accused of a murder.
+#Director Paul Haggis
+#DirectorImage images/persons/353673.jpg
+#Actor Russell Crowe
+#ActorImage images/persons/128.jpg
+#Actor Elizabeth Banks
+#ActorImage images/persons/6969.jpg
+#Actor Liam Neeson
+#ActorImage images/persons/553.jpg
+#Genre Crime | Drama | Romance | Thriller
+#Certificate PG_13
+#Runtime 133 mins.
+#Movie
+#Title Womb
+#TitleImage images/titles/2440.jpg
+#Outline A woman's consuming love forces her to bear the clone of her dead beloved. From his infancy to manhood, she faces the unavoidable complexities of her controversial decision.
+#Director Benedek Fliegauf
+#DirectorImage images/persons/1212903.jpg
+#Actor Eva Green
+#ActorImage images/persons/1200692.jpg
+#Actor Matt Smith
+#ActorImage images/persons/1741002.jpg
+#Actor Lesley Manville
+#ActorImage images/persons/544334.jpg
+#Genre Drama | Romance | Sci-Fi
+#Runtime 111 mins.
+#Movie
+#Title Tomorrow, When the War Began
+#TitleImage images/titles/2441.jpg
+#Outline When their country is invaded and their families are taken, eight unlikely high school teenagers band together to fight.
+#Director Stuart Beattie
+#DirectorImage images/persons/64181.jpg
+#Actor Caitlin Stasey
+#ActorImage images/persons/1466205.jpg
+#Actor Rachel Hurd-Wood
+#ActorImage images/persons/1248393.jpg
+#Actor Lincoln Lewis
+#ActorImage images/persons/2089884.jpg
+#Genre Action | Adventure | War
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Percy Jackson & the Olympians: The Lightning Thief
+#TitleImage images/titles/2442.jpg
+#Outline A teenager discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods.
+#Director Chris Columbus
+#DirectorImage images/persons/1060.jpg
+#Actor Logan Lerman
+#ActorImage images/persons/503567.jpg
+#Actor Kevin McKidd
+#ActorImage images/persons/571727.jpg
+#Actor Steve Coogan
+#ActorImage images/persons/176869.jpg
+#Genre Adventure | Fantasy | Mystery
+#Certificate PG
+#Runtime 118 mins.
+#Movie
+#Title Machete
+#TitleImage images/titles/2443.jpg
+#Outline After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.
+#Director Ethan Maniquis
+#DirectorImage images/persons/542450.jpg
+#Director Robert Rodriguez
+#DirectorImage images/persons/1675.jpg
+#Actor Danny Trejo
+#ActorImage images/persons/1803.jpg
+#Actor Michelle Rodriguez
+#ActorImage images/persons/735442.jpg
+#Actor Robert De Niro
+#ActorImage images/persons/134.jpg
+#Genre Action | Thriller
+#Certificate R
+#Runtime 105 mins.
+#Movie
+#Title True Grit
+#TitleImage images/titles/2444.jpg
+#Outline A tough U.S. Marshal helps a stubborn young woman track down her father's murderer.
+#Director Ethan Coen
+#DirectorImage images/persons/1053.jpg
+#Director Joel Coen
+#DirectorImage images/persons/1054.jpg
+#Actor Jeff Bridges
+#ActorImage images/persons/313.jpg
+#Actor Matt Damon
+#ActorImage images/persons/354.jpg
+#Actor Hailee Steinfeld
+#ActorImage images/persons/2794962.jpg
+#Genre Adventure | Drama | Western
+#Certificate PG_13
+#Runtime 110 mins.
+#Movie
+#Title Megamind
+#TitleImage images/titles/2445.jpg
+#Outline The supervillain Megamind finally defeats his nemesis, the superhero Metro Man. But without a hero, he loses all purpose and must find new meaning to his life.
+#Director Tom McGrath
+#DirectorImage images/persons/569891.jpg
+#Actor Will Ferrell
+#ActorImage images/persons/2071.jpg
+#Actor Jonah Hill
+#ActorImage images/persons/1706767.jpg
+#Actor Brad Pitt
+#ActorImage images/persons/93.jpg
+#Genre Animation | Action | Comedy | Family | Sci-Fi
+#Certificate PG
+#Runtime 95 mins.
+#Movie
+#Title Magic
+#TitleImage images/titles/2446.jpg
+#Outline "Magic" the dog is an angel sent to heal a broken family. Brad is a lawyer, doing the best he can to...
+#Director Robert Davi
+#DirectorImage images/persons/1108.jpg
+#Actor Leo Grillo
+#ActorImage images/persons/342041.jpg
+#Actor Sammi Hanratty
+#ActorImage images/persons/1767820.jpg
+#Actor Lori Heuring
+#ActorImage images/persons/5010.jpg
+#Genre Adventure | Family
+#Movie
+#Title Charlie St. Cloud
+#TitleImage images/titles/2447.jpg
+#Outline Charlie St. Cloud has been given the gift of seeing his deceased brother, but when a new love interest is in trouble he must choose between saving a life or continuing to see his brother everyday.
+#Director Burr Steers
+#DirectorImage images/persons/824882.jpg
+#Actor Zac Efron
+#ActorImage images/persons/1374980.jpg
+#Actor Kim Basinger
+#ActorImage images/persons/107.jpg
+#Actor Charlie Tahan
+#ActorImage images/persons/2253071.jpg
+#Genre Drama | Fantasy | Romance
+#Certificate PG_13
+#Runtime 99 mins.
+#Movie
+#Title 127 Hours
+#TitleImage images/titles/2448.jpg
+#Outline A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.
+#Director Danny Boyle
+#DirectorImage images/persons/965.jpg
+#Actor James Franco
+#ActorImage images/persons/290556.jpg
+#Actor Amber Tamblyn
+#ActorImage images/persons/848554.jpg
+#Actor Kate Mara
+#ActorImage images/persons/544718.jpg
+#Genre Adventure | Biography | Drama | Thriller
+#Certificate R
+#Runtime 94 mins.
+#Movie
+#Title Robin Hood
+#TitleImage images/titles/2449.jpg
+#Outline In 13th century England, Robin and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.
+#Director Ridley Scott
+#DirectorImage images/persons/631.jpg
+#Actor Russell Crowe
+#ActorImage images/persons/128.jpg
+#Actor Cate Blanchett
+#ActorImage images/persons/949.jpg
+#Actor Matthew Macfadyen
+#ActorImage images/persons/532193.jpg
+#Genre Action | Adventure | Drama
+#Certificate PG_13
+#Runtime 140 mins.
+#Movie
+#Title Prince of Persia: The Sands of Time
+#TitleImage images/titles/2450.jpg
+#Outline A young fugitive prince and princess must stop a villain who unknowingly threatens to destroy the world with a special dagger that enables the magic sand inside to reverse time.
+#Director Mike Newell
+#DirectorImage images/persons/1565.jpg
+#Actor Jake Gyllenhaal
+#ActorImage images/persons/350453.jpg
+#Actor Gemma Arterton
+#ActorImage images/persons/2605345.jpg
+#Actor Ben Kingsley
+#ActorImage images/persons/1426.jpg
+#Genre Action | Adventure | Fantasy | Romance
+#Certificate PG_13
+#Runtime 116 mins.

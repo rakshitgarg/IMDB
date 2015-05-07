@@ -1,0 +1,752 @@
+#Movie
+#Title Goodfellas
+#TitleImage images/titles/1401.jpg
+#Outline Henry Hill and his friends work their way up through the mob hierarchy.
+#Director Martin Scorsese
+#DirectorImage images/persons/217.jpg
+#Actor Robert De Niro
+#ActorImage images/persons/134.jpg
+#Actor Ray Liotta
+#ActorImage images/persons/501.jpg
+#Actor Joe Pesci
+#ActorImage images/persons/582.jpg
+#Genre Biography | Crime | Drama | Thriller
+#Certificate R
+#Runtime 146 mins.
+#Movie
+#Title Total Recall
+#TitleImage images/titles/1402.jpg
+#Outline When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real, or does he?
+#Director Paul Verhoeven
+#DirectorImage images/persons/682.jpg
+#Actor Arnold Schwarzenegger
+#ActorImage images/persons/216.jpg
+#Actor Sharon Stone
+#ActorImage images/persons/232.jpg
+#Actor Michael Ironside
+#ActorImage images/persons/461.jpg
+#Genre Action | Adventure | Sci-Fi
+#Certificate R
+#Runtime 113 mins.
+#Movie
+#Title Home Alone
+#TitleImage images/titles/1403.jpg
+#Outline An 8-year-old boy, who is accidentally left behind while his family flies to France for Christmas, has to defend his home against idiotic burglars.
+#Director Chris Columbus
+#DirectorImage images/persons/1060.jpg
+#Actor Macaulay Culkin
+#ActorImage images/persons/346.jpg
+#Actor Joe Pesci
+#ActorImage images/persons/582.jpg
+#Actor Daniel Stern
+#ActorImage images/persons/827663.jpg
+#Genre Adventure | Comedy | Family
+#Certificate PG
+#Runtime 103 mins.
+#Movie
+#Title Edward Scissorhands
+#TitleImage images/titles/1404.jpg
+#Outline An uncommonly gentle young man, who happens to have scissors for hands, falls in love with a beautiful teenage girl.
+#Director Tim Burton
+#DirectorImage images/persons/318.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Actor Winona Ryder
+#ActorImage images/persons/213.jpg
+#Actor Dianne Wiest
+#ActorImage images/persons/1848.jpg
+#Genre Drama | Fantasy | Romance
+#Certificate PG_13
+#Runtime 105 mins.
+#Movie
+#Title The Godfather: Part III
+#TitleImage images/titles/1405.jpg
+#Outline In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don Michael Corleone seeks to vow for his sins while taking a young protégé under his wing.
+#Director Francis Ford Coppola
+#DirectorImage images/persons/338.jpg
+#Actor Al Pacino
+#ActorImage images/persons/199.jpg
+#Actor Diane Keaton
+#ActorImage images/persons/473.jpg
+#Actor Andy Garcia
+#ActorImage images/persons/412.jpg
+#Genre Crime | Drama | Mystery | Thriller
+#Certificate R
+#Runtime 162 mins.
+#Movie
+#Title Pretty Woman
+#TitleImage images/titles/1406.jpg
+#Outline A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.
+#Director Garry Marshall
+#DirectorImage images/persons/5190.jpg
+#Actor Richard Gere
+#ActorImage images/persons/152.jpg
+#Actor Julia Roberts
+#ActorImage images/persons/210.jpg
+#Actor Jason Alexander
+#ActorImage images/persons/4517.jpg
+#Genre Comedy | Romance
+#Certificate R
+#Runtime 119 mins.
+#Movie
+#Title Ghost
+#TitleImage images/titles/1407.jpg
+#Outline After being killed during a botched mugging, a man's love for his partner enables him to remain on earth as a ghost.
+#Director Jerry Zucker
+#DirectorImage images/persons/958387.jpg
+#Actor Patrick Swayze
+#ActorImage images/persons/664.jpg
+#Actor Demi Moore
+#ActorImage images/persons/193.jpg
+#Actor Whoopi Goldberg
+#ActorImage images/persons/155.jpg
+#Genre Drama | Fantasy | Mystery | Romance | Thriller
+#Certificate PG_13
+#Runtime 127 mins.
+#Movie
+#Title The Hunt for Red October
+#TitleImage images/titles/1408.jpg
+#Outline In 1984, the USSR's best submarine captain in their newest sub violates orders and heads for the USA. Is he trying to defect, or to start a war?
+#Director John McTiernan
+#DirectorImage images/persons/1532.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Alec Baldwin
+#ActorImage images/persons/285.jpg
+#Actor Scott Glenn
+#ActorImage images/persons/1277.jpg
+#Genre Action | Adventure | Thriller
+#Certificate PG
+#Runtime 134 mins.
+#Movie
+#Title Die Hard 2
+#TitleImage images/titles/1409.jpg
+#Outline John McClane, officer of the LAPD and hero of the Nakatomi Hostage Crisis, attempts to avert disaster as rogue military officials seize control of Dulles International Airport in Washington, D.C.
+#Director Renny Harlin
+#DirectorImage images/persons/1317.jpg
+#Actor Bruce Willis
+#ActorImage images/persons/246.jpg
+#Actor William Atherton
+#ActorImage images/persons/40472.jpg
+#Actor Bonnie Bedelia
+#ActorImage images/persons/889.jpg
+#Genre Action | Crime | Thriller
+#Certificate R
+#Runtime 124 mins.
+#Movie
+#Title Dances with Wolves
+#TitleImage images/titles/1410.jpg
+#Outline Lt. John Dunbar, exiled to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.
+#Director Kevin Costner
+#DirectorImage images/persons/126.jpg
+#Actor Kevin Costner
+#ActorImage images/persons/126.jpg
+#Actor Mary McDonnell
+#ActorImage images/persons/1521.jpg
+#Actor Graham Greene
+#ActorImage images/persons/1295.jpg
+#Genre Adventure | Drama | Western
+#Certificate PG_13
+#Runtime 181 mins.
+#Movie
+#Title Teenage Mutant Ninja Turtles
+#TitleImage images/titles/1411.jpg
+#Outline A quartet of humanoid turtles trained by their mentor in ninjitsu must learn to pull together in order to face the menace of Shredder and the Foot Clan.
+#Director Steve Barron
+#DirectorImage images/persons/6625.jpg
+#Actor Judith Hoag
+#ActorImage images/persons/387432.jpg
+#Actor Elias Koteas
+#ActorImage images/persons/480.jpg
+#Actor Josh Pais
+#ActorImage images/persons/656929.jpg
+#Genre Action | Adventure | Comedy | Crime | Drama | Family | Sci-Fi
+#Certificate PG
+#Runtime 93 mins.
+#Movie
+#Title Cry-Baby
+#TitleImage images/titles/1412.jpg
+#Outline In 1950s Baltimore, a bad-boy with a heart of gold wins the love of a good-girl, whose boyfriend sets out for revenge.
+#Director John Waters
+#DirectorImage images/persons/691.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Actor Ricki Lake
+#ActorImage images/persons/1442.jpg
+#Actor Amy Locane
+#ActorImage images/persons/504.jpg
+#Genre Comedy | Musical | Romance
+#Certificate PG_13
+#Runtime 85 mins.
+#Movie
+#Title Back to the Future Part III
+#TitleImage images/titles/1413.jpg
+#Outline Enjoying a peaceable existence in 1885, Doctor Emmet Brown is about to be killed by Buford "Mad Dog" Tannen. Marty McFly travels back in time to save his friend.
+#Director Robert Zemeckis
+#DirectorImage images/persons/709.jpg
+#Actor Michael J. Fox
+#ActorImage images/persons/150.jpg
+#Actor Christopher Lloyd
+#ActorImage images/persons/502.jpg
+#Actor Mary Steenburgen
+#ActorImage images/persons/5460.jpg
+#Genre Adventure | Comedy | Sci-Fi | Western
+#Certificate PG
+#Runtime 118 mins.
+#Movie
+#Title Misery
+#TitleImage images/titles/1414.jpg
+#Outline A famous novelist is "rescued" from a car crash by an obsessed fan.
+#Director Rob Reiner
+#DirectorImage images/persons/1661.jpg
+#Actor James Caan
+#ActorImage images/persons/1001.jpg
+#Actor Kathy Bates
+#ActorImage images/persons/870.jpg
+#Actor Richard Farnsworth
+#ActorImage images/persons/2070.jpg
+#Genre Thriller
+#Certificate R
+#Runtime 107 mins.
+#Movie
+#Title Predator 2
+#TitleImage images/titles/1415.jpg
+#Outline Amidst a territorial gang-war, a sophisticated alien hunter stalks the citizens of Los Angeles and the only man between him and his prey is veteran LAPD officer, Lieutenant Mike Harrigan.
+#Director Stephen Hopkins
+#DirectorImage images/persons/394280.jpg
+#Actor Danny Glover
+#ActorImage images/persons/418.jpg
+#Actor Gary Busey
+#ActorImage images/persons/997.jpg
+#Actor Kevin Peter Hall
+#ActorImage images/persons/1310.jpg
+#Genre Action | Sci-Fi | Thriller
+#Certificate TV_14
+#Runtime 108 mins.
+#Movie
+#Title Kindergarten Cop
+#TitleImage images/titles/1416.jpg
+#Outline A tough cop is given his most difficult assignment: masquerade as a a kindergarten teacher in order to find a drug dealer.
+#Director Ivan Reitman
+#DirectorImage images/persons/718645.jpg
+#Actor Arnold Schwarzenegger
+#ActorImage images/persons/216.jpg
+#Actor Penelope Ann Miller
+#ActorImage images/persons/542.jpg
+#Actor Pamela Reed
+#ActorImage images/persons/715622.jpg
+#Genre Action | Comedy | Crime | Thriller
+#Certificate PG_13
+#Runtime 111 mins.
+#Movie
+#Title Awakenings
+#TitleImage images/titles/1417.jpg
+#Outline The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them.
+#Director Penny Marshall
+#DirectorImage images/persons/1508.jpg
+#Actor Robert De Niro
+#ActorImage images/persons/134.jpg
+#Actor Robin Williams
+#ActorImage images/persons/245.jpg
+#Actor Julie Kavner
+#ActorImage images/persons/1413.jpg
+#Genre Biography | Drama
+#Certificate PG_13
+#Runtime 121 mins.
+#Movie
+#Title Tremors
+#TitleImage images/titles/1418.jpg
+#Outline Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.
+#Director Ron Underwood
+#DirectorImage images/persons/881038.jpg
+#Actor Kevin Bacon
+#ActorImage images/persons/102.jpg
+#Actor Fred Ward
+#ActorImage images/persons/911542.jpg
+#Actor Finn Carter
+#ActorImage images/persons/141617.jpg
+#Genre Comedy | Horror | Sci-Fi
+#Certificate PG_13
+#Runtime 96 mins.
+#Movie
+#Title Dick Tracy
+#TitleImage images/titles/1419.jpg
+#Outline The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.
+#Director Warren Beatty
+#DirectorImage images/persons/886.jpg
+#Actor Warren Beatty
+#ActorImage images/persons/886.jpg
+#Actor Madonna
+#ActorImage images/persons/187.jpg
+#Actor Al Pacino
+#ActorImage images/persons/199.jpg
+#Genre Action | Comedy | Crime | Romance | Thriller
+#Certificate PG
+#Runtime 105 mins.
+#Movie
+#Title Miller's Crossing
+#TitleImage images/titles/1420.jpg
+#Outline Tom Regan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.
+#Director Joel Coen
+#DirectorImage images/persons/1054.jpg
+#Actor Gabriel Byrne
+#ActorImage images/persons/321.jpg
+#Actor Albert Finney
+#ActorImage images/persons/1215.jpg
+#Actor John Turturro
+#ActorImage images/persons/1806.jpg
+#Genre Crime | Drama | Thriller
+#Certificate R
+#Runtime 115 mins.
+#Movie
+#Title Jacob's Ladder
+#TitleImage images/titles/1421.jpg
+#Outline Mourning his dead child, a haunted Vietnam vet attempts to discover his past while suffering from a severe case of disassociation. To do so, he must decipher reality and life from his own dreams, delusion, and perception of death.
+#Director Adrian Lyne
+#DirectorImage images/persons/1490.jpg
+#Actor Tim Robbins
+#ActorImage images/persons/209.jpg
+#Actor Elizabeth Peña
+#ActorImage images/persons/1615.jpg
+#Actor Danny Aiello
+#ActorImage images/persons/732.jpg
+#Genre Drama | Horror | Mystery
+#Certificate R
+#Runtime 113 mins.
+#Movie
+#Title The Witches
+#TitleImage images/titles/1422.jpg
+#Outline A young boy stumbles onto a witch convention and must stop them, even after he has been turned into a mouse.
+#Director Nicolas Roeg
+#DirectorImage images/persons/1676.jpg
+#Actor Anjelica Huston
+#ActorImage images/persons/1378.jpg
+#Actor Mai Zetterling
+#ActorImage images/persons/955195.jpg
+#Actor Jasen Fisher
+#ActorImage images/persons/279557.jpg
+#Genre Fantasy | Family | Horror
+#Certificate PG
+#Runtime 91 mins.
+#Movie
+#Title La Femme Nikita
+#TitleImage images/titles/1423.jpg
+#Outline Convicted felon Nikita, instead of going to jail, is given a new identity and trained, stylishly, as a top secret spy/assassin.
+#Director Luc Besson
+#DirectorImage images/persons/108.jpg
+#Actor Anne Parillaud
+#ActorImage images/persons/1594.jpg
+#Actor Marc Duret
+#ActorImage images/persons/244019.jpg
+#Actor Patrick Fontana
+#ActorImage images/persons/284938.jpg
+#Genre Action | Thriller
+#Certificate R
+#Runtime 118 mins.
+#Movie
+#Title Wild at Heart
+#TitleImage images/titles/1424.jpg
+#Outline Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.
+#Director David Lynch
+#DirectorImage images/persons/186.jpg
+#Actor Nicolas Cage
+#ActorImage images/persons/115.jpg
+#Actor Laura Dern
+#ActorImage images/persons/368.jpg
+#Actor Willem Dafoe
+#ActorImage images/persons/353.jpg
+#Genre Crime | Thriller
+#Certificate R
+#Runtime 125 mins.
+#Movie
+#Title Days of Thunder
+#TitleImage images/titles/1425.jpg
+#Outline A young hot-shot stock car driver gets his chance to compete at the top level.
+#Director Tony Scott
+#DirectorImage images/persons/1716.jpg
+#Actor Tom Cruise
+#ActorImage images/persons/129.jpg
+#Actor Nicole Kidman
+#ActorImage images/persons/173.jpg
+#Actor Robert Duvall
+#ActorImage images/persons/380.jpg
+#Genre Action | Drama | Romance | Sport
+#Certificate PG_13
+#Runtime 107 mins.
+#Movie
+#Title Lord of the Flies
+#TitleImage images/titles/1426.jpg
+#Outline Stranded on an island, a group of schoolboys degenerate into savagery.
+#Director Harry Hook
+#DirectorImage images/persons/393591.jpg
+#Actor Balthazar Getty
+#ActorImage images/persons/1267.jpg
+#Actor Chris Furrh
+#ActorImage images/persons/299077.jpg
+#Actor Danuel Pipoly
+#ActorImage images/persons/684999.jpg
+#Genre Adventure | Drama | Thriller
+#Certificate R
+#Runtime 90 mins.
+#Movie
+#Title Rocky V
+#TitleImage images/titles/1427.jpg
+#Outline Reluctantly retired from boxing and back from riches to rags, Rocky takes on a new protege who betrays him; As the champ's son must adjust to his family's new life after bankruptcy.
+#Director John G. Avildsen
+#DirectorImage images/persons/814.jpg
+#Actor Sylvester Stallone
+#ActorImage images/persons/230.jpg
+#Actor Talia Shire
+#ActorImage images/persons/1735.jpg
+#Actor Burt Young
+#ActorImage images/persons/949350.jpg
+#Genre Drama | Sport
+#Certificate PG_13
+#Runtime 104 mins.
+#Movie
+#Title Tales from the Darkside: The Movie
+#TitleImage images/titles/1428.jpg
+#Outline In anthology style, a child tells three stories of horror to keep from being eaten by a witch.
+#Director John Harrison
+#DirectorImage images/persons/365666.jpg
+#Actor Deborah Harry
+#ActorImage images/persons/1323.jpg
+#Actor Matthew Lawrence
+#ActorImage images/persons/492932.jpg
+#Actor Christian Slater
+#ActorImage images/persons/225.jpg
+#Genre Comedy | Horror | Thriller
+#Certificate R
+#Runtime 93 mins.
+#Movie
+#Title Darkman
+#TitleImage images/titles/1429.jpg
+#Outline A hideously scarred and mentally unstable scientist seeks revenge against the crooks who made him like that.
+#Director Sam Raimi
+#DirectorImage images/persons/600.jpg
+#Actor Liam Neeson
+#ActorImage images/persons/553.jpg
+#Actor Frances McDormand
+#ActorImage images/persons/531.jpg
+#Actor Colin Friels
+#ActorImage images/persons/295506.jpg
+#Genre Action | Crime | Sci-Fi | Thriller
+#Certificate R
+#Runtime 96 mins.
+#Movie
+#Title RoboCop 2
+#TitleImage images/titles/1430.jpg
+#Outline A corrupt businesswoman seeks to disable Robocop in favor of her own model of cyborg.
+#Director Irvin Kershner
+#DirectorImage images/persons/449984.jpg
+#Actor Peter Weller
+#ActorImage images/persons/693.jpg
+#Actor Belinda Bauer
+#ActorImage images/persons/873.jpg
+#Actor John Glover
+#ActorImage images/persons/1278.jpg
+#Genre Action | Crime | Sci-Fi | Thriller
+#Certificate R
+#Runtime 117 mins.
+#Movie
+#Title Young Guns II
+#TitleImage images/titles/1431.jpg
+#Outline Billy "The Kid" and his gang is wanted by the law, and when "Doc" Scurlock and Chavez are captured, Billy has to save them...
+#Director Geoff Murphy
+#DirectorImage images/persons/614276.jpg
+#Actor Emilio Estevez
+#ActorImage images/persons/389.jpg
+#Actor Kiefer Sutherland
+#ActorImage images/persons/662.jpg
+#Actor Lou Diamond Phillips
+#ActorImage images/persons/1617.jpg
+#Genre Adventure | Western
+#Certificate PG_13
+#Runtime 104 mins.
+#Movie
+#Title Flatliners
+#TitleImage images/titles/1432.jpg
+#Outline Medical students bring themselves near death; their experiment begins to go awry.
+#Director Joel Schumacher
+#DirectorImage images/persons/1708.jpg
+#Actor Kiefer Sutherland
+#ActorImage images/persons/662.jpg
+#Actor Kevin Bacon
+#ActorImage images/persons/102.jpg
+#Actor Julia Roberts
+#ActorImage images/persons/210.jpg
+#Genre Drama | Horror | Sci-Fi | Thriller
+#Certificate R
+#Runtime 115 mins.
+#Movie
+#Title Gremlins 2: The New Batch
+#TitleImage images/titles/1433.jpg
+#Outline The Gremlins are back, and this time, they've taken total control over the building of a media mogul.
+#Director Joe Dante
+#DirectorImage images/persons/1102.jpg
+#Actor Zach Galligan
+#ActorImage images/persons/2090.jpg
+#Actor Phoebe Cates
+#ActorImage images/persons/121.jpg
+#Actor John Glover
+#ActorImage images/persons/1278.jpg
+#Genre Comedy | Fantasy | Horror
+#Certificate PG_13
+#Runtime 106 mins.
+#Movie
+#Title Night of the Living Dead
+#TitleImage images/titles/1434.jpg
+#Outline The unburied dead return to life and seek human victims.
+#Director Tom Savini
+#DirectorImage images/persons/767741.jpg
+#Actor Tony Todd
+#ActorImage images/persons/865302.jpg
+#Actor Patricia Tallman
+#ActorImage images/persons/848191.jpg
+#Actor Tom Towles
+#ActorImage images/persons/869981.jpg
+#Genre Horror
+#Certificate R
+#Runtime 92 mins.
+#Movie
+#Title Arachnophobia
+#TitleImage images/titles/1435.jpg
+#Outline South American killer spider hitches a lift to the US in a coffin and starts to breed and kill.
+#Director Frank Marshall
+#DirectorImage images/persons/550881.jpg
+#Actor Jeff Daniels
+#ActorImage images/persons/1099.jpg
+#Actor Julian Sands
+#ActorImage images/persons/1696.jpg
+#Actor John Goodman
+#ActorImage images/persons/422.jpg
+#Genre Comedy | Sci-Fi | Thriller | Horror
+#Certificate PG_13
+#Runtime 103 mins.
+#Movie
+#Title Hamlet
+#TitleImage images/titles/1436.jpg
+#Outline Hamlet, Prince of Denmark, finds out that his uncle Claudius killed his father to obtain the throne, and plans revenge.
+#Director Franco Zeffirelli
+#DirectorImage images/persons/1874.jpg
+#Actor Mel Gibson
+#ActorImage images/persons/154.jpg
+#Actor Glenn Close
+#ActorImage images/persons/335.jpg
+#Actor Alan Bates
+#ActorImage images/persons/869.jpg
+#Genre Drama | Romance
+#Certificate PG
+#Runtime 130 mins.
+#Movie
+#Title The Rescuers Down Under
+#TitleImage images/titles/1437.jpg
+#Outline The RAS agents, Miss Bianca and Bernard, race to Australia to save a boy and a rare golden eagle from a murderous poacher
+#Director Hendel Butoy
+#DirectorImage images/persons/125186.jpg
+#Director Mike Gabriel
+#DirectorImage images/persons/300265.jpg
+#Actor Bob Newhart
+#ActorImage images/persons/627878.jpg
+#Actor Eva Gabor
+#ActorImage images/persons/1247.jpg
+#Actor John Candy
+#ActorImage images/persons/1006.jpg
+#Genre Animation | Adventure | Crime | Drama | Family | Fantasy | Mystery
+#Certificate G
+#Runtime 77 mins.
+#Movie
+#Title King of New York
+#TitleImage images/titles/1438.jpg
+#Outline A former drug lord returns from prison determined to wipe out all his competition and distribute the profits of his operations to New York's poor and lower classes in this stylish and ultra violent modern twist on Robin Hood.
+#Director Abel Ferrara
+#DirectorImage images/persons/1206.jpg
+#Actor Christopher Walken
+#ActorImage images/persons/686.jpg
+#Actor David Caruso
+#ActorImage images/persons/325.jpg
+#Actor Laurence Fishburne
+#ActorImage images/persons/401.jpg
+#Genre Crime | Thriller
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Revenge
+#TitleImage images/titles/1439.jpg
+#Outline Michael "Jay" Cochran has just left the Navy after 12 years. He's not quite sure what he's going to do...
+#Director Tony Scott
+#DirectorImage images/persons/1716.jpg
+#Actor Kevin Costner
+#ActorImage images/persons/126.jpg
+#Actor Anthony Quinn
+#ActorImage images/persons/63.jpg
+#Actor Madeleine Stowe
+#ActorImage images/persons/656.jpg
+#Genre Crime | Drama | Romance | Thriller
+#Certificate R
+#Runtime 124 mins.
+#Movie
+#Title Troll 2
+#TitleImage images/titles/1440.jpg
+#Outline A family vacationing in a small town discovers the entire town is inhabited by goblins in disguise as humans, who plan to eat them.
+#Director Claudio Fragasso
+#DirectorImage images/persons/289576.jpg
+#Actor Michael Stephenson
+#ActorImage images/persons/827294.jpg
+#Actor George Hardy
+#ActorImage images/persons/362643.jpg
+#Actor Margo Prey
+#ActorImage images/persons/696705.jpg
+#Genre Fantasy | Horror
+#Certificate PG_13
+#Runtime 95 mins.
+#Movie
+#Title 3 Men and a Little Lady
+#TitleImage images/titles/1441.jpg
+#Outline Sylvia's work increasingly takes her away from the three men who help bring up Mary, her daughter. When...
+#Director Emile Ardolino
+#DirectorImage images/persons/1915.jpg
+#Actor Tom Selleck
+#ActorImage images/persons/633.jpg
+#Actor Steve Guttenberg
+#ActorImage images/persons/430.jpg
+#Actor Ted Danson
+#ActorImage images/persons/1101.jpg
+#Genre Comedy | Drama | Family | Romance
+#Certificate PG
+#Runtime 104 mins.
+#Movie
+#Title Lionheart
+#TitleImage images/titles/1442.jpg
+#Outline Lyon Gaultier is a deserter in the Foreign Legion arriving in the USA entirely hard up. He finds his...
+#Director Sheldon Lettich
+#DirectorImage images/persons/504802.jpg
+#Actor Jean-Claude Van Damme
+#ActorImage images/persons/241.jpg
+#Actor Harrison Page
+#ActorImage images/persons/656188.jpg
+#Actor Deborah Rennard
+#ActorImage images/persons/719612.jpg
+#Genre Action | Drama | Sport
+#Certificate R
+#Runtime 105 mins.
+#Movie
+#Title Henry & June
+#TitleImage images/titles/1443.jpg
+#Outline In 1931 Paris, Anais Nin meets Henry Miller and his wife June. Intrigued by them both, she begins expanding...
+#Director Philip Kaufman
+#DirectorImage images/persons/442241.jpg
+#Actor Fred Ward
+#ActorImage images/persons/911542.jpg
+#Actor Uma Thurman
+#ActorImage images/persons/235.jpg
+#Actor Maria de Medeiros
+#ActorImage images/persons/210218.jpg
+#Genre Biography | Drama
+#Certificate NC_17
+#Runtime 136 mins.
+#Movie
+#Title The Bonfire of the Vanities
+#TitleImage images/titles/1444.jpg
+#Outline Financial "Master of the Universe" Sherman McCoy sees his life unravel when his mistress Maria Ruskin hits a black boy with his car...
+#Director Brian De Palma
+#DirectorImage images/persons/361.jpg
+#Actor Tom Hanks
+#ActorImage images/persons/158.jpg
+#Actor Bruce Willis
+#ActorImage images/persons/246.jpg
+#Actor Melanie Griffith
+#ActorImage images/persons/429.jpg
+#Genre Comedy | Drama
+#Certificate R
+#Runtime 125 mins.
+#Movie
+#Title Tie Me Up! Tie Me Down!
+#TitleImage images/titles/1445.jpg
+#Outline Ricky is released from a mental hospital, and knows exactly what he wants to do. He hunts down Marina...
+#Director Pedro Almodóvar
+#DirectorImage images/persons/264.jpg
+#Actor Victoria Abril
+#ActorImage images/persons/721.jpg
+#Actor Antonio Banderas
+#ActorImage images/persons/104.jpg
+#Actor Loles León
+#ActorImage images/persons/508249.jpg
+#Genre Comedy | Crime | Drama | Romance
+#Certificate X
+#Runtime 111 mins.
+#Movie
+#Title Bird on a Wire
+#TitleImage images/titles/1446.jpg
+#Outline A FBI informant has kept his new identity secret for 15 years, now an old flame has recognised him and the bad guys are back for revenge.
+#Director John Badham
+#DirectorImage images/persons/824.jpg
+#Actor Mel Gibson
+#ActorImage images/persons/154.jpg
+#Actor Goldie Hawn
+#ActorImage images/persons/443.jpg
+#Actor David Carradine
+#ActorImage images/persons/1016.jpg
+#Genre Action | Adventure | Comedy | Thriller
+#Certificate PG_13
+#Runtime 110 mins.
+#Movie
+#Title Mermaids
+#TitleImage images/titles/1447.jpg
+#Outline An unconventional single mother relocates with her two daughters to a small Massachusetts town in 1963, where a number of events and relationships both challenge and strengthen their familial bonds.
+#Director Richard Benjamin
+#DirectorImage images/persons/907.jpg
+#Actor Cher
+#ActorImage images/persons/333.jpg
+#Actor Bob Hoskins
+#ActorImage images/persons/1364.jpg
+#Actor Winona Ryder
+#ActorImage images/persons/213.jpg
+#Genre Comedy | Drama | Romance
+#Certificate PG_13
+#Runtime 110 mins.
+#Movie
+#Title Hardware
+#TitleImage images/titles/1448.jpg
+#Outline A wandering soldier finds a robot head in the post-apocalyptic desert. He brings it back to his girlfriend for use in one of her sculptures...
+#Director Richard Stanley
+#DirectorImage images/persons/822582.jpg
+#Actor Dylan McDermott
+#ActorImage images/persons/1518.jpg
+#Actor Stacey Travis
+#ActorImage images/persons/6826.jpg
+#Actor John Lynch
+#ActorImage images/persons/1487.jpg
+#Genre Sci-Fi | Thriller
+#Certificate R
+#Runtime 94 mins.
+#Movie
+#Title Presumed Innocent
+#TitleImage images/titles/1449.jpg
+#Outline When the woman deputy prosecutor R.K. Sabich had an affair with is murdered the prosecutor asks him to lead the investigation. When Sabich digs too deeply he finds himself framed for the murder.
+#Director Alan J. Pakula
+#DirectorImage images/persons/1587.jpg
+#Actor Harrison Ford
+#ActorImage images/persons/148.jpg
+#Actor Raul Julia
+#ActorImage images/persons/471.jpg
+#Actor Greta Scacchi
+#ActorImage images/persons/627.jpg
+#Genre Crime | Drama | Mystery | Thriller
+#Certificate R
+#Runtime 127 mins.
+#Movie
+#Title Death Warrant
+#TitleImage images/titles/1450.jpg
+#Outline The Canadian policeman Louis Burke is assigned in a jail to investigate in some murders of prisoners and jailors...
+#Director Deran Sarafian
+#DirectorImage images/persons/764776.jpg
+#Actor Jean-Claude Van Damme
+#ActorImage images/persons/241.jpg
+#Actor Robert Guillaume
+#ActorImage images/persons/347039.jpg
+#Actor Cynthia Gibb
+#ActorImage images/persons/1269.jpg
+#Genre Action | Crime | Drama | Mystery
+#Certificate R
+#Runtime 89 mins.

@@ -1,0 +1,748 @@
+#Movie
+#Title Star Wars
+#TitleImage images/titles/751.jpg
+#Outline Luke Skywalker, a spirited farm boy, joins rebel forces to save Princess Leia from the evil Darth Vader, and the galaxy from the Empire's planet-destroying Death Star.
+#Director George Lucas
+#DirectorImage images/persons/184.jpg
+#Actor Mark Hamill
+#ActorImage images/persons/434.jpg
+#Actor Harrison Ford
+#ActorImage images/persons/148.jpg
+#Actor Carrie Fisher
+#ActorImage images/persons/402.jpg
+#Genre Action | Adventure | Fantasy | Sci-Fi
+#Certificate PG
+#Runtime 121 mins.
+#Movie
+#Title The Spy Who Loved Me
+#TitleImage images/titles/752.jpg
+#Outline James Bond investigates the hijacking of British and Russian submarines carrying nuclear warheads with the help of a KGB agent whose lover he killed.
+#Director Lewis Gilbert
+#DirectorImage images/persons/318150.jpg
+#Actor Roger Moore
+#ActorImage images/persons/549.jpg
+#Actor Barbara Bach
+#ActorImage images/persons/819.jpg
+#Actor Curd Jürgens
+#ActorImage images/persons/432007.jpg
+#Genre Action | Adventure | Crime | Thriller
+#Certificate PG
+#Runtime 125 mins.
+#Movie
+#Title Close Encounters of the Third Kind
+#TitleImage images/titles/753.jpg
+#Outline After an encounter with UFOs, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.
+#Director Steven Spielberg
+#DirectorImage images/persons/229.jpg
+#Actor Richard Dreyfuss
+#ActorImage images/persons/377.jpg
+#Actor François Truffaut
+#ActorImage images/persons/76.jpg
+#Actor Teri Garr
+#ActorImage images/persons/414.jpg
+#Genre Adventure | Drama | Sci-Fi
+#Certificate TV_MA
+#Movie
+#Title Annie Hall
+#TitleImage images/titles/754.jpg
+#Outline Neurotic New York comedian Alvy Singer falls in love with the ditsy Annie Hall.
+#Director Woody Allen
+#DirectorImage images/persons/95.jpg
+#Actor Woody Allen
+#ActorImage images/persons/95.jpg
+#Actor Diane Keaton
+#ActorImage images/persons/473.jpg
+#Actor Tony Roberts
+#ActorImage images/persons/731634.jpg
+#Genre Comedy | Drama | Romance
+#Certificate PG
+#Runtime 93 mins.
+#Movie
+#Title Saturday Night Fever
+#TitleImage images/titles/755.jpg
+#Outline A Brooklyn youth feels his only chance to get somewhere is as the king of the disco floor.
+#Director John Badham
+#DirectorImage images/persons/824.jpg
+#Actor John Travolta
+#ActorImage images/persons/237.jpg
+#Actor Karen Lynn Gorney
+#ActorImage images/persons/331186.jpg
+#Actor Barry Miller
+#ActorImage images/persons/587944.jpg
+#Genre Drama | Music
+#Certificate R
+#Runtime 118 mins.
+#Movie
+#Title Smokey and the Bandit
+#TitleImage images/titles/756.jpg
+#Outline The Bandit is hired on to run a tractor trailer full of beer over county lines in hot pursuit by a pesky sheriff.
+#Director Hal Needham
+#DirectorImage images/persons/624102.jpg
+#Actor Burt Reynolds
+#ActorImage images/persons/608.jpg
+#Actor Sally Field
+#ActorImage images/persons/398.jpg
+#Actor Jerry Reed
+#ActorImage images/persons/715274.jpg
+#Genre Action | Comedy | Crime | Romance
+#Certificate PG
+#Runtime 96 mins.
+#Movie
+#Title Eraserhead
+#TitleImage images/titles/757.jpg
+#Outline Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
+#Director David Lynch
+#DirectorImage images/persons/186.jpg
+#Actor Jack Nance
+#ActorImage images/persons/620756.jpg
+#Actor Charlotte Stewart
+#ActorImage images/persons/829270.jpg
+#Actor Allen Joseph
+#ActorImage images/persons/430543.jpg
+#Genre Fantasy | Horror | Sci-Fi
+#Certificate UNRATED
+#Runtime 85 mins.
+#Movie
+#Title A Bridge Too Far
+#TitleImage images/titles/758.jpg
+#Outline A historic telling of the failed attempt to capture several bridges to Germany in World War II in a campaign called Operation Market-Garden.
+#Director Richard Attenborough
+#DirectorImage images/persons/277.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Ryan O'Neal
+#ActorImage images/persons/641939.jpg
+#Actor Michael Caine
+#ActorImage images/persons/323.jpg
+#Genre Action | Drama | History | War
+#Certificate PG
+#Runtime 175 mins.
+#Movie
+#Title Suspiria
+#TitleImage images/titles/759.jpg
+#Outline A newcomer to a fancy ballet academy gradually comes to realize that the staff of the school are actually a coven of witches bent on chaos and destruction.
+#Director Dario Argento
+#DirectorImage images/persons/783.jpg
+#Actor Jessica Harper
+#ActorImage images/persons/363888.jpg
+#Actor Stefania Casini
+#ActorImage images/persons/143743.jpg
+#Actor Flavio Bucci
+#ActorImage images/persons/117885.jpg
+#Genre Horror | Thriller
+#Certificate X
+#Runtime 98 mins.
+#Movie
+#Title The Rescuers
+#TitleImage images/titles/760.jpg
+#Outline Two mice of the Rescue Aid Society search for a little girl kidnapped by unscrupulous treasure hunters.
+#Director John Lounsbery
+#DirectorImage images/persons/522028.jpg
+#Director Wolfgang Reitherman
+#DirectorImage images/persons/718627.jpg
+#Actor Bob Newhart
+#ActorImage images/persons/627878.jpg
+#Actor Eva Gabor
+#ActorImage images/persons/1247.jpg
+#Actor Geraldine Page
+#ActorImage images/persons/656183.jpg
+#Genre Animation | Adventure | Crime | Drama | Family | Fantasy | Mystery
+#Certificate G
+#Runtime 78 mins.
+#Movie
+#Title Twilight's Last Gleaming
+#TitleImage images/titles/761.jpg
+#Outline A renegade USAF general, Lawrence Dell, escapes from a military prison and takes over an ICBM silo near...
+#Director Robert Aldrich
+#DirectorImage images/persons/736.jpg
+#Actor Burt Lancaster
+#ActorImage images/persons/44.jpg
+#Actor Richard Widmark
+#ActorImage images/persons/1847.jpg
+#Actor Roscoe Lee Browne
+#ActorImage images/persons/1975.jpg
+#Genre Thriller
+#Certificate R
+#Runtime 146 mins.
+#Movie
+#Title Slap Shot
+#TitleImage images/titles/762.jpg
+#Outline A failing ice hockey team finds success using constant fighting and violence during games.
+#Director George Roy Hill
+#DirectorImage images/persons/1351.jpg
+#Actor Paul Newman
+#ActorImage images/persons/56.jpg
+#Actor Michael Ontkean
+#ActorImage images/persons/648920.jpg
+#Actor Strother Martin
+#ActorImage images/persons/1510.jpg
+#Genre Comedy | Drama | Sport
+#Certificate R
+#Runtime 123 mins.
+#Movie
+#Title The Message
+#TitleImage images/titles/763.jpg
+#Director Moustapha Akkad
+#DirectorImage images/persons/2160.jpg
+#Actor Anthony Quinn
+#ActorImage images/persons/63.jpg
+#Actor Irene Papas
+#ActorImage images/persons/660327.jpg
+#Actor Michael Ansara
+#ActorImage images/persons/30516.jpg
+#Genre Adventure | Biography | Drama | History | War
+#Certificate PG
+#Runtime 177 mins.
+#Movie
+#Title Pete's Dragon
+#TitleImage images/titles/764.jpg
+#Outline An orphan boy and his magical dragon come to town with his abusive adoptive parents in pursuit.
+#Director Don Chaffey
+#DirectorImage images/persons/149548.jpg
+#Actor Sean Marshall
+#ActorImage images/persons/551171.jpg
+#Actor Helen Reddy
+#ActorImage images/persons/714761.jpg
+#Actor Jim Dale
+#ActorImage images/persons/197715.jpg
+#Genre Adventure | Family | Fantasy | Musical
+#Certificate G
+#Runtime 128 mins.
+#Movie
+#Title The Hills Have Eyes
+#TitleImage images/titles/765.jpg
+#Outline On the way to California, a family has the misfortune to have their car break down in an area closed to the public, and inhabited by violent savages ready to attack.
+#Director Wes Craven
+#DirectorImage images/persons/127.jpg
+#Actor Suze Lanier-Bramlett
+#ActorImage images/persons/486839.jpg
+#Actor Robert Houston
+#ActorImage images/persons/396884.jpg
+#Actor John Steadman
+#ActorImage images/persons/824113.jpg
+#Genre Horror
+#Certificate UNRATED
+#Runtime 89 mins.
+#Movie
+#Title Cross of Iron
+#TitleImage images/titles/766.jpg
+#Outline In 1943, in the Russian front, the decorated leader Rolf Steiner is promoted to Sergeant after another successful mission...
+#Director Sam Peckinpah
+#DirectorImage images/persons/1603.jpg
+#Actor James Coburn
+#ActorImage images/persons/336.jpg
+#Actor Maximilian Schell
+#ActorImage images/persons/1703.jpg
+#Actor James Mason
+#ActorImage images/persons/51.jpg
+#Genre Action | Drama | War
+#Certificate R
+#Runtime 132 mins.
+#Movie
+#Title That Obscure Object of Desire
+#TitleImage images/titles/767.jpg
+#Outline Just after boarding a train, much to the surprise of his fellow passengers, a man pours a bucket of water over a young girl on the platform...
+#Director Luis Buñuel
+#DirectorImage images/persons/320.jpg
+#Actor Fernando Rey
+#ActorImage images/persons/721073.jpg
+#Actor Carole Bouquet
+#ActorImage images/persons/962.jpg
+#Actor Ángela Molina
+#ActorImage images/persons/596807.jpg
+#Genre Comedy | Drama | Romance
+#Certificate R
+#Runtime 102 mins.
+#Movie
+#Title The Many Adventures of Winnie the Pooh
+#TitleImage images/titles/768.jpg
+#Outline A collection of animated shorts based on the stories and characters by A. A. Milne.
+#Director John Lounsbery
+#DirectorImage images/persons/522028.jpg
+#Director Wolfgang Reitherman
+#DirectorImage images/persons/718627.jpg
+#Actor Sebastian Cabot
+#ActorImage images/persons/1982.jpg
+#Actor Junius Matthews
+#ActorImage images/persons/560076.jpg
+#Actor Barbara Luddy
+#ActorImage images/persons/524853.jpg
+#Genre Animation | Family | Fantasy | Musical
+#Certificate G
+#Runtime 74 mins.
+#Movie
+#Title Exorcist II: The Heretic
+#TitleImage images/titles/769.jpg
+#Outline A girl once possessed by a demon finds that it still lurks within her. Meanwhile, a priest investigates the death of the girl's exorcist.
+#Director John Boorman
+#DirectorImage images/persons/958.jpg
+#Actor Richard Burton
+#ActorImage images/persons/9.jpg
+#Actor Linda Blair
+#ActorImage images/persons/304.jpg
+#Actor Louise Fletcher
+#ActorImage images/persons/1221.jpg
+#Genre Horror | Mystery | Thriller
+#Certificate R
+#Runtime 118 mins.
+#Movie
+#Title The Kentucky Fried Movie
+#TitleImage images/titles/770.jpg
+#Outline Series of short, highly irreverent, and quite often tasteless skits.
+#Director John Landis
+#DirectorImage images/persons/484.jpg
+#Actor Evan C. Kim
+#ActorImage images/persons/453447.jpg
+#Actor Bong Soo Han
+#ActorImage images/persons/359147.jpg
+#Actor Bill Bixby
+#ActorImage images/persons/84642.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 83 mins.
+#Movie
+#Title Capricorn One
+#TitleImage images/titles/771.jpg
+#Outline A NASA Mars mission won't work, and its funding is endangered, so they decide to fake it just this once. But then they have to keep the secret...
+#Director Peter Hyams
+#DirectorImage images/persons/1382.jpg
+#Actor Elliott Gould
+#ActorImage images/persons/1285.jpg
+#Actor James Brolin
+#ActorImage images/persons/981.jpg
+#Actor Brenda Vaccaro
+#ActorImage images/persons/882853.jpg
+#Genre Action | Sci-Fi | Thriller
+#Certificate PG
+#Runtime 123 mins.
+#Movie
+#Title The Deep
+#TitleImage images/titles/772.jpg
+#Outline A pair of young vacationers are involved in a dangerous conflict with treasure hunters when they discover a way into a deadly wreck in Bermuda waters...
+#Director Peter Yates
+#DirectorImage images/persons/946811.jpg
+#Actor Jacqueline Bisset
+#ActorImage images/persons/302.jpg
+#Actor Nick Nolte
+#ActorImage images/persons/560.jpg
+#Actor Dick Anthony Williams
+#ActorImage images/persons/930454.jpg
+#Genre Adventure | Mystery | Thriller
+#Certificate PG
+#Runtime 123 mins.
+#Movie
+#Title House
+#TitleImage images/titles/773.jpg
+#Outline Oshare (Gorgeous) is excited about spending summer vacation with her father, until she finds out that his beautiful...
+#Director Nobuhiko Ôbayashi
+#DirectorImage images/persons/643171.jpg
+#Actor Kimiko Ikegami
+#ActorImage images/persons/407475.jpg
+#Actor Miki Jinbo
+#ActorImage images/persons/423101.jpg
+#Actor Kumiko Ohba
+#ActorImage images/persons/643178.jpg
+#Genre Comedy | Fantasy | Horror
+#Certificate NOT_RATED
+#Runtime 88 mins.
+#Movie
+#Title The Duellists
+#TitleImage images/titles/774.jpg
+#Outline Set during the grand, sweeping Napoleonic age, an officer in the French army insults another officer and sets off a life-long enmity...
+#Director Ridley Scott
+#DirectorImage images/persons/631.jpg
+#Actor Keith Carradine
+#ActorImage images/persons/1018.jpg
+#Actor Harvey Keitel
+#ActorImage images/persons/172.jpg
+#Actor Albert Finney
+#ActorImage images/persons/1215.jpg
+#Genre Drama
+#Certificate PG
+#Runtime 100 mins.
+#Movie
+#Title New York, New York
+#TitleImage images/titles/775.jpg
+#Outline An egotistical saxophone player and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long uphill climb.
+#Director Martin Scorsese
+#DirectorImage images/persons/217.jpg
+#Actor Liza Minnelli
+#ActorImage images/persons/591485.jpg
+#Actor Robert De Niro
+#ActorImage images/persons/134.jpg
+#Actor Lionel Stander
+#ActorImage images/persons/822034.jpg
+#Genre Drama | Music | Musical
+#Certificate PG
+#Runtime 155 mins.
+#Movie
+#Title Equus
+#TitleImage images/titles/776.jpg
+#Outline A psychiatrist, Martin Dysart, investigates the savage blinding of six horses with a metal spike in a stable in Hampshire...
+#Director Sidney Lumet
+#DirectorImage images/persons/1486.jpg
+#Actor Richard Burton
+#ActorImage images/persons/9.jpg
+#Actor Peter Firth
+#ActorImage images/persons/278752.jpg
+#Actor Colin Blakely
+#ActorImage images/persons/86780.jpg
+#Genre Drama | Mystery
+#Certificate R
+#Runtime 137 mins.
+#Movie
+#Title High Anxiety
+#TitleImage images/titles/777.jpg
+#Outline Dr. Richard Thorndyke arrives as new administrator of the Psychoneurotic Institute for the Very, VERY Nervous to discover some suspicious goings-on...
+#Director Mel Brooks
+#DirectorImage images/persons/316.jpg
+#Actor Mel Brooks
+#ActorImage images/persons/316.jpg
+#Actor Madeline Kahn
+#ActorImage images/persons/1404.jpg
+#Actor Cloris Leachman
+#ActorImage images/persons/1458.jpg
+#Genre Comedy | Thriller
+#Certificate PG
+#Runtime 94 mins.
+#Movie
+#Title The Gauntlet
+#TitleImage images/titles/778.jpg
+#Outline A hard but mediocre cop is assigned to escort a prostitute into custody from Las Vegas to Phoenix, so that she can testify in a mob trial. But a lot of people are literally betting that they won't make it into town alive.
+#Director Clint Eastwood
+#DirectorImage images/persons/142.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Sondra Locke
+#ActorImage images/persons/516800.jpg
+#Actor Pat Hingle
+#ActorImage images/persons/385757.jpg
+#Genre Action | Crime | Drama | Thriller
+#Certificate R
+#Runtime 109 mins.
+#Movie
+#Title 3 Women
+#TitleImage images/titles/779.jpg
+#Outline Pinky is an awkward young teen who starts work at a spa in the CA. Desert. She becomes overly attached to fellow spa attendant...
+#Director Robert Altman
+#DirectorImage images/persons/265.jpg
+#Actor Shelley Duvall
+#ActorImage images/persons/1167.jpg
+#Actor Sissy Spacek
+#ActorImage images/persons/651.jpg
+#Actor Janice Rule
+#ActorImage images/persons/750023.jpg
+#Genre Drama
+#Certificate APPROVED
+#Movie
+#Title The Car
+#TitleImage images/titles/780.jpg
+#Outline A sleek, possessed black car terrorizes everyone it comes in contact with in a small town in Utah.
+#Director Elliot Silverstein
+#DirectorImage images/persons/799033.jpg
+#Actor James Brolin
+#ActorImage images/persons/981.jpg
+#Actor Kathleen Lloyd
+#ActorImage images/persons/516049.jpg
+#Actor John Marley
+#ActorImage images/persons/549134.jpg
+#Genre Horror | Mystery | Thriller
+#Certificate PG
+#Runtime 96 mins.
+#Movie
+#Title Julia
+#TitleImage images/titles/781.jpg
+#Outline At the behest of an old and dear friend, playwright Lillian Hellman undertakes a dangerous mission to smuggle funds into Nazi Germany.
+#Director Fred Zinnemann
+#DirectorImage images/persons/3593.jpg
+#Actor Jane Fonda
+#ActorImage images/persons/404.jpg
+#Actor Vanessa Redgrave
+#ActorImage images/persons/603.jpg
+#Actor Jason Robards
+#ActorImage images/persons/1673.jpg
+#Genre Drama
+#Certificate PG
+#Runtime 117 mins.
+#Movie
+#Title Rolling Thunder
+#TitleImage images/titles/782.jpg
+#Outline Major Charles Rane comes back from the war and is given a number of gifts from his hometown because he is a war hero...
+#Director John Flynn
+#DirectorImage images/persons/283500.jpg
+#Actor William Devane
+#ActorImage images/persons/1137.jpg
+#Actor Tommy Lee Jones
+#ActorImage images/persons/169.jpg
+#Actor Linda Haynes
+#ActorImage images/persons/371495.jpg
+#Genre Action | Drama | Crime | Thriller
+#Certificate R
+#Runtime 95 mins.
+#Movie
+#Title Jabberwocky
+#TitleImage images/titles/783.jpg
+#Outline A young peasant, with no interest in adventure or fortune, is mistaken as the kingdom's only hope when a horrible monster threatens the countryside.
+#Director Terry Gilliam
+#DirectorImage images/persons/416.jpg
+#Actor Michael Palin
+#ActorImage images/persons/1589.jpg
+#Actor Harry H. Corbett
+#ActorImage images/persons/179154.jpg
+#Actor John Le Mesurier
+#ActorImage images/persons/494452.jpg
+#Genre Adventure | Comedy | Fantasy | Horror
+#Certificate PG
+#Runtime 105 mins.
+#Movie
+#Title Maladolescenza
+#TitleImage images/titles/784.jpg
+#Outline A teen boy grows from playing and fighting with his German-shepherd dog, to playing kids and adult games with two equally young girls, in a dream-like forest which eventually turns eerie, and somber.
+#Director Pier Giuseppe Murgia
+#DirectorImage images/persons/613865.jpg
+#Actor Lara Wendel
+#ActorImage images/persons/55558.jpg
+#Actor Eva Ionesco
+#ActorImage images/persons/409561.jpg
+#Actor Martin Loeb
+#ActorImage images/persons/517218.jpg
+#Genre Drama | Romance
+#Runtime 93 mins.
+#Movie
+#Title Eaten Alive
+#TitleImage images/titles/785.jpg
+#Outline A psychotic redneck who owns a dilapidated hotel in rural East Texas kills various people who upset him or his business, and he feeds their bodies to a large crocodile that he keeps as a pet in the swamp beside his hotel.
+#Director Tobe Hooper
+#DirectorImage images/persons/1361.jpg
+#Actor Neville Brand
+#ActorImage images/persons/104507.jpg
+#Actor Mel Ferrer
+#ActorImage images/persons/2072.jpg
+#Actor Carolyn Jones
+#ActorImage images/persons/427700.jpg
+#Genre Horror
+#Certificate R
+#Runtime 91 mins.
+#Movie
+#Title The Sentinel
+#TitleImage images/titles/786.jpg
+#Outline Not ready for marriage, a fashion model moves into an unbelievably nice Brooklyn Heights apartment, where scary occurrences turn into a much more frightening turn of events.
+#Director Michael Winner
+#DirectorImage images/persons/935382.jpg
+#Actor Cristina Raines
+#ActorImage images/persons/707043.jpg
+#Actor Ava Gardner
+#ActorImage images/persons/1257.jpg
+#Actor Chris Sarandon
+#ActorImage images/persons/1697.jpg
+#Genre Horror | Thriller
+#Certificate R
+#Runtime 92 mins.
+#Movie
+#Title Wizards
+#TitleImage images/titles/787.jpg
+#Outline On a post-apocalyptic Earth, a wizard and his faire folk comrades fight an evil wizard who's using technology in his bid for conquest.
+#Director Ralph Bakshi
+#DirectorImage images/persons/835.jpg
+#Actor Jesse Welles
+#ActorImage images/persons/919934.jpg
+#Actor Bob Holt
+#ActorImage images/persons/357090.jpg
+#Actor Richard Romanus
+#ActorImage images/persons/739087.jpg
+#Genre Animation | Action | Adventure | Fantasy | Sci-Fi
+#Certificate PG
+#Runtime 80 mins.
+#Movie
+#Title Rabid
+#TitleImage images/titles/788.jpg
+#Outline A young woman develops a taste for human blood after undergoing experimental plastic surgery, and her victims turn into rabid, blood-thirsty zombies who proceed to infect others, which turns into a city-wide epidemic.
+#Director David Cronenberg
+#DirectorImage images/persons/343.jpg
+#Actor Marilyn Chambers
+#ActorImage images/persons/1032.jpg
+#Actor Frank Moore
+#ActorImage images/persons/601210.jpg
+#Actor Joe Silver
+#ActorImage images/persons/798718.jpg
+#Genre Horror | Sci-Fi
+#Certificate R
+#Runtime 91 mins.
+#Movie
+#Title The White Buffalo
+#TitleImage images/titles/789.jpg
+#Outline In this strange western version of JAWS, Wild Bill Hickok hunts a white buffalo he has seen in a dream...
+#Director J. Lee Thompson
+#DirectorImage images/persons/496746.jpg
+#Actor Charles Bronson
+#ActorImage images/persons/314.jpg
+#Actor Jack Warden
+#ActorImage images/persons/912001.jpg
+#Actor Will Sampson
+#ActorImage images/persons/760225.jpg
+#Genre Western
+#Certificate PG
+#Runtime 97 mins.
+#Movie
+#Title Sorcerer
+#TitleImage images/titles/790.jpg
+#Outline A group of outcasts from different backgrounds/nationalities are forced by misfortune to work in a remote oil drilling operation in South America...
+#Director William Friedkin
+#DirectorImage images/persons/1243.jpg
+#Actor Roy Scheider
+#ActorImage images/persons/1702.jpg
+#Actor Bruno Cremer
+#ActorImage images/persons/187337.jpg
+#Actor Francisco Rabal
+#ActorImage images/persons/704719.jpg
+#Genre Action | Adventure | Thriller
+#Certificate PG
+#Runtime 121 mins.
+#Movie
+#Title Looking for Mr. Goodbar
+#TitleImage images/titles/791.jpg
+#Outline A dedicated schoolteacher spends her nights cruising bars, looking for abusive men with whom she can engage in progressively violent sexual encounters.
+#Director Richard Brooks
+#DirectorImage images/persons/112218.jpg
+#Actor Diane Keaton
+#ActorImage images/persons/473.jpg
+#Actor Richard Gere
+#ActorImage images/persons/152.jpg
+#Actor Tuesday Weld
+#ActorImage images/persons/1839.jpg
+#Genre Drama
+#Certificate APPROVED
+#Runtime 136 mins.
+#Movie
+#Title Emanuelle and the Last Cannibals
+#TitleImage images/titles/792.jpg
+#Outline While doing undercover work in a mental hospital, Emanuelle discovers a girl who seems to have been raised by a tribe of amazonian cannibals...
+#Director Joe D'Amato
+#DirectorImage images/persons/1090.jpg
+#Actor Laura Gemser
+#ActorImage images/persons/2098.jpg
+#Actor Gabriele Tinti
+#ActorImage images/persons/864081.jpg
+#Actor Nieves Navarro
+#ActorImage images/persons/622980.jpg
+#Genre Adventure | Horror
+#Runtime 85 mins.
+#Movie
+#Title Bilitis
+#TitleImage images/titles/793.jpg
+#Outline A coming of age story centering on the exploits of a young girl during summer vacation.
+#Director David Hamilton
+#DirectorImage images/persons/357807.jpg
+#Actor Patti D'Arbanville
+#ActorImage images/persons/1091.jpg
+#Actor Mona Kristensen
+#ActorImage images/persons/471571.jpg
+#Actor Bernard Giraudeau
+#ActorImage images/persons/320808.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 95 mins.
+#Movie
+#Title The Goodbye Girl
+#TitleImage images/titles/794.jpg
+#Outline After being dumped by her live-in boyfriend, an unemployed dancer and her 10-year-old daughter are reluctantly forced to live with a struggling off-Broadway actor.
+#Director Herbert Ross
+#DirectorImage images/persons/6889.jpg
+#Actor Richard Dreyfuss
+#ActorImage images/persons/377.jpg
+#Actor Marsha Mason
+#ActorImage images/persons/556850.jpg
+#Actor Quinn Cummings
+#ActorImage images/persons/191944.jpg
+#Genre Comedy | Romance
+#Certificate PG
+#Runtime 111 mins.
+#Movie
+#Title The Serpent's Egg
+#TitleImage images/titles/795.jpg
+#Outline Ingmar Bergman's The Serpent's Egg follows a week in the life of Abel Rosenberg, an out-of-work American...
+#Director Ingmar Bergman
+#DirectorImage images/persons/5.jpg
+#Actor Liv Ullmann
+#ActorImage images/persons/880521.jpg
+#Actor David Carradine
+#ActorImage images/persons/1016.jpg
+#Actor Gert Fröbe
+#ActorImage images/persons/2085.jpg
+#Genre Drama | Mystery | Thriller
+#Certificate R
+#Runtime 119 mins.
+#Movie
+#Title The Devil, Probably
+#TitleImage images/titles/796.jpg
+#Outline Charles drifts through politics, religion and psychoanalysis, rejecting them all. Once he realises the...
+#Director Robert Bresson
+#DirectorImage images/persons/975.jpg
+#Actor Antoine Monnier
+#ActorImage images/persons/598356.jpg
+#Actor Tina Irissari
+#ActorImage images/persons/410013.jpg
+#Actor Henri de Maublanc
+#ActorImage images/persons/560751.jpg
+#Genre Drama
+#Certificate NOT_RATED
+#Runtime 95 mins.
+#Movie
+#Title Demon Seed
+#TitleImage images/titles/797.jpg
+#Outline A scientist creates Proteus--an organic super computer with artificial intelligence which becomes obsessed with human beings, and in particular the creators wife.
+#Director Donald Cammell
+#DirectorImage images/persons/131910.jpg
+#Actor Julie Christie
+#ActorImage images/persons/1046.jpg
+#Actor Fritz Weaver
+#ActorImage images/persons/915851.jpg
+#Actor Gerrit Graham
+#ActorImage images/persons/334057.jpg
+#Genre Horror | Sci-Fi | Thriller
+#Certificate R
+#Runtime 94 mins.
+#Movie
+#Title The Gestapo's Last Orgy
+#TitleImage images/titles/798.jpg
+#Outline Lise Cohen is taken to a special prisoner-of-war camp for female Jews, a camp run as a bordello to entertain...
+#Director Cesare Canevari
+#DirectorImage images/persons/133911.jpg
+#Actor Adriano Micantoni
+#ActorImage images/persons/584021.jpg
+#Actor Daniela Poggi
+#ActorImage images/persons/688207.jpg
+#Actor Maristella Greco
+#ActorImage images/persons/337486.jpg
+#Genre Thriller | War
+#Certificate X
+#Runtime 92 mins.
+#Movie
+#Title The Man Who Loved Women
+#TitleImage images/titles/799.jpg
+#Outline Many women are attending Bertrand Morane's burial. They are all the ones that 40 years old engineer loved...
+#Director François Truffaut
+#DirectorImage images/persons/76.jpg
+#Actor Charles Denner
+#ActorImage images/persons/219342.jpg
+#Actor Brigitte Fossey
+#ActorImage images/persons/287637.jpg
+#Actor Nelly Borgeaud
+#ActorImage images/persons/96501.jpg
+#Genre Comedy | Drama | Romance
+#Runtime 120 mins.
+#Movie
+#Title Emmanuelle 3
+#TitleImage images/titles/800.jpg
+#Outline Emmanuelle and her architect husband continue their amoral lifestyle in the Seychelles. But when a casual...
+#Director François Leterrier
+#DirectorImage images/persons/504641.jpg
+#Actor Sylvia Kristel
+#ActorImage images/persons/482.jpg
+#Actor Umberto Orsini
+#ActorImage images/persons/650753.jpg
+#Actor Jean-Pierre Bouvier
+#ActorImage images/persons/100440.jpg
+#Genre Drama
+#Certificate R
+#Runtime 100 mins.

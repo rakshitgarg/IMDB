@@ -1,0 +1,749 @@
+#Movie
+#Title The Exorcist
+#TitleImage images/titles/551.jpg
+#Outline When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.
+#Director William Friedkin
+#DirectorImage images/persons/1243.jpg
+#Actor Ellen Burstyn
+#ActorImage images/persons/995.jpg
+#Actor Max von Sydow
+#ActorImage images/persons/1884.jpg
+#Actor Linda Blair
+#ActorImage images/persons/304.jpg
+#Genre Horror | Thriller
+#Certificate TV_14
+#Runtime 122 mins.
+#Movie
+#Title Live and Let Die
+#TitleImage images/titles/552.jpg
+#Outline 007 is sent to stop a diabolically brilliant heroin magnate armed with a complex organization and a reliable psychic tarot card reader.
+#Director Guy Hamilton
+#DirectorImage images/persons/357891.jpg
+#Actor Roger Moore
+#ActorImage images/persons/549.jpg
+#Actor Yaphet Kotto
+#ActorImage images/persons/1433.jpg
+#Actor Jane Seymour
+#ActorImage images/persons/5412.jpg
+#Genre Action | Crime | Thriller
+#Certificate PG
+#Runtime 121 mins.
+#Movie
+#Title American Graffiti
+#TitleImage images/titles/553.jpg
+#Outline A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college.
+#Director George Lucas
+#DirectorImage images/persons/184.jpg
+#Actor Richard Dreyfuss
+#ActorImage images/persons/377.jpg
+#Actor Ron Howard
+#ActorImage images/persons/165.jpg
+#Actor Paul Le Mat
+#ActorImage images/persons/494432.jpg
+#Genre Comedy
+#Certificate PG
+#Runtime 110 mins.
+#Movie
+#Title The Sting
+#TitleImage images/titles/554.jpg
+#Outline In 1930s Chicago, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.
+#Director George Roy Hill
+#DirectorImage images/persons/1351.jpg
+#Actor Paul Newman
+#ActorImage images/persons/56.jpg
+#Actor Robert Redford
+#ActorImage images/persons/602.jpg
+#Actor Robert Shaw
+#ActorImage images/persons/1727.jpg
+#Genre Comedy | Crime | Drama
+#Certificate TV_14
+#Runtime 129 mins.
+#Movie
+#Title Papillon
+#TitleImage images/titles/555.jpg
+#Outline A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.
+#Director Franklin J. Schaffner
+#DirectorImage images/persons/769874.jpg
+#Actor Steve McQueen
+#ActorImage images/persons/537.jpg
+#Actor Dustin Hoffman
+#ActorImage images/persons/163.jpg
+#Actor Victor Jory
+#ActorImage images/persons/430460.jpg
+#Genre Biography | Crime | Drama
+#Certificate R
+#Runtime 151 mins.
+#Movie
+#Title Enter the Dragon
+#TitleImage images/titles/556.jpg
+#Outline A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.
+#Director Robert Clouse
+#DirectorImage images/persons/167195.jpg
+#Actor Bruce Lee
+#ActorImage images/persons/45.jpg
+#Actor John Saxon
+#ActorImage images/persons/768334.jpg
+#Actor Jim Kelly
+#ActorImage images/persons/446485.jpg
+#Genre Action | Crime | Drama | Thriller
+#Certificate R
+#Runtime 98 mins.
+#Movie
+#Title Mean Streets
+#TitleImage images/titles/557.jpg
+#Outline A small-time hood struggles to succeed on the "mean streets" of Little Italy.
+#Director Martin Scorsese
+#DirectorImage images/persons/217.jpg
+#Actor Robert De Niro
+#ActorImage images/persons/134.jpg
+#Actor Harvey Keitel
+#ActorImage images/persons/172.jpg
+#Actor David Proval
+#ActorImage images/persons/698998.jpg
+#Genre Crime | Drama
+#Certificate R
+#Runtime 112 mins.
+#Movie
+#Title Soylent Green
+#TitleImage images/titles/558.jpg
+#Outline In an overpopulated futuristic Earth, a New York police detective finds himself marked for murder by government agents when he gets too close to a bizarre state secret involving the origins of a revolutionary and needed new foodstuff.
+#Director Richard Fleischer
+#DirectorImage images/persons/281507.jpg
+#Actor Charlton Heston
+#ActorImage images/persons/32.jpg
+#Actor Edward G. Robinson
+#ActorImage images/persons/64.jpg
+#Actor Leigh Taylor-Young
+#ActorImage images/persons/853375.jpg
+#Genre Drama | Horror | Mystery | Sci-Fi | Thriller
+#Certificate TV_MA
+#Runtime 97 mins.
+#Movie
+#Title Robin Hood
+#TitleImage images/titles/559.jpg
+#Outline The story of the legendary outlaw is portrayed with the characters as humanoid animals.
+#Director Wolfgang Reitherman
+#DirectorImage images/persons/718627.jpg
+#Actor Brian Bedford
+#ActorImage images/persons/66028.jpg
+#Actor Phil Harris
+#ActorImage images/persons/365201.jpg
+#Actor Roger Miller
+#ActorImage images/persons/589248.jpg
+#Genre Animation | Adventure | Comedy | Family | Romance
+#Certificate G
+#Runtime 83 mins.
+#Movie
+#Title Serpico
+#TitleImage images/titles/560.jpg
+#Outline The true story about an honest New York cop who blew the whistle on rampant corruption in the force only to have his comrades turn against him.
+#Director Sidney Lumet
+#DirectorImage images/persons/1486.jpg
+#Actor Al Pacino
+#ActorImage images/persons/199.jpg
+#Actor John Randolph
+#ActorImage images/persons/709907.jpg
+#Actor Jack Kehoe
+#ActorImage images/persons/444955.jpg
+#Genre Biography | Crime | Drama | Thriller
+#Certificate R
+#Runtime 130 mins.
+#Movie
+#Title The Holy Mountain
+#TitleImage images/titles/561.jpg
+#Outline A Christlike figure wanders through bizarre, grotesque scenarios filled with religious and sacrilegious imagery...
+#Director Alejandro Jodorowsky
+#DirectorImage images/persons/423524.jpg
+#Actor Alejandro Jodorowsky
+#ActorImage images/persons/423524.jpg
+#Actor Horacio Salinas
+#ActorImage images/persons/758360.jpg
+#Actor Zamira Saunders
+#ActorImage images/persons/766993.jpg
+#Genre Drama
+#Certificate R
+#Runtime 114 mins.
+#Movie
+#Title The Wicker Man
+#TitleImage images/titles/562.jpg
+#Outline A police sergeant is called to an island village in search of a missing girl whom the locals claim never existed. Stranger still, however, are the rituals that take place there.
+#Director Robin Hardy
+#DirectorImage images/persons/362736.jpg
+#Actor Edward Woodward
+#ActorImage images/persons/940919.jpg
+#Actor Christopher Lee
+#ActorImage images/persons/489.jpg
+#Actor Diane Cilento
+#ActorImage images/persons/162284.jpg
+#Genre Horror | Musical | Mystery
+#Certificate R
+#Runtime 88 mins.
+#Movie
+#Title Badlands
+#TitleImage images/titles/563.jpg
+#Outline Based on the Starkweather-Fugate killing spree of the 1958, in which a fifteen-year-old girl and her twenty-five-year-old boyfriend slaughtered her entire family and several others in the Dakota badlands.
+#Director Terrence Malick
+#DirectorImage images/persons/517.jpg
+#Actor Martin Sheen
+#ActorImage images/persons/640.jpg
+#Actor Sissy Spacek
+#ActorImage images/persons/651.jpg
+#Actor Warren Oates
+#ActorImage images/persons/643105.jpg
+#Genre Crime | Drama
+#Certificate PG
+#Runtime 94 mins.
+#Movie
+#Title Don't Look Now
+#TitleImage images/titles/564.jpg
+#Outline A married couple grieving the recent death of their little daughter are in Venice when they encounter two elderly sisters, one of whom is psychic and brings a warning from beyond.
+#Director Nicolas Roeg
+#DirectorImage images/persons/1676.jpg
+#Actor Julie Christie
+#ActorImage images/persons/1046.jpg
+#Actor Donald Sutherland
+#ActorImage images/persons/661.jpg
+#Actor Hilary Mason
+#ActorImage images/persons/556739.jpg
+#Genre Horror | Mystery | Thriller
+#Certificate R
+#Runtime 110 mins.
+#Movie
+#Title The Way We Were
+#TitleImage images/titles/565.jpg
+#Outline Two desperate people have a wonderful romance, but their political views and convictions drive them apart.
+#Director Sydney Pollack
+#DirectorImage images/persons/1628.jpg
+#Actor Barbra Streisand
+#ActorImage images/persons/659.jpg
+#Actor Robert Redford
+#ActorImage images/persons/602.jpg
+#Actor Bradford Dillman
+#ActorImage images/persons/226947.jpg
+#Genre Drama | Romance
+#Certificate PG
+#Runtime 118 mins.
+#Movie
+#Title Paper Moon
+#TitleImage images/titles/566.jpg
+#Outline During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.
+#Director Peter Bogdanovich
+#DirectorImage images/persons/953.jpg
+#Actor Ryan O'Neal
+#ActorImage images/persons/641939.jpg
+#Actor Tatum O'Neal
+#ActorImage images/persons/1575.jpg
+#Actor Madeline Kahn
+#ActorImage images/persons/1404.jpg
+#Genre Comedy | Crime | Drama
+#Certificate PG
+#Runtime 102 mins.
+#Movie
+#Title The Day of the Jackal
+#TitleImage images/titles/567.jpg
+#Outline A professional assassin codenamed "Jackal" plots to kill Charles de Gaulle, the President of France.
+#Director Fred Zinnemann
+#DirectorImage images/persons/3593.jpg
+#Actor Edward Fox
+#ActorImage images/persons/2081.jpg
+#Actor Terence Alexander
+#ActorImage images/persons/18776.jpg
+#Actor Michel Auclair
+#ActorImage images/persons/41509.jpg
+#Genre Thriller
+#Certificate PG
+#Runtime 143 mins.
+#Movie
+#Title High Plains Drifter
+#TitleImage images/titles/568.jpg
+#Outline A gunfighting stranger comes to the small settlement of Lago and is hired to bring the townsfolk together in an attempt to hold off three outlaws who are on their way.
+#Director Clint Eastwood
+#DirectorImage images/persons/142.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Verna Bloom
+#ActorImage images/persons/89244.jpg
+#Actor Marianna Hill
+#ActorImage images/persons/384494.jpg
+#Genre Western
+#Certificate R
+#Runtime 105 mins.
+#Movie
+#Title Magnum Force
+#TitleImage images/titles/569.jpg
+#Outline Dirty Harry is on the trail of vigilante cops who are not above going beyond the law to kill the city's undesirables.
+#Director Ted Post
+#DirectorImage images/persons/692872.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Hal Holbrook
+#ActorImage images/persons/1358.jpg
+#Actor Mitch Ryan
+#ActorImage images/persons/752751.jpg
+#Genre Action | Mystery | Thriller
+#Certificate R
+#Runtime 124 mins.
+#Movie
+#Title Jesus Christ Superstar
+#TitleImage images/titles/570.jpg
+#Outline Film version of the musical stage play, presenting the last few weeks of Christ's life, told in an anachronistic manner.
+#Director Norman Jewison
+#DirectorImage images/persons/422484.jpg
+#Actor Ted Neeley
+#ActorImage images/persons/624189.jpg
+#Actor Carl Anderson
+#ActorImage images/persons/26483.jpg
+#Actor Yvonne Elliman
+#ActorImage images/persons/254118.jpg
+#Genre Drama | History | Musical
+#Certificate G
+#Runtime 108 mins.
+#Movie
+#Title Westworld
+#TitleImage images/titles/571.jpg
+#Outline A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.
+#Director Michael Crichton
+#DirectorImage images/persons/341.jpg
+#Actor Yul Brynner
+#ActorImage images/persons/989.jpg
+#Actor Richard Benjamin
+#ActorImage images/persons/907.jpg
+#Actor James Brolin
+#ActorImage images/persons/981.jpg
+#Genre Action | Sci-Fi | Western
+#Certificate PG
+#Runtime 88 mins.
+#Movie
+#Title My Name Is Nobody
+#TitleImage images/titles/572.jpg
+#Outline A young, easygoing gunman (Hill) worships and competes with an old gunfighter (Fonda) who only wants to retire.
+#Director Tonino Valerii
+#DirectorImage images/persons/884547.jpg
+#Actor Terence Hill
+#ActorImage images/persons/1352.jpg
+#Actor Henry Fonda
+#ActorImage images/persons/20.jpg
+#Actor Jean Martin
+#ActorImage images/persons/552483.jpg
+#Genre Western | Comedy
+#Certificate PG
+#Runtime 117 mins.
+#Movie
+#Title Amarcord
+#TitleImage images/titles/573.jpg
+#Outline A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.
+#Director Federico Fellini
+#DirectorImage images/persons/19.jpg
+#Actor Magali Noël
+#ActorImage images/persons/637649.jpg
+#Actor Bruno Zanin
+#ActorImage images/persons/953025.jpg
+#Actor Pupella Maggio
+#ActorImage images/persons/535991.jpg
+#Genre Comedy | Drama
+#Certificate R
+#Runtime 123 mins.
+#Movie
+#Title Sleeper
+#TitleImage images/titles/574.jpg
+#Outline A nerdish store owner is revived out of cryostasis into a future world to fight an oppressive government.
+#Director Woody Allen
+#DirectorImage images/persons/95.jpg
+#Actor Woody Allen
+#ActorImage images/persons/95.jpg
+#Actor Diane Keaton
+#ActorImage images/persons/473.jpg
+#Actor John Beck
+#ActorImage images/persons/65183.jpg
+#Genre Comedy | Sci-Fi
+#Certificate TV_14
+#Runtime 89 mins.
+#Movie
+#Title The Last Detail
+#TitleImage images/titles/575.jpg
+#Outline Two Navy men are ordered to bring a young offender to prison but decide to show him one last good time along the way.
+#Director Hal Ashby
+#DirectorImage images/persons/797.jpg
+#Actor Jack Nicholson
+#ActorImage images/persons/197.jpg
+#Actor Randy Quaid
+#ActorImage images/persons/1642.jpg
+#Actor Otis Young
+#ActorImage images/persons/949935.jpg
+#Genre Comedy | Drama
+#Certificate R
+#Runtime 104 mins.
+#Movie
+#Title The Long Goodbye
+#TitleImage images/titles/576.jpg
+#Outline Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.
+#Director Robert Altman
+#DirectorImage images/persons/265.jpg
+#Actor Elliott Gould
+#ActorImage images/persons/1285.jpg
+#Actor Nina van Pallandt
+#ActorImage images/persons/887684.jpg
+#Actor Sterling Hayden
+#ActorImage images/persons/1330.jpg
+#Genre Crime | Drama | Thriller | Mystery
+#Certificate R
+#Runtime 112 mins.
+#Movie
+#Title Day for Night
+#TitleImage images/titles/577.jpg
+#Outline A committed film director struggles to complete his movie while coping with a myriad of crises, personal and professional, among the cast and crew.
+#Director François Truffaut
+#DirectorImage images/persons/76.jpg
+#Actor Jacqueline Bisset
+#ActorImage images/persons/302.jpg
+#Actor Jean-Pierre Léaud
+#ActorImage images/persons/529543.jpg
+#Actor François Truffaut
+#ActorImage images/persons/76.jpg
+#Genre Comedy | Drama | Romance
+#Certificate PG
+#Runtime 115 mins.
+#Movie
+#Title Walking Tall
+#TitleImage images/titles/578.jpg
+#Outline Based on the life of Tennessee sheriff Buford Pusser whom almost single-handily cleaned up his small town of crime and corruption, but at a personal cost of his family life and nearly his own life.
+#Director Phil Karlson
+#DirectorImage images/persons/439597.jpg
+#Actor Joe Don Baker
+#ActorImage images/persons/833.jpg
+#Actor Elizabeth Hartman
+#ActorImage images/persons/366946.jpg
+#Actor Leif Garrett
+#ActorImage images/persons/308161.jpg
+#Genre Crime | Drama | Thriller
+#Certificate R
+#Runtime 125 mins.
+#Movie
+#Title The Three Musketeers
+#TitleImage images/titles/579.jpg
+#Outline A young swordsman comes to Paris and faces villains, romance, adventure and intrigue with three Musketeer friends.
+#Director Richard Lester
+#DirectorImage images/persons/504513.jpg
+#Actor Oliver Reed
+#ActorImage images/persons/1657.jpg
+#Actor Raquel Welch
+#ActorImage images/persons/79.jpg
+#Actor Richard Chamberlain
+#ActorImage images/persons/328.jpg
+#Genre Action | Adventure | Comedy | Romance
+#Certificate PG
+#Runtime 105 mins.
+#Movie
+#Title The Spirit of the Beehive
+#TitleImage images/titles/580.jpg
+#Outline A sensitive seven-year-old girl living a small village in 1940 rural Spain is traumatized after viewing James Whale's "Frankenstein" and drifts into her own fantasy world.
+#Director Víctor Erice
+#DirectorImage images/persons/258977.jpg
+#Actor Fernando Fernán Gómez
+#ActorImage images/persons/273178.jpg
+#Actor Teresa Gimpera
+#ActorImage images/persons/319834.jpg
+#Actor Ana Torrent
+#ActorImage images/persons/868479.jpg
+#Genre Drama | Fantasy
+#Certificate UNRATED
+#Runtime 97 mins.
+#Movie
+#Title Female Vampire
+#TitleImage images/titles/581.jpg
+#Outline A beautiful female vampire lures men to their doom.
+#Director Jesus Franco
+#DirectorImage images/persons/1238.jpg
+#Actor Lina Romay
+#ActorImage images/persons/739124.jpg
+#Actor Jack Taylor
+#ActorImage images/persons/852488.jpg
+#Actor Alice Arno
+#ActorImage images/persons/36309.jpg
+#Genre Adult | Horror
+#Certificate X
+#Runtime 82 mins.
+#Movie
+#Title Battle for the Planet of the Apes
+#TitleImage images/titles/582.jpg
+#Outline Ten years after conquering the Earth, ape leader Caesar wants the ruling apes and enslaved humans to live in peace. But warring factions of apes led by a militant gorilla general as well as various human groups threaten the stability.
+#Director J. Lee Thompson
+#DirectorImage images/persons/496746.jpg
+#Actor Roddy McDowall
+#ActorImage images/persons/1522.jpg
+#Actor Claude Akins
+#ActorImage images/persons/15391.jpg
+#Actor Natalie Trundy
+#ActorImage images/persons/874353.jpg
+#Genre Action | Sci-Fi
+#Certificate G
+#Runtime 93 mins.
+#Movie
+#Title The Train Robbers
+#TitleImage images/titles/583.jpg
+#Outline A gunhand named Lane is hired by a widow, Mrs. Lowe, to find gold stolen by her husband so that she may return it and start fresh.
+#Director Burt Kennedy
+#DirectorImage images/persons/447944.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Ann-Margret
+#ActorImage images/persons/268.jpg
+#Actor Rod Taylor
+#ActorImage images/persons/1792.jpg
+#Genre Western
+#Certificate PG
+#Runtime 92 mins.
+#Movie
+#Title Sisters
+#TitleImage images/titles/584.jpg
+#Outline The Staten Island apartment of lovely model Danielle becomes the scene of a grisly murder that is witnessed by her neighbor...
+#Director Brian De Palma
+#DirectorImage images/persons/361.jpg
+#Actor Margot Kidder
+#ActorImage images/persons/452288.jpg
+#Actor Jennifer Salt
+#ActorImage images/persons/759022.jpg
+#Actor Charles Durning
+#ActorImage images/persons/1164.jpg
+#Genre Horror | Thriller
+#Certificate R
+#Runtime 93 mins.
+#Movie
+#Title The Big Feast
+#TitleImage images/titles/585.jpg
+#Outline A group of men hire some prostitutes and go to a villa in the countryside. There, they engage in group sex and resolve to eat themselves to death.
+#Director Marco Ferreri
+#DirectorImage images/persons/274659.jpg
+#Actor Marcello Mastroianni
+#ActorImage images/persons/52.jpg
+#Actor Michel Piccoli
+#ActorImage images/persons/681566.jpg
+#Actor Philippe Noiret
+#ActorImage images/persons/634159.jpg
+#Genre Comedy | Drama
+#Certificate X
+#Runtime 130 mins.
+#Movie
+#Title Anita: Swedish Nymphet
+#TitleImage images/titles/586.jpg
+#Outline Anita is a girl of only 16 years, and while she has developed early physically, to a mature woman, she is psychologically completly ruthless...
+#Director Torgny Wickman
+#DirectorImage images/persons/926967.jpg
+#Actor Christina Lindberg
+#ActorImage images/persons/511350.jpg
+#Actor Stellan Skarsgård
+#ActorImage images/persons/1745.jpg
+#Actor Danièle Vlaminck
+#ActorImage images/persons/900596.jpg
+#Genre Drama
+#Certificate X
+#Runtime 95 mins.
+#Movie
+#Title Scarecrow
+#TitleImage images/titles/587.jpg
+#Outline Max, an ex-con drifter with a penchant for brawling is amused by Lion, a homeless ex-sailor, and they partner up as they head east together.
+#Director Jerry Schatzberg
+#DirectorImage images/persons/770234.jpg
+#Actor Gene Hackman
+#ActorImage images/persons/432.jpg
+#Actor Al Pacino
+#ActorImage images/persons/199.jpg
+#Actor Dorothy Tristan
+#ActorImage images/persons/873148.jpg
+#Genre Drama
+#Certificate R
+#Runtime 112 mins.
+#Movie
+#Title Malicious
+#TitleImage images/titles/588.jpg
+#Outline A beautiful housekeeper becomes a romantic attraction to a widower and his three sons.
+#Director Salvatore Samperi
+#DirectorImage images/persons/760072.jpg
+#Actor Laura Antonelli
+#ActorImage images/persons/773.jpg
+#Actor Turi Ferro
+#ActorImage images/persons/275009.jpg
+#Actor Alessandro Momo
+#ActorImage images/persons/597381.jpg
+#Genre Comedy | Fantasy
+#Certificate R
+#Movie
+#Title Fantastic Planet
+#TitleImage images/titles/589.jpg
+#Outline Slaves and masters dominate the narrative of the faraway world of Ygam. Set around the lifespan of Ter...
+#Director René Laloux
+#DirectorImage images/persons/482537.jpg
+#Actor Barry Bostwick
+#ActorImage images/persons/960.jpg
+#Actor Jennifer Drake
+#ActorImage images/persons/1980761.jpg
+#Actor Eric Baugin
+#ActorImage images/persons/62010.jpg
+#Genre Animation | Drama | Sci-Fi
+#Certificate PG_13
+#Runtime 72 mins.
+#Movie
+#Title Pat Garrett & Billy the Kid
+#TitleImage images/titles/590.jpg
+#Outline An aging Pat Garrett is hired as a lawman on behalf of a group of wealthy New Mexico cattle barons--his sole purpose being to bring down his old friend Billy the Kid.
+#Director Sam Peckinpah
+#DirectorImage images/persons/1603.jpg
+#Actor James Coburn
+#ActorImage images/persons/336.jpg
+#Actor Kris Kristofferson
+#ActorImage images/persons/1434.jpg
+#Actor Richard Jaeckel
+#ActorImage images/persons/1395.jpg
+#Genre Drama | History | Western
+#Certificate R
+#Movie
+#Title Charlotte's Web
+#TitleImage images/titles/591.jpg
+#Outline A spider with a flair for promotion pledges to save a young pig from slaughter.
+#Director Charles A. Nichols
+#DirectorImage images/persons/629363.jpg
+#Director Iwao Takamoto
+#DirectorImage images/persons/847314.jpg
+#Actor Debbie Reynolds
+#ActorImage images/persons/1666.jpg
+#Actor Henry Gibson
+#ActorImage images/persons/2099.jpg
+#Actor Paul Lynde
+#ActorImage images/persons/1489.jpg
+#Genre Animation | Family | Musical
+#Certificate G
+#Runtime 94 mins.
+#Movie
+#Title Devil in Miss Jones
+#TitleImage images/titles/592.jpg
+#Outline Miss Jones is tired of her life and commits suicide. She comes to a place where its decided if she will end up in Heaven or Hell...
+#Director Gerard Damiano
+#DirectorImage images/persons/198790.jpg
+#Actor Harry Reems
+#ActorImage images/persons/715857.jpg
+#Actor Georgina Spelvin
+#ActorImage images/persons/313707.jpg
+#Actor John Clemens
+#ActorImage images/persons/166031.jpg
+#Genre Adult | Drama | Fantasy
+#Certificate X
+#Runtime 67 mins.
+#Movie
+#Title The Legend of Hell House
+#TitleImage images/titles/593.jpg
+#Outline A team consisting of a physicist, his wife, a young female psychic and the only survivor of the previous...
+#Director John Hough
+#DirectorImage images/persons/396421.jpg
+#Actor Roddy McDowall
+#ActorImage images/persons/1522.jpg
+#Actor Gayle Hunnicutt
+#ActorImage images/persons/402281.jpg
+#Actor Pamela Franklin
+#ActorImage images/persons/291512.jpg
+#Genre Horror | Mystery
+#Certificate PG
+#Runtime 95 mins.
+#Movie
+#Title The Paper Chase
+#TitleImage images/titles/594.jpg
+#Outline A first-year law student struggles with balancing his coursework and his relationship with the daughter of a stern professor.
+#Director James Bridges
+#DirectorImage images/persons/108745.jpg
+#Actor Timothy Bottoms
+#ActorImage images/persons/961.jpg
+#Actor Lindsay Wagner
+#ActorImage images/persons/905993.jpg
+#Actor John Houseman
+#ActorImage images/persons/2144.jpg
+#Genre Comedy | Drama
+#Certificate PG
+#Runtime 113 mins.
+#Movie
+#Title Turkish Delight
+#TitleImage images/titles/595.jpg
+#Outline Sort of a cross between "Love Story" and an earthy Rembrandt painting, this movie stars Rutger Hauer as a gifted Dutch sculptor who has a stormy...
+#Director Paul Verhoeven
+#DirectorImage images/persons/682.jpg
+#Actor Monique van de Ven
+#ActorImage images/persons/892857.jpg
+#Actor Rutger Hauer
+#ActorImage images/persons/442.jpg
+#Actor Tonny Huurdeman
+#ActorImage images/persons/404702.jpg
+#Genre Drama | Romance
+#Certificate X
+#Runtime 108 mins.
+#Movie
+#Title Charley Varrick
+#TitleImage images/titles/596.jpg
+#Outline Charley Varrick and his friends rob a small town bank. Expecting a small sum to divide amongst themselves...
+#Director Don Siegel
+#DirectorImage images/persons/796923.jpg
+#Actor Walter Matthau
+#ActorImage images/persons/527.jpg
+#Actor Joe Don Baker
+#ActorImage images/persons/833.jpg
+#Actor Felicia Farr
+#ActorImage images/persons/268012.jpg
+#Genre Crime | Drama | Thriller
+#Certificate PG
+#Runtime 111 mins.
+#Movie
+#Title The Crazies
+#TitleImage images/titles/597.jpg
+#Outline The military attempts to contain a manmade combat virus that causes death and permanent insanity in those infected, as it overtakes a small Pennsylvania town.
+#Director George A. Romero
+#DirectorImage images/persons/1681.jpg
+#Actor Lane Carroll
+#ActorImage images/persons/140889.jpg
+#Actor Will MacMillan
+#ActorImage images/persons/534032.jpg
+#Actor Harold Wayne Jones
+#ActorImage images/persons/428197.jpg
+#Genre Action | Horror | Sci-Fi | Thriller
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Breezy
+#TitleImage images/titles/598.jpg
+#Outline Breezy is a teen-aged hippy with a big heart. After taking a a ride with a man who only wants her for sex...
+#Director Clint Eastwood
+#DirectorImage images/persons/142.jpg
+#Actor William Holden
+#ActorImage images/persons/34.jpg
+#Actor Kay Lenz
+#ActorImage images/persons/1464.jpg
+#Actor Roger C. Carmel
+#ActorImage images/persons/138354.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 108 mins.
+#Movie
+#Title The Mother and the Whore
+#TitleImage images/titles/599.jpg
+#Outline In Paris, the pedantic Alexandre lives with his mate Marie in her apartment, an open relationship. Alexandre...
+#Director Jean Eustache
+#DirectorImage images/persons/262402.jpg
+#Actor Bernadette Lafont
+#ActorImage images/persons/480942.jpg
+#Actor Jean-Pierre Léaud
+#ActorImage images/persons/529543.jpg
+#Actor Françoise Lebrun
+#ActorImage images/persons/495950.jpg
+#Genre Drama | Romance
+#Runtime 217 mins.
+#Movie
+#Title Tom Sawyer
+#TitleImage images/titles/600.jpg
+#Outline Tom Sawyer and his pal Huckleberry Finn have great adventures on the Mississippi River, pretending to be pirates...
+#Director Don Taylor
+#DirectorImage images/persons/852279.jpg
+#Actor Johnny Whitaker
+#ActorImage images/persons/924278.jpg
+#Actor Celeste Holm
+#ActorImage images/persons/2141.jpg
+#Actor Warren Oates
+#ActorImage images/persons/643105.jpg
+#Genre Adventure | Musical | Family
+#Certificate G
+#Runtime 103 mins.

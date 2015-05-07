@@ -1,0 +1,745 @@
+﻿#Movie
+#Title Dr. No
+#TitleImage images/titles/1.jpg
+#Outline James Bond's investigation of a missing colleague in Jamaica leads him to the island of the mysterious Dr. No and a scheme to end the US space program.
+#Director Terence Young
+#DirectorImage images/persons/950109.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Ursula Andress
+#ActorImage images/persons/266.jpg
+#Actor Bernard Lee
+#ActorImage images/persons/496866.jpg
+#Genre Action | Adventure | Crime | Thriller
+#Certificate APPROVED
+#Runtime 110 mins.
+#Movie
+#Title To Kill a Mockingbird
+#TitleImage images/titles/2.jpg
+#Outline Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.
+#Director Robert Mulligan
+#DirectorImage images/persons/612322.jpg
+#Actor Gregory Peck
+#ActorImage images/persons/60.jpg
+#Actor John Megna
+#ActorImage images/persons/576345.jpg
+#Actor Frank Overton
+#ActorImage images/persons/653942.jpg
+#Genre Crime | Drama | Mystery
+#Certificate APPROVED
+#Runtime 129 mins.
+#Movie
+#Title Lawrence of Arabia
+#TitleImage images/titles/3.jpg
+#Outline Epic rumination on a flamboyant and controversial British military figure and his conflicted loyalties during wartime service.
+#Director David Lean
+#DirectorImage images/persons/180.jpg
+#Actor Peter O'Toole
+#ActorImage images/persons/564.jpg
+#Actor Alec Guinness
+#ActorImage images/persons/27.jpg
+#Actor Anthony Quinn
+#ActorImage images/persons/63.jpg
+#Genre Adventure | Biography | Drama | History | War
+#Certificate TV_14
+#Runtime 216 mins.
+#Movie
+#Title Lolita
+#TitleImage images/titles/4.jpg
+#Outline A middle-aged college professor becomes infatuated with a 14-year-old nymphet.
+#Director Stanley Kubrick
+#DirectorImage images/persons/40.jpg
+#Actor James Mason
+#ActorImage images/persons/51.jpg
+#Actor Shelley Winters
+#ActorImage images/persons/1859.jpg
+#Actor Sue Lyon
+#ActorImage images/persons/528987.jpg
+#Genre Drama | Romance
+#Certificate TV_14
+#Runtime 152 mins.
+#Movie
+#Title The Longest Day
+#TitleImage images/titles/5.jpg
+#Outline The events of D-Day, told on a grand scale from both the Allied and German points of view.
+#Director Ken Annakin
+#DirectorImage images/persons/2175.jpg
+#Director Andrew Marton
+#DirectorImage images/persons/554249.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Robert Ryan
+#ActorImage images/persons/752813.jpg
+#Actor Richard Burton
+#ActorImage images/persons/9.jpg
+#Genre Action | Drama | History | War
+#Certificate G
+#Runtime 178 mins.
+#Movie
+#Title The Manchurian Candidate
+#TitleImage images/titles/6.jpg
+#Outline A former Korean War POW is brainwashed by Communists into becoming a political assassin. But another former prisoner may know how to save him.
+#Director John Frankenheimer
+#DirectorImage images/persons/1239.jpg
+#Actor Frank Sinatra
+#ActorImage images/persons/69.jpg
+#Actor Laurence Harvey
+#ActorImage images/persons/2131.jpg
+#Actor Janet Leigh
+#ActorImage images/persons/1463.jpg
+#Genre Drama | Mystery | Romance | Thriller | War
+#Certificate APPROVED
+#Runtime 126 mins.
+#Movie
+#Title The Man Who Shot Liberty Valance
+#TitleImage images/titles/7.jpg
+#Outline A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.
+#Director John Ford
+#DirectorImage images/persons/406.jpg
+#Actor James Stewart
+#ActorImage images/persons/71.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Vera Miles
+#ActorImage images/persons/587256.jpg
+#Genre Drama | Romance | Western
+#Certificate UNRATED
+#Runtime 123 mins.
+#Movie
+#Title The Lion
+#TitleImage images/titles/8.jpg
+#Outline Young Tina lives with her mother and stepfather on a wildlife reserve in Kenya. While her stepfather...
+#Director Jack Cardiff
+#DirectorImage images/persons/2153.jpg
+#Actor William Holden
+#ActorImage images/persons/34.jpg
+#Actor Trevor Howard
+#ActorImage images/persons/2145.jpg
+#Actor Capucine
+#ActorImage images/persons/1010.jpg
+#Genre Drama
+#Certificate APPROVED
+#Runtime 96 mins.
+#Movie
+#Title What Ever Happened to Baby Jane?
+#TitleImage images/titles/9.jpg
+#Outline In a decaying Hollywood mansion, Jane Hudson, a former child star, and her sister Blanche, a movie queen forced into retirement after a crippling accident, live in virtual isolation.
+#Director Robert Aldrich
+#DirectorImage images/persons/736.jpg
+#Actor Bette Davis
+#ActorImage images/persons/12.jpg
+#Actor Joan Crawford
+#ActorImage images/persons/1076.jpg
+#Actor Victor Buono
+#ActorImage images/persons/120658.jpg
+#Genre Drama | Thriller
+#Certificate UNRATED
+#Runtime 134 mins.
+#Movie
+#Title How the West Was Won
+#TitleImage images/titles/10.jpg
+#Outline A family saga covering several decades of Westward expansion in the nineteenth century--including the Gold Rush, the Civil War, and the building of the railroads.
+#Director John Ford
+#DirectorImage images/persons/406.jpg
+#Director Henry Hathaway
+#DirectorImage images/persons/368871.jpg
+#Actor James Stewart
+#ActorImage images/persons/71.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Gregory Peck
+#ActorImage images/persons/60.jpg
+#Genre Western
+#Certificate APPROVED
+#Runtime 164 mins.
+#Movie
+#Title The Exterminating Angel
+#TitleImage images/titles/11.jpg
+#Outline The guests at an upper-class dinner party find themselves unable to leave.
+#Director Luis Buñuel
+#DirectorImage images/persons/320.jpg
+#Actor Silvia Pinal
+#ActorImage images/persons/683831.jpg
+#Actor Jacqueline Andere
+#ActorImage images/persons/25954.jpg
+#Actor Enrique Rambal
+#ActorImage images/persons/708048.jpg
+#Genre Comedy | Drama | Fantasy | Mystery
+#Certificate UNRATED
+#Runtime 95 mins.
+#Movie
+#Title Mutiny on the Bounty
+#TitleImage images/titles/12.jpg
+#Outline The Bounty leaves Portsmouth in 1787. Its destination: to sail to Tahiti and load bread-fruit. Captain...
+#Director Lewis Milestone
+#DirectorImage images/persons/587277.jpg
+#Actor Marlon Brando
+#ActorImage images/persons/8.jpg
+#Actor Trevor Howard
+#ActorImage images/persons/2145.jpg
+#Actor Richard Harris
+#ActorImage images/persons/1321.jpg
+#Genre Adventure | Drama | History | Romance
+#Certificate UNRATED
+#Runtime 178 mins.
+#Movie
+#Title Burn, Witch, Burn
+#TitleImage images/titles/13.jpg
+#Outline A skeptical college professor discovers that his wife has been practicing magic for years. Like the learned...
+#Director Sidney Hayers
+#DirectorImage images/persons/370868.jpg
+#Actor Peter Wyngarde
+#ActorImage images/persons/943936.jpg
+#Actor Janet Blair
+#ActorImage images/persons/86268.jpg
+#Actor Margaret Johnston
+#ActorImage images/persons/426764.jpg
+#Genre Horror
+#Runtime 90 mins.
+#Movie
+#Title The 300 Spartans
+#TitleImage images/titles/14.jpg
+#Outline Essentially true story of how Spartan king Leonidas led an extremely small army of Greek Soldiers (300...
+#Director Rudolph Maté
+#DirectorImage images/persons/5789.jpg
+#Actor Richard Egan
+#ActorImage images/persons/250724.jpg
+#Actor Ralph Richardson
+#ActorImage images/persons/724732.jpg
+#Actor Diane Baker
+#ActorImage images/persons/832.jpg
+#Genre Adventure | Drama | History | War
+#Certificate APPROVED
+#Runtime 114 mins.
+#Movie
+#Title The Miracle Worker
+#TitleImage images/titles/15.jpg
+#Outline The story of Anne Sullivan's struggle to teach the blind and deaf Helen Keller how to communicate.
+#Director Arthur Penn
+#DirectorImage images/persons/671957.jpg
+#Actor Anne Bancroft
+#ActorImage images/persons/843.jpg
+#Actor Patty Duke
+#ActorImage images/persons/1157.jpg
+#Actor Victor Jory
+#ActorImage images/persons/430460.jpg
+#Genre Biography | Drama
+#Certificate APPROVED
+#Runtime 106 mins.
+#Movie
+#Title Jules and Jim
+#TitleImage images/titles/16.jpg
+#Outline Decades of a love triangle concerning two friends and an impulsive woman.
+#Director François Truffaut
+#DirectorImage images/persons/76.jpg
+#Actor Jeanne Moreau
+#ActorImage images/persons/603402.jpg
+#Actor Oskar Werner
+#ActorImage images/persons/921459.jpg
+#Actor Henri Serre
+#ActorImage images/persons/785676.jpg
+#Genre Drama | Romance
+#Certificate NOT_RATED
+#Runtime 105 mins.
+#Movie
+#Title The Trial
+#TitleImage images/titles/17.jpg
+#Outline An unassuming office worker is arrested and stands trial, but he is never made aware of his charges.
+#Director Orson Welles
+#DirectorImage images/persons/80.jpg
+#Actor Anthony Perkins
+#ActorImage images/persons/578.jpg
+#Actor Jeanne Moreau
+#ActorImage images/persons/603402.jpg
+#Actor Romy Schneider
+#ActorImage images/persons/2769.jpg
+#Genre Crime | Drama | Fantasy | Mystery | Thriller
+#Runtime 118 mins.
+#Movie
+#Title Cape Fear
+#TitleImage images/titles/18.jpg
+#Outline A lawyer's family is stalked by a man he once helped put in jail.
+#Director J. Lee Thompson
+#DirectorImage images/persons/496746.jpg
+#Actor Gregory Peck
+#ActorImage images/persons/60.jpg
+#Actor Robert Mitchum
+#ActorImage images/persons/53.jpg
+#Actor Polly Bergen
+#ActorImage images/persons/917.jpg
+#Genre Thriller
+#Certificate UNRATED
+#Runtime 105 mins.
+#Movie
+#Title Vivre Sa Vie
+#TitleImage images/titles/19.jpg
+#Outline Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.
+#Director Jean-Luc Godard
+#DirectorImage images/persons/419.jpg
+#Actor Anna Karina
+#ActorImage images/persons/439344.jpg
+#Actor Sady Rebbot
+#ActorImage images/persons/714236.jpg
+#Actor André S. Labarthe
+#ActorImage images/persons/479351.jpg
+#Genre Drama
+#Certificate NOT_RATED
+#Runtime 80 mins.
+#Movie
+#Title The Music Man
+#TitleImage images/titles/20.jpg
+#Outline A con man comes to a Midwestern town with a scam using a boy's marching band program, but things don't go according to plan.
+#Director Morton DaCosta
+#DirectorImage images/persons/196536.jpg
+#Actor Robert Preston
+#ActorImage images/persons/696481.jpg
+#Actor Shirley Jones
+#ActorImage images/persons/429250.jpg
+#Actor Buddy Hackett
+#ActorImage images/persons/4983.jpg
+#Genre Musical | Comedy | Family | Romance
+#Certificate APPROVED
+#Runtime 151 mins.
+#Movie
+#Title Harakiri
+#TitleImage images/titles/21.jpg
+#Outline An elder ronin samurai arrives at a feudal lord's home and requests an honorable place to commit suicide. But when the ronin inquires about a younger samurai who arrived before him things take an unexpected turn.
+#Director Masaki Kobayashi
+#DirectorImage images/persons/462030.jpg
+#Actor Tatsuya Nakadai
+#ActorImage images/persons/619938.jpg
+#Actor Akira Ishihama
+#ActorImage images/persons/410968.jpg
+#Actor Shima Iwashita
+#ActorImage images/persons/412615.jpg
+#Genre Drama
+#Certificate NOT_RATED
+#Runtime 133 mins.
+#Movie
+#Title Ivan's Childhood
+#TitleImage images/titles/22.jpg
+#Outline During World War II, 12-year old Ivan works as a spy on the eastern front. The small Ivan can cross the German lines unnoticed to collect information...
+#Director Andrey Tarkovskiy
+#DirectorImage images/persons/1789.jpg
+#Actor Nikolay Burlyaev
+#ActorImage images/persons/122168.jpg
+#Actor Valentin Zubkov
+#ActorImage images/persons/958284.jpg
+#Actor Yevgeni Zharikov
+#ActorImage images/persons/955529.jpg
+#Genre Drama | War
+#Certificate NOT_RATED
+#Runtime 95 mins.
+#Movie
+#Title Cash on Demand
+#TitleImage images/titles/23.jpg
+#Outline A charming but ruthless criminal holds the family of a bank manager hostage as part of a cold-blooded plan to steal 97,000 pounds.
+#Director Quentin Lawrence
+#DirectorImage images/persons/492974.jpg
+#Actor Peter Cushing
+#ActorImage images/persons/1088.jpg
+#Actor André Morell
+#ActorImage images/persons/603682.jpg
+#Actor Richard Vernon
+#ActorImage images/persons/894710.jpg
+#Genre Crime | Drama | Thriller
+#Runtime 66 mins.
+#Movie
+#Title Hatari!
+#TitleImage images/titles/24.jpg
+#Outline A group of men trap wild animals in Africa and sell them to zoos. Will the arrival of a female wildlife photographer change their ways ?
+#Director Howard Hawks
+#DirectorImage images/persons/1328.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Elsa Martinelli
+#ActorImage images/persons/553349.jpg
+#Actor Hardy Krüger
+#ActorImage images/persons/473228.jpg
+#Genre Action | Adventure | Drama | Romance
+#Certificate APPROVED
+#Runtime 157 mins.
+#Movie
+#Title Advise & Consent
+#TitleImage images/titles/25.jpg
+#Outline Senate investigation into the President's newly nominated Secretary of State, gives light to a secret from the past, which may not only ruin the candidate, but the President's character as well.
+#Director Otto Preminger
+#DirectorImage images/persons/695937.jpg
+#Actor Franchot Tone
+#ActorImage images/persons/867144.jpg
+#Actor Lew Ayres
+#ActorImage images/persons/817.jpg
+#Actor Henry Fonda
+#ActorImage images/persons/20.jpg
+#Genre Drama
+#Certificate APPROVED
+#Runtime 139 mins.
+#Movie
+#Title L'eclisse
+#TitleImage images/titles/26.jpg
+#Outline A young woman meets a vital young man, but the love affair is doomed because of the man's materialistic nature.
+#Director Michelangelo Antonioni
+#DirectorImage images/persons/774.jpg
+#Actor Monica Vitti
+#ActorImage images/persons/900143.jpg
+#Actor Alain Delon
+#ActorImage images/persons/1128.jpg
+#Actor Francisco Rabal
+#ActorImage images/persons/704719.jpg
+#Genre Drama | Romance
+#Certificate NOT_RATED
+#Runtime 126 mins.
+#Movie
+#Title Carnival of Souls
+#TitleImage images/titles/27.jpg
+#Outline After a traumatic accident, a woman becomes drawn to a mysterious abandoned carnival.
+#Director Herk Harvey
+#DirectorImage images/persons/367547.jpg
+#Actor Candace Hilligoss
+#ActorImage images/persons/385010.jpg
+#Actor Frances Feist
+#ActorImage images/persons/270766.jpg
+#Actor Sidney Berger
+#ActorImage images/persons/74367.jpg
+#Genre Horror | Thriller
+#Certificate APPROVED
+#Runtime 78 mins.
+#Movie
+#Title Sanjuro
+#TitleImage images/titles/28.jpg
+#Outline A crafty samurai helps a young man and his fellow clansmen save his uncle, who has been framed and imprisoned by a corrupt superintendent.
+#Director Akira Kurosawa
+#DirectorImage images/persons/41.jpg
+#Actor Toshirô Mifune
+#ActorImage images/persons/1536.jpg
+#Actor Tatsuya Nakadai
+#ActorImage images/persons/619938.jpg
+#Actor Keiju Kobayashi
+#ActorImage images/persons/462013.jpg
+#Genre Action | Drama | Thriller
+#Certificate UNRATED
+#Runtime 96 mins.
+#Movie
+#Title Days of Wine and Roses
+#TitleImage images/titles/29.jpg
+#Outline An alcoholic falls in love with and gets married to a young woman, whom he systematically addicts to booze so they can share his "passion" together.
+#Director Blake Edwards
+#DirectorImage images/persons/1175.jpg
+#Actor Jack Lemmon
+#ActorImage images/persons/493.jpg
+#Actor Lee Remick
+#ActorImage images/persons/1665.jpg
+#Actor Charles Bickford
+#ActorImage images/persons/1948.jpg
+#Genre Comedy | Drama
+#Certificate UNRATED
+#Runtime 117 mins.
+#Movie
+#Title Knife in the Water
+#TitleImage images/titles/30.jpg
+#Outline On their way to a sailing trip, an aging husband and wife invite along an emphatic young hitchhiker out of sheer patronization.
+#Director Roman Polanski
+#DirectorImage images/persons/591.jpg
+#Actor Leon Niemczyk
+#ActorImage images/persons/631102.jpg
+#Actor Jolanta Umecka
+#ActorImage images/persons/880840.jpg
+#Actor Zygmunt Malanowicz
+#ActorImage images/persons/538931.jpg
+#Genre Drama
+#Certificate NOT_RATED
+#Runtime 94 mins.
+#Movie
+#Title Birdman of Alcatraz
+#TitleImage images/titles/31.jpg
+#Outline A surly convicted murderer held in permanent isolation redeems himself when he becomes a renowned bird expert.
+#Director John Frankenheimer
+#DirectorImage images/persons/1239.jpg
+#Actor Burt Lancaster
+#ActorImage images/persons/44.jpg
+#Actor Karl Malden
+#ActorImage images/persons/1500.jpg
+#Actor Thelma Ritter
+#ActorImage images/persons/728812.jpg
+#Genre Biography | Drama
+#Runtime 147 mins.
+#Movie
+#Title Long Day's Journey Into Night
+#TitleImage images/titles/32.jpg
+#Outline Author Eugene O'Neill gives an autobiographical account of his explosive homelife, fused by a drug-addicted mother...
+#Director Sidney Lumet
+#DirectorImage images/persons/1486.jpg
+#Actor Katharine Hepburn
+#ActorImage images/persons/31.jpg
+#Actor Ralph Richardson
+#ActorImage images/persons/724732.jpg
+#Actor Jason Robards
+#ActorImage images/persons/1673.jpg
+#Genre Drama
+#Runtime 174 mins.
+#Movie
+#Title The Day of the Triffids
+#TitleImage images/titles/33.jpg
+#Outline A shower of meteorites produces a glow that blinds anyone that looks at it. As it was such a beautiful sight...
+#Director Steve Sekely
+#DirectorImage images/persons/782804.jpg
+#Actor Nicole Maurey
+#ActorImage images/persons/561072.jpg
+#Actor Howard Keel
+#ActorImage images/persons/444476.jpg
+#Actor Janette Scott
+#ActorImage images/persons/779285.jpg
+#Genre Horror | Sci-Fi
+#Certificate APPROVED
+#Runtime 93 mins.
+#Movie
+#Title Gypsy
+#TitleImage images/titles/34.jpg
+#Outline Based on the Broadway hit about the life and times of burlesque dancer Gypsy Rose Lee and her aggressive stage mother, Mama Rose.
+#Director Mervyn LeRoy
+#DirectorImage images/persons/503777.jpg
+#Actor Rosalind Russell
+#ActorImage images/persons/751426.jpg
+#Actor Natalie Wood
+#ActorImage images/persons/81.jpg
+#Actor Karl Malden
+#ActorImage images/persons/1500.jpg
+#Genre Biography | Comedy | Drama | Musical
+#Certificate TV_PG
+#Runtime 143 mins.
+#Movie
+#Title All Night Long
+#TitleImage images/titles/35.jpg
+#Outline The film, based on Othello, is neatly positioned as a vehicle to showcase some of the best Jazz musicians of the period - including Dave Brubeck and Charlie Mingus.
+#Director Basil Dearden
+#DirectorImage images/persons/213136.jpg
+#Actor Patrick McGoohan
+#ActorImage images/persons/1526.jpg
+#Actor Keith Michell
+#ActorImage images/persons/585004.jpg
+#Actor Betsy Blair
+#ActorImage images/persons/86198.jpg
+#Genre Drama
+#Runtime 91 mins.
+#Movie
+#Title Cleo from 5 to 7
+#TitleImage images/titles/36.jpg
+#Outline This movie shows us Cléo, a French singer, who is afraid of getting the result of of a test from her doctor...
+#Director Agnès Varda
+#DirectorImage images/persons/889513.jpg
+#Actor Corinne Marchand
+#ActorImage images/persons/545378.jpg
+#Actor Antoine Bourseiller
+#ActorImage images/persons/100171.jpg
+#Actor Dominique Davray
+#ActorImage images/persons/205815.jpg
+#Genre Comedy | Drama | Music
+#Certificate TV_14
+#Runtime 90 mins.
+#Movie
+#Title Lonely Are the Brave
+#TitleImage images/titles/37.jpg
+#Outline A fiercely independent cowboy arranges to have himself locked up in jail in order to then escape with an old friend who has been sentenced to the penitentiary.
+#Director David Miller
+#DirectorImage images/persons/588183.jpg
+#Actor Kirk Douglas
+#ActorImage images/persons/18.jpg
+#Actor Gena Rowlands
+#ActorImage images/persons/1687.jpg
+#Actor Walter Matthau
+#ActorImage images/persons/527.jpg
+#Genre Drama | Western
+#Certificate TV_PG
+#Runtime 107 mins.
+#Movie
+#Title The Loneliness of the Long Distance Runner
+#TitleImage images/titles/38.jpg
+#Outline A rebellious youth, sentenced to a boy's reformatory for robbing a bakery, rises through the ranks of...
+#Director Tony Richardson
+#DirectorImage images/persons/724798.jpg
+#Actor Michael Redgrave
+#ActorImage images/persons/714878.jpg
+#Actor Tom Courtenay
+#ActorImage images/persons/183822.jpg
+#Actor Avis Bunnage
+#ActorImage images/persons/120517.jpg
+#Genre Drama | Sport
+#Runtime 104 mins.
+#Movie
+#Title Sweet Bird of Youth
+#TitleImage images/titles/39.jpg
+#Outline Drifter Chance Wayne returns to his hometown after many years of trying to make it in the movies. With...
+#Director Richard Brooks
+#DirectorImage images/persons/112218.jpg
+#Actor Paul Newman
+#ActorImage images/persons/56.jpg
+#Actor Geraldine Page
+#ActorImage images/persons/656183.jpg
+#Actor Shirley Knight
+#ActorImage images/persons/4309.jpg
+#Genre Drama
+#Certificate TV_PG
+#Runtime 120 mins.
+#Movie
+#Title Taras Bulba
+#TitleImage images/titles/40.jpg
+#Outline A "Romeo and Juliet" story that takes place in the late 16c. Ukraine. Taras has settled into comfortable...
+#Director J. Lee Thompson
+#DirectorImage images/persons/496746.jpg
+#Actor Tony Curtis
+#ActorImage images/persons/348.jpg
+#Actor Yul Brynner
+#ActorImage images/persons/989.jpg
+#Actor Sam Wanamaker
+#ActorImage images/persons/910737.jpg
+#Genre Action | Adventure | Drama | Romance | War
+#Certificate APPROVED
+#Runtime 122 mins.
+#Movie
+#Title King Kong vs. Godzilla
+#TitleImage images/titles/41.jpg
+#Outline A pharmaceutical company captures King Kong and brings him to Japan, where he escapes from captivity and battles a recently released Godzilla.
+#Director Ishirô Honda
+#DirectorImage images/persons/393094.jpg
+#Actor Tadao Takashima
+#ActorImage images/persons/847396.jpg
+#Actor Kenji Sahara
+#ActorImage images/persons/756292.jpg
+#Actor Yû Fujiki
+#ActorImage images/persons/297741.jpg
+#Genre Action | Adventure | Comedy | Horror | Sci-Fi
+#Certificate APPROVED
+#Runtime 99 mins.
+#Movie
+#Title Hell Is for Heroes
+#TitleImage images/titles/42.jpg
+#Outline Small squad must hold off German attack.
+#Director Don Siegel
+#DirectorImage images/persons/796923.jpg
+#Actor Steve McQueen
+#ActorImage images/persons/537.jpg
+#Actor Bobby Darin
+#ActorImage images/persons/201239.jpg
+#Actor Fess Parker
+#ActorImage images/persons/662240.jpg
+#Genre Action | Drama | War
+#Certificate APPROVED
+#Runtime 90 mins.
+#Movie
+#Title Sodom and Gomorrah
+#TitleImage images/titles/43.jpg
+#Outline Sex, torture and betrayal in Biblical Sodom and Gomorrah. Lot, leader of the Hebrews, believes his people can co-exist with the Sodomites...
+#Director Robert Aldrich
+#DirectorImage images/persons/736.jpg
+#Actor Stewart Granger
+#ActorImage images/persons/1289.jpg
+#Actor Pier Angeli
+#ActorImage images/persons/765.jpg
+#Actor Stanley Baker
+#ActorImage images/persons/48939.jpg
+#Genre Adventure | Drama | History
+#Runtime 154 mins.
+#Movie
+#Title Ride the High Country
+#TitleImage images/titles/44.jpg
+#Outline An ex-lawman is hired to transport gold from a mining community through dangerous territory. But what he doesn't realize is that his partner and old friend is plotting to double-cross him.
+#Director Sam Peckinpah
+#DirectorImage images/persons/1603.jpg
+#Actor Joel McCrea
+#ActorImage images/persons/566948.jpg
+#Actor Randolph Scott
+#ActorImage images/persons/68.jpg
+#Actor Mariette Hartley
+#ActorImage images/persons/366866.jpg
+#Genre Adventure | Drama | Romance | Western
+#Certificate APPROVED
+#Runtime 94 mins.
+#Movie
+#Title That Touch of Mink
+#TitleImage images/titles/45.jpg
+#Outline A rich businessman and a young woman are attracted to each other, but he only wants an affair while she wants to save her virginity for marriage.
+#Director Delbert Mann
+#DirectorImage images/persons/542720.jpg
+#Actor Cary Grant
+#ActorImage images/persons/26.jpg
+#Actor Doris Day
+#ActorImage images/persons/13.jpg
+#Actor Gig Young
+#ActorImage images/persons/949574.jpg
+#Genre Comedy | Romance
+#Runtime 99 mins.
+#Movie
+#Title Boccaccio '70
+#TitleImage images/titles/46.jpg
+#Outline Four directors tell tales of Eros fit for a 1970s Decameron. Working-class lovers, Renzo and Luciana...
+#Director Vittorio De Sica
+#DirectorImage images/persons/1120.jpg
+#Director Federico Fellini
+#DirectorImage images/persons/19.jpg
+#Actor Anita Ekberg
+#ActorImage images/persons/1179.jpg
+#Actor Sophia Loren
+#ActorImage images/persons/47.jpg
+#Actor Romy Schneider
+#ActorImage images/persons/2769.jpg
+#Genre Comedy | Fantasy | Romance
+#Certificate UNRATED
+#Runtime 205 mins.
+#Movie
+#Title Mamma Roma
+#TitleImage images/titles/47.jpg
+#Outline Mamma Roma is a middle-aged whore of Roma. Now she can quit her job to become a fruit seller. And she can take back her 16-year-old son...
+#Director Pier Paolo Pasolini
+#DirectorImage images/persons/1596.jpg
+#Actor Anna Magnani
+#ActorImage images/persons/536167.jpg
+#Actor Ettore Garofolo
+#ActorImage images/persons/307909.jpg
+#Actor Franco Citti
+#ActorImage images/persons/162948.jpg
+#Genre Drama
+#Certificate NOT_RATED
+#Runtime 106 mins.
+#Movie
+#Title The Four Horsemen of the Apocalypse
+#TitleImage images/titles/48.jpg
+#Outline In Argentina, the family man Julio Madariaga is the patriarch of his family and considers his farm the paradise on Earth...
+#Director Vincente Minnelli
+#DirectorImage images/persons/591486.jpg
+#Actor Glenn Ford
+#ActorImage images/persons/1229.jpg
+#Actor Ingrid Thulin
+#ActorImage images/persons/862026.jpg
+#Actor Charles Boyer
+#ActorImage images/persons/964.jpg
+#Genre Drama
+#Runtime 153 mins.
+#Movie
+#Title Electra
+#TitleImage images/titles/49.jpg
+#Outline A powerful rendering of the tragedy of Elektra by Euripides. The film begins with a summary treatment...
+#Director Mihalis Kakogiannis
+#DirectorImage images/persons/128050.jpg
+#Actor Irene Papas
+#ActorImage images/persons/660327.jpg
+#Actor Giannis Fertis
+#ActorImage images/persons/275182.jpg
+#Actor Aleka Katselli
+#ActorImage images/persons/441502.jpg
+#Genre Drama
+#Runtime 110 mins.
+#Movie
+#Title Jack the Giant Killer
+#TitleImage images/titles/50.jpg
+#Outline A farmboy turned knight must protect a princess from the schemes of an evil wizard.
+#Director Nathan Juran
+#DirectorImage images/persons/432846.jpg
+#Actor Kerwin Mathews
+#ActorImage images/persons/558663.jpg
+#Actor Judi Meredith
+#ActorImage images/persons/580603.jpg
+#Actor Torin Thatcher
+#ActorImage images/persons/857147.jpg
+#Genre Fantasy | Family | Adventure
+#Certificate G
+#Runtime 94 mins.

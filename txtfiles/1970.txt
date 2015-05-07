@@ -1,0 +1,729 @@
+#Movie
+#Title The AristoCats
+#TitleImage images/titles/401.jpg
+#Outline With the help of a smooth talking tomcat, a family of Parisian felines set to inherit a fortune from their owner try to make it back home after a jealous butler kidnaps them and leaves them in the country.
+#Director Wolfgang Reitherman
+#DirectorImage images/persons/718627.jpg
+#Actor Phil Harris
+#ActorImage images/persons/365201.jpg
+#Actor Eva Gabor
+#ActorImage images/persons/1247.jpg
+#Actor Sterling Holloway
+#ActorImage images/persons/1359.jpg
+#Genre Animation | Adventure | Comedy | Family | Music
+#Certificate G
+#Runtime 78 mins.
+#Movie
+#Title Love Story
+#TitleImage images/titles/402.jpg
+#Outline Harvard Law student Oliver Barrett IV and music student Jennifer Cavilleri share a chemistry they cannot deny - and a love they cannot ignore...
+#Director Arthur Hiller
+#DirectorImage images/persons/2137.jpg
+#Actor Ali MacGraw
+#ActorImage images/persons/532298.jpg
+#Actor Ryan O'Neal
+#ActorImage images/persons/641939.jpg
+#Actor John Marley
+#ActorImage images/persons/549134.jpg
+#Genre Drama | Romance
+#Runtime 99 mins.
+#Movie
+#Title MASH
+#TitleImage images/titles/403.jpg
+#Outline The staff of a Korean War field hospital use humor and hijinks to keep their sanity in the face of the horror of war.
+#Director Robert Altman
+#DirectorImage images/persons/265.jpg
+#Actor Donald Sutherland
+#ActorImage images/persons/661.jpg
+#Actor Elliott Gould
+#ActorImage images/persons/1285.jpg
+#Actor Tom Skerritt
+#ActorImage images/persons/643.jpg
+#Genre Comedy | War | Drama
+#Certificate R
+#Runtime 116 mins.
+#Movie
+#Title Kelly's Heroes
+#TitleImage images/titles/404.jpg
+#Outline A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.
+#Director Brian G. Hutton
+#DirectorImage images/persons/404606.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Telly Savalas
+#ActorImage images/persons/1699.jpg
+#Actor Don Rickles
+#ActorImage images/persons/725543.jpg
+#Genre Action | Adventure | Comedy | War
+#Runtime 144 mins.
+#Movie
+#Title Patton
+#TitleImage images/titles/405.jpg
+#Outline The World War II phase of the controversial American general's career is depicted.
+#Director Franklin J. Schaffner
+#DirectorImage images/persons/769874.jpg
+#Actor George C. Scott
+#ActorImage images/persons/1715.jpg
+#Actor Karl Malden
+#ActorImage images/persons/1500.jpg
+#Actor Stephen Young
+#ActorImage images/persons/950079.jpg
+#Genre Biography | Drama | History | War
+#Runtime 172 mins.
+#Movie
+#Title Two Mules for Sister Sara
+#TitleImage images/titles/406.jpg
+#Outline Set in Mexico, a nun called Sara is rescued from three cowboys by Hogan, who is on his way to do some reconnaissance...
+#Director Don Siegel
+#DirectorImage images/persons/796923.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Shirley MacLaine
+#ActorImage images/persons/511.jpg
+#Actor Manuel Fábregas
+#ActorImage images/persons/299578.jpg
+#Genre Action | Adventure | Comedy | War | Western
+#Runtime 116 mins.
+#Movie
+#Title Catch-22
+#TitleImage images/titles/407.jpg
+#Outline A man is trying desperately to be certified insane during World War II, so he can stop flying missions.
+#Director Mike Nichols
+#DirectorImage images/persons/1566.jpg
+#Actor Alan Arkin
+#ActorImage images/persons/273.jpg
+#Actor Martin Balsam
+#ActorImage images/persons/842.jpg
+#Actor Richard Benjamin
+#ActorImage images/persons/907.jpg
+#Genre Comedy | War
+#Certificate R
+#Runtime 122 mins.
+#Movie
+#Title Airport
+#TitleImage images/titles/408.jpg
+#Outline Melodrama about a bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.
+#Director George Seaton
+#DirectorImage images/persons/780833.jpg
+#Actor Burt Lancaster
+#ActorImage images/persons/44.jpg
+#Actor Dean Martin
+#ActorImage images/persons/1509.jpg
+#Actor George Kennedy
+#ActorImage images/persons/1421.jpg
+#Genre Drama | Thriller
+#Certificate G
+#Runtime 137 mins.
+#Movie
+#Title Tora! Tora! Tora!
+#TitleImage images/titles/409.jpg
+#Outline A dramatization of the Japanese attack on Pearl Harbor and the series of American blunders that allowed it to happen.
+#Director Richard Fleischer
+#DirectorImage images/persons/281507.jpg
+#Director Kinji Fukasaku
+#DirectorImage images/persons/297935.jpg
+#Actor Martin Balsam
+#ActorImage images/persons/842.jpg
+#Actor Sô Yamamura
+#ActorImage images/persons/945522.jpg
+#Actor Jason Robards
+#ActorImage images/persons/1673.jpg
+#Genre Action | Adventure | Drama | History | War
+#Certificate G
+#Runtime 144 mins.
+#Movie
+#Title The Conformist
+#TitleImage images/titles/410.jpg
+#Outline A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.
+#Director Bernardo Bertolucci
+#DirectorImage images/persons/934.jpg
+#Actor Jean-Louis Trintignant
+#ActorImage images/persons/4462.jpg
+#Actor Stefania Sandrelli
+#ActorImage images/persons/762248.jpg
+#Actor Gastone Moschin
+#ActorImage images/persons/608311.jpg
+#Genre Drama
+#Certificate R
+#Movie
+#Title The Party at Kitty and Stud's
+#TitleImage images/titles/411.jpg
+#Outline Kitty and Stud are lovers. They enjoy a robust sex-life, which includes fellatio and light S&M, specifically, Stud belt-whipping Kitty. Three women come over for a party and Stud services them, one after the other.
+#Director Morton Lewis
+#DirectorImage images/persons/507575.jpg
+#Actor Sylvester Stallone
+#ActorImage images/persons/230.jpg
+#Actor Henrietta Holm
+#ActorImage images/persons/391506.jpg
+#Actor Jodi Van Prang
+#ActorImage images/persons/887757.jpg
+#Genre Adult | Drama
+#Certificate X
+#Runtime 71 mins.
+#Movie
+#Title Five Easy Pieces
+#TitleImage images/titles/412.jpg
+#Outline A drop-out from upper-class America picks up work along the way on oil-rigs when his life isn't spent in a squalid succession of bars, motels, and other points of interest.
+#Director Bob Rafelson
+#DirectorImage images/persons/706182.jpg
+#Actor Jack Nicholson
+#ActorImage images/persons/197.jpg
+#Actor Karen Black
+#ActorImage images/persons/947.jpg
+#Actor Billy Green Bush
+#ActorImage images/persons/124100.jpg
+#Genre Drama
+#Certificate R
+#Runtime 98 mins.
+#Movie
+#Title House of Dark Shadows
+#TitleImage images/titles/413.jpg
+#Outline The story of vampire Barnabas Collins, the possible cure offered by Dr. Julia Hoffman, and his search for love amidst the horror.
+#Director Dan Curtis
+#DirectorImage images/persons/193303.jpg
+#Actor Jonathan Frid
+#ActorImage images/persons/294847.jpg
+#Actor Grayson Hall
+#ActorImage images/persons/355621.jpg
+#Actor Kathryn Leigh Scott
+#ActorImage images/persons/779421.jpg
+#Genre Drama | Horror | Romance
+#Runtime 97 mins.
+#Movie
+#Title Little Big Man
+#TitleImage images/titles/414.jpg
+#Outline Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.
+#Director Arthur Penn
+#DirectorImage images/persons/671957.jpg
+#Actor Dustin Hoffman
+#ActorImage images/persons/163.jpg
+#Actor Faye Dunaway
+#ActorImage images/persons/1159.jpg
+#Actor Chief Dan George
+#ActorImage images/persons/313381.jpg
+#Genre Adventure | Drama | History | War | Western
+#Runtime 139 mins.
+#Movie
+#Title Beneath the Planet of the Apes
+#TitleImage images/titles/415.jpg
+#Outline The sole survivor of an interplanetary rescue mission searches for the only survivor of the previous expedition. He discovers a planet ruled by apes and an underground city run by telekinetic humans.
+#Director Ted Post
+#DirectorImage images/persons/692872.jpg
+#Actor James Franciscus
+#ActorImage images/persons/2082.jpg
+#Actor Kim Hunter
+#ActorImage images/persons/1375.jpg
+#Actor Maurice Evans
+#ActorImage images/persons/263052.jpg
+#Genre Action | Sci-Fi
+#Certificate G
+#Runtime 95 mins.
+#Movie
+#Title El Topo
+#TitleImage images/titles/416.jpg
+#Outline El Topo decides to confront warrior Masters on a trans-formative desert journey he begins with his 6 year old son...
+#Director Alejandro Jodorowsky
+#DirectorImage images/persons/423524.jpg
+#Actor Alejandro Jodorowsky
+#ActorImage images/persons/423524.jpg
+#Actor Brontis Jodorowsky
+#ActorImage images/persons/423526.jpg
+#Actor José Legarreta
+#ActorImage images/persons/499191.jpg
+#Genre Western
+#Certificate NOT_RATED
+#Runtime 125 mins.
+#Movie
+#Title My Name Is Trinity
+#TitleImage images/titles/417.jpg
+#Outline A drifter comes to town where his brother is sheriff. His brother is actually a robber who broke the real sheriff's leg and left him for dead...
+#Director Enzo Barboni
+#DirectorImage images/persons/5645.jpg
+#Actor Terence Hill
+#ActorImage images/persons/1352.jpg
+#Actor Bud Spencer
+#ActorImage images/persons/817881.jpg
+#Actor Steffen Zacharias
+#ActorImage images/persons/951597.jpg
+#Genre Comedy | Western
+#Certificate G
+#Runtime 106 mins.
+#Movie
+#Title Zabriskie Point
+#TitleImage images/titles/418.jpg
+#Outline An epic portrait of late Sixties America, as seen through the portrayal of two of its children: anthropology...
+#Director Michelangelo Antonioni
+#DirectorImage images/persons/774.jpg
+#Actor Mark Frechette
+#ActorImage images/persons/292689.jpg
+#Actor Daria Halprin
+#ActorImage images/persons/356998.jpg
+#Actor Paul Fix
+#ActorImage images/persons/280707.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 110 mins.
+#Movie
+#Title Angels and Demons
+#TitleImage images/titles/419.jpg
+#Outline Young woman and her lover involve a lawyer in their plan to kill her rich uncle and stay with his fortune.
+#Director Carlos Hugo Christensen
+#DirectorImage images/persons/159741.jpg
+#Actor Eva Christian
+#ActorImage images/persons/160019.jpg
+#Actor Geraldo Del Rey
+#ActorImage images/persons/215805.jpg
+#Actor Luiz Fernando Ianelli
+#ActorImage images/persons/406298.jpg
+#Genre Drama
+#Runtime 90 mins.
+#Movie
+#Title The Bird with the Crystal Plumage
+#TitleImage images/titles/420.jpg
+#Outline A writer is stalked by a serial killer after witnessing a murder attempt on one woman's life.
+#Director Dario Argento
+#DirectorImage images/persons/783.jpg
+#Actor Tony Musante
+#ActorImage images/persons/615540.jpg
+#Actor Suzy Kendall
+#ActorImage images/persons/447648.jpg
+#Actor Enrico Maria Salerno
+#ActorImage images/persons/758066.jpg
+#Genre Mystery | Thriller
+#Runtime 98 mins.
+#Movie
+#Title Le cercle rouge
+#TitleImage images/titles/421.jpg
+#Outline Corey is a cool, aristocratic thief, released from prison on the same day that Vogel, a murderer, escapes from the custody of the patient Mattei...
+#Director Jean-Pierre Melville
+#DirectorImage images/persons/578483.jpg
+#Actor Alain Delon
+#ActorImage images/persons/1128.jpg
+#Actor Bourvil
+#ActorImage images/persons/100186.jpg
+#Actor Gian Maria Volonté
+#ActorImage images/persons/2231.jpg
+#Genre Crime | Drama | Thriller
+#Certificate NOT_RATED
+#Runtime 140 mins.
+#Movie
+#Title Ryan's Daughter
+#TitleImage images/titles/422.jpg
+#Outline Set in the wake of the 1916 Easter Rising, a married woman in a small Irish village has an affair with a troubled British officer.
+#Director David Lean
+#DirectorImage images/persons/180.jpg
+#Actor Robert Mitchum
+#ActorImage images/persons/53.jpg
+#Actor Trevor Howard
+#ActorImage images/persons/2145.jpg
+#Actor John Mills
+#ActorImage images/persons/590055.jpg
+#Genre Drama | Romance
+#Movie
+#Title Scrooge
+#TitleImage images/titles/423.jpg
+#Outline A musical retelling of Charles Dickens' classic Christmas tale.
+#Director Ronald Neame
+#DirectorImage images/persons/623768.jpg
+#Actor Albert Finney
+#ActorImage images/persons/1215.jpg
+#Actor Alec Guinness
+#ActorImage images/persons/27.jpg
+#Actor Edith Evans
+#ActorImage images/persons/262725.jpg
+#Genre Fantasy | Musical
+#Certificate G
+#Runtime 113 mins.
+#Movie
+#Title Beyond the Valley of the Dolls
+#TitleImage images/titles/424.jpg
+#Outline Three girls come to Hollywood to make it big, but find only sex, drugs and sleaze.
+#Director Russ Meyer
+#DirectorImage images/persons/540.jpg
+#Actor Dolly Read
+#ActorImage images/persons/713820.jpg
+#Actor Cynthia Myers
+#ActorImage images/persons/616675.jpg
+#Actor Marcia McBroom
+#ActorImage images/persons/564394.jpg
+#Genre Comedy | Drama | Music | Thriller
+#Certificate X
+#Runtime 109 mins.
+#Movie
+#Title Performance
+#TitleImage images/titles/425.jpg
+#Outline Chas, a violent and psychotic East London gangster needs a place to lie low after a hit that should never have been carried out...
+#Director Donald Cammell
+#DirectorImage images/persons/131910.jpg
+#Director Nicolas Roeg
+#DirectorImage images/persons/1676.jpg
+#Actor James Fox
+#ActorImage images/persons/289038.jpg
+#Actor Mick Jagger
+#ActorImage images/persons/1396.jpg
+#Actor Anita Pallenberg
+#ActorImage images/persons/657848.jpg
+#Genre Crime | Drama | Music
+#Certificate R
+#Runtime 105 mins.
+#Movie
+#Title Hell Boats
+#TitleImage images/titles/426.jpg
+#Director Paul Wendkos
+#DirectorImage images/persons/920862.jpg
+#Actor James Franciscus
+#ActorImage images/persons/2082.jpg
+#Actor Elizabeth Shepherd
+#ActorImage images/persons/791774.jpg
+#Actor Ronald Allen
+#ActorImage images/persons/21004.jpg
+#Genre War | Drama
+#Runtime 95 mins.
+#Movie
+#Title Waterloo
+#TitleImage images/titles/427.jpg
+#Outline Facing the decline of everything he has worked to obtain, conqueror Napoleon Bonaparte and his army confront the British at the Battle of Waterloo.
+#Director Sergey Bondarchuk
+#DirectorImage images/persons/94083.jpg
+#Actor Rod Steiger
+#ActorImage images/persons/1768.jpg
+#Actor Christopher Plummer
+#ActorImage images/persons/1626.jpg
+#Actor Orson Welles
+#ActorImage images/persons/80.jpg
+#Genre Action | Drama | History | War
+#Certificate G
+#Movie
+#Title Colossus: The Forbin Project
+#TitleImage images/titles/428.jpg
+#Outline An artificially intelligent supercomputer is developed and activated, only to reveal that it has a sinister agenda of its own.
+#Director Joseph Sargent
+#DirectorImage images/persons/765121.jpg
+#Actor Eric Braeden
+#ActorImage images/persons/967.jpg
+#Actor Susan Clark
+#ActorImage images/persons/164540.jpg
+#Actor Gordon Pinsent
+#ActorImage images/persons/684521.jpg
+#Genre Sci-Fi | Thriller
+#Runtime 100 mins.
+#Movie
+#Title El Condor
+#TitleImage images/titles/429.jpg
+#Outline Luke, an escaped convict, and Jaroo, a loner gold prospector, team up with a band of Apache Indians in 19th century Mexico to capture a large...
+#Director John Guillermin
+#DirectorImage images/persons/347086.jpg
+#Actor Jim Brown
+#ActorImage images/persons/987.jpg
+#Actor Lee Van Cleef
+#ActorImage images/persons/1812.jpg
+#Actor Patrick O'Neal
+#ActorImage images/persons/641929.jpg
+#Genre Action | Adventure | Romance | Western
+#Certificate R
+#Runtime 102 mins.
+#Movie
+#Title A Man Called Horse
+#TitleImage images/titles/430.jpg
+#Outline In 1825 an English aristocrat is captured by Indians. He lives with them and begins to understand/accept their lifestyles...
+#Director Elliot Silverstein
+#DirectorImage images/persons/799033.jpg
+#Actor Richard Harris
+#ActorImage images/persons/1321.jpg
+#Actor Judith Anderson
+#ActorImage images/persons/752.jpg
+#Actor Jean Gascon
+#ActorImage images/persons/309070.jpg
+#Genre Western | Adventure | Drama
+#Runtime 114 mins.
+#Movie
+#Title The Twelve Chairs
+#TitleImage images/titles/431.jpg
+#Outline A treasure hunt. An aging ex-nobleman of the Czarist regime has finally adjusted to life under the commisars in Russia...
+#Director Mel Brooks
+#DirectorImage images/persons/316.jpg
+#Actor Mel Brooks
+#ActorImage images/persons/316.jpg
+#Actor Ron Moody
+#ActorImage images/persons/600531.jpg
+#Actor Frank Langella
+#ActorImage images/persons/1449.jpg
+#Genre Adventure | Comedy
+#Runtime 94 mins.
+#Movie
+#Title Deep End
+#TitleImage images/titles/432.jpg
+#Outline 15-year-old Mike takes a job at the local swimming baths, where he becomes obsessed with an attractive young woman...
+#Director Jerzy Skolimowski
+#DirectorImage images/persons/804592.jpg
+#Actor Jane Asher
+#ActorImage images/persons/38870.jpg
+#Actor John Moulder-Brown
+#ActorImage images/persons/609699.jpg
+#Actor Karl Michael Vogler
+#ActorImage images/persons/901044.jpg
+#Genre Comedy | Drama | Romance
+#Certificate R
+#Movie
+#Title Rio Lobo
+#TitleImage images/titles/433.jpg
+#Outline After the Civil War, Cord McNally searches for the traitor whose perfidy caused the defeat of McNally's unit and the loss of a close friend.
+#Director Howard Hawks
+#DirectorImage images/persons/1328.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Jorge Rivero
+#ActorImage images/persons/729473.jpg
+#Actor Jennifer O'Neill
+#ActorImage images/persons/642198.jpg
+#Genre Adventure | Western | Romance | War
+#Certificate G
+#Runtime 114 mins.
+#Movie
+#Title The Man Who Haunted Himself
+#TitleImage images/titles/434.jpg
+#Outline Harold Pelham encounters a duplicate of himself in the aftermath of a car crash. After that moment his life is upset.
+#Director Basil Dearden
+#DirectorImage images/persons/213136.jpg
+#Actor Roger Moore
+#ActorImage images/persons/549.jpg
+#Actor Hildegard Neil
+#ActorImage images/persons/624680.jpg
+#Actor Alastair Mackenzie
+#ActorImage images/persons/1034132.jpg
+#Genre Drama | Fantasy | Horror | Mystery | Thriller
+#Runtime 89 mins.
+#Movie
+#Title Soldier Blue
+#TitleImage images/titles/435.jpg
+#Outline After a cavalry group is massacred by the Cheyenne, only two survivors remain: Honus, a naive private devoted to his duty...
+#Director Ralph Nelson
+#DirectorImage images/persons/625680.jpg
+#Actor Candice Bergen
+#ActorImage images/persons/298.jpg
+#Actor Peter Strauss
+#ActorImage images/persons/5471.jpg
+#Actor Donald Pleasence
+#ActorImage images/persons/587.jpg
+#Genre Drama | Romance | Thriller | Western
+#Certificate R
+#Runtime 112 mins.
+#Movie
+#Title The Private Life of Sherlock Holmes
+#TitleImage images/titles/436.jpg
+#Outline When a bored Holmes eagerly takes the case of Gabrielle Valladon after an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.
+#Director Billy Wilder
+#DirectorImage images/persons/697.jpg
+#Actor Robert Stephens
+#ActorImage images/persons/827137.jpg
+#Actor Christopher Lee
+#ActorImage images/persons/489.jpg
+#Actor Colin Blakely
+#ActorImage images/persons/86780.jpg
+#Genre Adventure | Comedy | Crime | Mystery | Romance | Thriller
+#Runtime 125 mins.
+#Movie
+#Title Chisum
+#TitleImage images/titles/437.jpg
+#Outline Cattle baron John Chisum joins forces with Billy the Kid and Pat Garrett to fight the Lincoln County land war.
+#Director Andrew V. McLaglen
+#DirectorImage images/persons/572132.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Forrest Tucker
+#ActorImage images/persons/875861.jpg
+#Actor Christopher George
+#ActorImage images/persons/313387.jpg
+#Genre Biography | Western
+#Certificate G
+#Runtime 111 mins.
+#Movie
+#Title The Wild Child
+#TitleImage images/titles/438.jpg
+#Outline 1798. In a forest, some countrymen catch a wild child who can not walk, speak, read nor write. Doctor Itard is interested by the child...
+#Director François Truffaut
+#DirectorImage images/persons/76.jpg
+#Actor François Truffaut
+#ActorImage images/persons/76.jpg
+#Actor Jean-Pierre Cargol
+#ActorImage images/persons/137105.jpg
+#Actor Françoise Seigner
+#ActorImage images/persons/782563.jpg
+#Genre Drama
+#Certificate G
+#Runtime 83 mins.
+#Movie
+#Title A Swedish Love Story
+#TitleImage images/titles/439.jpg
+#Director Roy Andersson
+#DirectorImage images/persons/27815.jpg
+#Actor Ann-Sofie Kylin
+#ActorImage images/persons/477417.jpg
+#Actor Rolf Sohlman
+#ActorImage images/persons/812274.jpg
+#Actor Anita Lindblom
+#ActorImage images/persons/511450.jpg
+#Genre Drama | Romance
+#Runtime 115 mins.
+#Movie
+#Title Myra Breckinridge
+#TitleImage images/titles/440.jpg
+#Outline Myron Breckinridge is waiting for her sex-change operation while a stoned surgeon stumbles into the operating room...
+#Director Michael Sarne
+#DirectorImage images/persons/765398.jpg
+#Actor Mae West
+#ActorImage images/persons/922213.jpg
+#Actor John Huston
+#ActorImage images/persons/1379.jpg
+#Actor Raquel Welch
+#ActorImage images/persons/79.jpg
+#Genre Comedy
+#Certificate X
+#Runtime 94 mins.
+#Movie
+#Title The Out of Towners
+#TitleImage images/titles/441.jpg
+#Outline George and Gwen Kellerman live in the small, quiet town of Twin Oaks, Ohio with their two young children and pet dog...
+#Director Arthur Hiller
+#DirectorImage images/persons/2137.jpg
+#Actor Jack Lemmon
+#ActorImage images/persons/493.jpg
+#Actor Sandy Dennis
+#ActorImage images/persons/6800.jpg
+#Actor Sandy Baron
+#ActorImage images/persons/56310.jpg
+#Genre Comedy
+#Certificate G
+#Runtime 101 mins.
+#Movie
+#Title The Owl and the Pussycat
+#TitleImage images/titles/442.jpg
+#Outline Can a bickering odd couple in Manhattan become friends and maybe more? Owlish Felix is an unpublished...
+#Director Herbert Ross
+#DirectorImage images/persons/6889.jpg
+#Actor Barbra Streisand
+#ActorImage images/persons/659.jpg
+#Actor George Segal
+#ActorImage images/persons/1719.jpg
+#Actor Robert Klein
+#ActorImage images/persons/458951.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 95 mins.
+#Movie
+#Title The Railway Children
+#TitleImage images/titles/443.jpg
+#Outline After the enforced absence of their father, three children move with their mother to Yorkshire, where during their adventures they attempt to discover the reason for his disappearance.
+#Director Lionel Jeffries
+#DirectorImage images/persons/420383.jpg
+#Actor Dinah Sheridan
+#ActorImage images/persons/792163.jpg
+#Actor Bernard Cribbins
+#ActorImage images/persons/187754.jpg
+#Actor William Mervyn
+#ActorImage images/persons/581674.jpg
+#Genre Family | Drama
+#Certificate G
+#Runtime 109 mins.
+#Movie
+#Title Sometimes a Great Notion
+#TitleImage images/titles/444.jpg
+#Outline A family of fiercely-independent Oregon loggers struggle to keep the family business alive amidst changing times.
+#Director Paul Newman
+#DirectorImage images/persons/56.jpg
+#Actor Paul Newman
+#ActorImage images/persons/56.jpg
+#Actor Henry Fonda
+#ActorImage images/persons/20.jpg
+#Actor Lee Remick
+#ActorImage images/persons/1665.jpg
+#Genre Drama | Action | Adventure
+#Runtime 114 mins.
+#Movie
+#Title The Vampire Lovers
+#TitleImage images/titles/445.jpg
+#Outline Seductive vampire Carmilla Karnstein and her family target the beautiful and the rich a remote area of late 18th century Gemany.
+#Director Roy Ward Baker
+#DirectorImage images/persons/1928.jpg
+#Actor Ingrid Pitt
+#ActorImage images/persons/685839.jpg
+#Actor George Cole
+#ActorImage images/persons/170552.jpg
+#Actor Kate O'Mara
+#ActorImage images/persons/641817.jpg
+#Genre Horror
+#Certificate R
+#Runtime 91 mins.
+#Movie
+#Title Cromwell
+#TitleImage images/titles/446.jpg
+#Outline Disgusted with the policies of King Charles I, Oliver Cromwell plans to take his family to the New World...
+#Director Ken Hughes
+#DirectorImage images/persons/400731.jpg
+#Actor Richard Harris
+#ActorImage images/persons/1321.jpg
+#Actor Alec Guinness
+#ActorImage images/persons/27.jpg
+#Actor Robert Morley
+#ActorImage images/persons/605923.jpg
+#Genre Biography | Drama | History | War
+#Certificate G
+#Runtime 139 mins.
+#Movie
+#Title Valerie and Her Week of Wonders
+#TitleImage images/titles/447.jpg
+#Outline Inspired by fairy-tales such as Alice in Wonderland and Little Red-Riding Hood, "Valerie and her Week of Wonders" is a surreal tale in which love, fear, sex and religion merge into one fantastic world.
+#Director Jaromil Jires
+#DirectorImage images/persons/423180.jpg
+#Actor Jaroslava Schallerová
+#ActorImage images/persons/769972.jpg
+#Actor Helena Anýzová
+#ActorImage images/persons/31788.jpg
+#Actor Petr Kopriva
+#ActorImage images/persons/465948.jpg
+#Genre Adventure | Drama | Fantasy
+#Runtime 73 mins.
+#Movie
+#Title Tristana
+#TitleImage images/titles/448.jpg
+#Outline When the young woman Tristana's mother dies, she is entrusted to the guardianship of the well-respected though old Don Lope...
+#Director Luis Buñuel
+#DirectorImage images/persons/320.jpg
+#Actor Catherine Deneuve
+#ActorImage images/persons/366.jpg
+#Actor Fernando Rey
+#ActorImage images/persons/721073.jpg
+#Actor Franco Nero
+#ActorImage images/persons/626259.jpg
+#Genre Drama
+#Runtime 95 mins.
+#Movie
+#Title Pound
+#TitleImage images/titles/449.jpg
+#Outline In a pound, 18 dogs wait to be adopted.
+#Director Robert Downey Sr.
+#DirectorImage images/persons/2049.jpg
+#Actor Joe Madden
+#ActorImage images/persons/257552.jpg
+#Actor James Green
+#ActorImage images/persons/337928.jpg
+#Actor Mariclare Costello
+#ActorImage images/persons/182582.jpg
+#Genre Fantasy
+#Certificate X
+#Runtime 92 mins.
+#Movie
+#Title Count Dracula
+#TitleImage images/titles/450.jpg
+#Outline Jess Franco's version of the Bram Stoker classic has Count Dracula as an old man who grows younger whenever he dines on the blood of young maidens.
+#Director Jesus Franco
+#DirectorImage images/persons/1238.jpg
+#Actor Christopher Lee
+#ActorImage images/persons/489.jpg
+#Actor Herbert Lom
+#ActorImage images/persons/7042.jpg
+#Actor Klaus Kinski
+#ActorImage images/persons/1428.jpg
+#Genre Horror
+#Certificate PG
+#Runtime 98 mins.

@@ -1,0 +1,738 @@
+#Movie
+#Title Thunderball
+#TitleImage images/titles/151.jpg
+#Outline James Bond heads to The Bahamas to recover two nuclear warheads stolen by SPECTRE agent Emilio Largo in an international extortion scheme.
+#Director Terence Young
+#DirectorImage images/persons/950109.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Claudine Auger
+#ActorImage images/persons/805.jpg
+#Actor Adolfo Celi
+#ActorImage images/persons/148041.jpg
+#Genre Action | Adventure | Thriller
+#Certificate APPROVED
+#Runtime 130 mins.
+#Movie
+#Title The Sound of Music
+#TitleImage images/titles/152.jpg
+#Outline A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
+#Director Robert Wise
+#DirectorImage images/persons/936404.jpg
+#Actor Julie Andrews
+#ActorImage images/persons/267.jpg
+#Actor Christopher Plummer
+#ActorImage images/persons/1626.jpg
+#Actor Eleanor Parker
+#ActorImage images/persons/662223.jpg
+#Genre Biography | Drama | Family | Musical | Romance
+#Certificate APPROVED
+#Runtime 174 mins.
+#Movie
+#Title For a Few Dollars More
+#TitleImage images/titles/153.jpg
+#Outline Two bounty hunters with completely different intentions team up to track down a Western outlaw.
+#Director Sergio Leone
+#DirectorImage images/persons/1466.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Lee Van Cleef
+#ActorImage images/persons/1812.jpg
+#Actor Gian Maria Volonté
+#ActorImage images/persons/2231.jpg
+#Genre Western
+#Certificate APPROVED
+#Runtime 132 mins.
+#Movie
+#Title Doctor Zhivago
+#TitleImage images/titles/154.jpg
+#Outline Life of a Russian doctor/poet who, although married, falls for a political activist's wife and experiences hardships during the Bolshevik Revolution.
+#Director David Lean
+#DirectorImage images/persons/180.jpg
+#Actor Omar Sharif
+#ActorImage images/persons/1725.jpg
+#Actor Julie Christie
+#ActorImage images/persons/1046.jpg
+#Actor Geraldine Chaplin
+#ActorImage images/persons/1036.jpg
+#Genre Drama | History | Romance | War
+#Certificate APPROVED
+#Runtime 197 mins.
+#Movie
+#Title The Flight of the Phoenix
+#TitleImage images/titles/155.jpg
+#Outline After a plane crash in the Sahara, one of the survivors says he's an airplane designer and they can make a flyable plane from the wreckage.
+#Director Robert Aldrich
+#DirectorImage images/persons/736.jpg
+#Actor James Stewart
+#ActorImage images/persons/71.jpg
+#Actor Richard Attenborough
+#ActorImage images/persons/277.jpg
+#Actor Peter Finch
+#ActorImage images/persons/2075.jpg
+#Genre Adventure | Drama
+#Certificate APPROVED
+#Runtime 142 mins.
+#Movie
+#Title Repulsion
+#TitleImage images/titles/156.jpg
+#Outline Left alone when her sister goes on vacation, a young beauty finds herself besieged on all sides by the demons of her past.
+#Director Roman Polanski
+#DirectorImage images/persons/591.jpg
+#Actor Catherine Deneuve
+#ActorImage images/persons/366.jpg
+#Actor Ian Hendry
+#ActorImage images/persons/376915.jpg
+#Actor John Fraser
+#ActorImage images/persons/292159.jpg
+#Genre Drama | Horror | Mystery | Thriller
+#Certificate UNRATED
+#Runtime 105 mins.
+#Movie
+#Title She
+#TitleImage images/titles/157.jpg
+#Outline An Edwardian archaeologist and two companions stumble upon a lost city in East Africa, run by a beautiful queen whose love holds the promise of immortality.
+#Director Robert Day
+#DirectorImage images/persons/206560.jpg
+#Actor Ursula Andress
+#ActorImage images/persons/266.jpg
+#Actor Peter Cushing
+#ActorImage images/persons/1088.jpg
+#Actor Bernard Cribbins
+#ActorImage images/persons/187754.jpg
+#Genre Adventure | Fantasy
+#Certificate UNRATED
+#Runtime 106 mins.
+#Movie
+#Title What's New Pussycat
+#TitleImage images/titles/158.jpg
+#Outline A playboy who refuses to give up his hedonistic lifestyle to settle down and marry his true love seeks help from a demented psychoanalyst who is having romantic problems of his own.
+#Director Clive Donner
+#DirectorImage images/persons/232795.jpg
+#Director Richard Talmadge
+#DirectorImage images/persons/848234.jpg
+#Actor Peter Sellers
+#ActorImage images/persons/634.jpg
+#Actor Peter O'Toole
+#ActorImage images/persons/564.jpg
+#Actor Romy Schneider
+#ActorImage images/persons/2769.jpg
+#Genre Comedy
+#Certificate APPROVED
+#Runtime 108 mins.
+#Movie
+#Title Pierrot le Fou
+#TitleImage images/titles/159.jpg
+#Outline Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run.
+#Director Jean-Luc Godard
+#DirectorImage images/persons/419.jpg
+#Actor Jean-Paul Belmondo
+#ActorImage images/persons/901.jpg
+#Actor Anna Karina
+#ActorImage images/persons/439344.jpg
+#Actor Graziella Galvani
+#ActorImage images/persons/303413.jpg
+#Genre Comedy | Crime | Drama | Musical | Romance
+#Certificate NOT_RATED
+#Runtime 110 mins.
+#Movie
+#Title Faster, Pussycat! Kill! Kill!
+#TitleImage images/titles/160.jpg
+#Outline Three strippers seeking thrills encounter a young couple in the desert. After dispatching the boyfriend...
+#Director Russ Meyer
+#DirectorImage images/persons/540.jpg
+#Actor Tura Satana
+#ActorImage images/persons/766100.jpg
+#Actor Haji
+#ActorImage images/persons/354486.jpg
+#Actor Lori Williams
+#ActorImage images/persons/931186.jpg
+#Genre Action | Comedy
+#Certificate TV_14
+#Runtime 83 mins.
+#Movie
+#Title The Spy Who Came in from the Cold
+#TitleImage images/titles/161.jpg
+#Outline British agent Alec Leamas refuses to come in from the cold war during the 1960s, choosing to face another mission, which may prove to be his final one.
+#Director Martin Ritt
+#DirectorImage images/persons/728688.jpg
+#Actor Richard Burton
+#ActorImage images/persons/9.jpg
+#Actor Oskar Werner
+#ActorImage images/persons/921459.jpg
+#Actor Claire Bloom
+#ActorImage images/persons/1954.jpg
+#Genre Drama
+#Certificate UNRATED
+#Runtime 112 mins.
+#Movie
+#Title Battle of the Bulge
+#TitleImage images/titles/162.jpg
+#Outline In the winter of 1944, the Allied Armies stand ready to invade Germany at the coming of a New Year. To prevent this occurrence...
+#Director Ken Annakin
+#DirectorImage images/persons/2175.jpg
+#Actor Henry Fonda
+#ActorImage images/persons/20.jpg
+#Actor Robert Shaw
+#ActorImage images/persons/1727.jpg
+#Actor Robert Ryan
+#ActorImage images/persons/752813.jpg
+#Genre War | Action | Drama
+#Certificate APPROVED
+#Runtime 167 mins.
+#Movie
+#Title Torment of the Flesh
+#TitleImage images/titles/163.jpg
+#Director Eddy Saller
+#DirectorImage images/persons/758555.jpg
+#Actor Herbert Fux
+#ActorImage images/persons/299439.jpg
+#Actor Hermann Laforet
+#ActorImage images/persons/481002.jpg
+#Actor Hanns Obonya
+#ActorImage images/persons/643451.jpg
+#Movie
+#Title The Great Race
+#TitleImage images/titles/164.jpg
+#Outline Comedy about an early 20th century car race across three continents.
+#Director Blake Edwards
+#DirectorImage images/persons/1175.jpg
+#Actor Tony Curtis
+#ActorImage images/persons/348.jpg
+#Actor Natalie Wood
+#ActorImage images/persons/81.jpg
+#Actor Jack Lemmon
+#ActorImage images/persons/493.jpg
+#Genre Action | Adventure | Comedy | Family | Musical | Romance | Sport
+#Certificate TV_PG
+#Runtime 160 mins.
+#Movie
+#Title The Sandpiper
+#TitleImage images/titles/165.jpg
+#Outline Free-spirited, young, unwed mother seduces a Episcopalian priest. Lots of pretty beach/ocean scenery.
+#Director Vincente Minnelli
+#DirectorImage images/persons/591486.jpg
+#Actor Elizabeth Taylor
+#ActorImage images/persons/72.jpg
+#Actor Richard Burton
+#ActorImage images/persons/9.jpg
+#Actor Eva Marie Saint
+#ActorImage images/persons/1693.jpg
+#Genre Drama
+#Certificate TV_14
+#Runtime 117 mins.
+#Movie
+#Title Alphaville
+#TitleImage images/titles/166.jpg
+#Outline A US secret agent is sent to the distant space city of Alphaville where he must find a missing person and free the city from its tyrannical ruler.
+#Director Jean-Luc Godard
+#DirectorImage images/persons/419.jpg
+#Actor Eddie Constantine
+#ActorImage images/persons/176061.jpg
+#Actor Anna Karina
+#ActorImage images/persons/439344.jpg
+#Actor Akim Tamiroff
+#ActorImage images/persons/848667.jpg
+#Genre Drama | Mystery | Sci-Fi | Thriller
+#Certificate NOT_RATED
+#Runtime 99 mins.
+#Movie
+#Title Cat Ballou
+#TitleImage images/titles/167.jpg
+#Outline A woman seeking revenge for her murdered father hires a famous gunman, but he's very different from what she expects.
+#Director Elliot Silverstein
+#DirectorImage images/persons/799033.jpg
+#Actor Jane Fonda
+#ActorImage images/persons/404.jpg
+#Actor Lee Marvin
+#ActorImage images/persons/1511.jpg
+#Actor Michael Callan
+#ActorImage images/persons/130286.jpg
+#Genre Comedy | Musical | Western
+#Certificate APPROVED
+#Runtime 97 mins.
+#Movie
+#Title The Greatest Story Ever Told
+#TitleImage images/titles/168.jpg
+#Outline The life of Jesus Christ.
+#Director George Stevens
+#DirectorImage images/persons/828419.jpg
+#Actor Max von Sydow
+#ActorImage images/persons/1884.jpg
+#Actor Dorothy McGuire
+#ActorImage images/persons/570192.jpg
+#Actor Charlton Heston
+#ActorImage images/persons/32.jpg
+#Genre Biography | Drama | History
+#Certificate APPROVED
+#Movie
+#Title Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 hours 11 minutes
+#TitleImage images/titles/169.jpg
+#Outline Sabotage efforts damage an international air race.
+#Director Ken Annakin
+#DirectorImage images/persons/2175.jpg
+#Actor Stuart Whitman
+#ActorImage images/persons/926183.jpg
+#Actor Sarah Miles
+#ActorImage images/persons/587234.jpg
+#Actor James Fox
+#ActorImage images/persons/289038.jpg
+#Genre Adventure | Comedy | Action
+#Certificate G
+#Runtime 138 mins.
+#Movie
+#Title Ship of Fools
+#TitleImage images/titles/170.jpg
+#Outline Passengers on a ship traveling from Mexico to Europe in the 1930s represent society at large in that era...
+#Director Stanley Kramer
+#DirectorImage images/persons/6452.jpg
+#Actor Vivien Leigh
+#ActorImage images/persons/46.jpg
+#Actor Simone Signoret
+#ActorImage images/persons/797531.jpg
+#Actor José Ferrer
+#ActorImage images/persons/1207.jpg
+#Genre Drama | Romance | War
+#Runtime 149 mins.
+#Movie
+#Title The Cincinnati Kid
+#TitleImage images/titles/171.jpg
+#Outline An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.
+#Director Norman Jewison
+#DirectorImage images/persons/422484.jpg
+#Actor Steve McQueen
+#ActorImage images/persons/537.jpg
+#Actor Ann-Margret
+#ActorImage images/persons/268.jpg
+#Actor Edward G. Robinson
+#ActorImage images/persons/64.jpg
+#Genre Drama
+#Runtime 102 mins.
+#Movie
+#Title The Ipcress File
+#TitleImage images/titles/172.jpg
+#Outline In London, a counter espionage agent deals with his own bureaucracy while investigating the kidnapping and brainwashing of British scientists.
+#Director Sidney J. Furie
+#DirectorImage images/persons/2089.jpg
+#Actor Michael Caine
+#ActorImage images/persons/323.jpg
+#Actor Nigel Green
+#ActorImage images/persons/338210.jpg
+#Actor Guy Doleman
+#ActorImage images/persons/230934.jpg
+#Genre Thriller
+#Runtime 109 mins.
+#Movie
+#Title The Collector
+#TitleImage images/titles/173.jpg
+#Outline A man kidnaps a woman and holds her hostage just for the pleasure of having her there.
+#Director William Wyler
+#DirectorImage images/persons/943758.jpg
+#Actor Terence Stamp
+#ActorImage images/persons/654.jpg
+#Actor Samantha Eggar
+#ActorImage images/persons/2058.jpg
+#Actor Mona Washbourne
+#ActorImage images/persons/913332.jpg
+#Genre Drama | Horror | Thriller
+#Certificate UNRATED
+#Runtime 119 mins.
+#Movie
+#Title Help!
+#TitleImage images/titles/174.jpg
+#Outline Ringo finds himself the human sacrifice target of a cult and the band must try to protect him from it.
+#Director Richard Lester
+#DirectorImage images/persons/504513.jpg
+#Actor John Lennon
+#ActorImage images/persons/6168.jpg
+#Actor Paul McCartney
+#ActorImage images/persons/5200.jpg
+#Actor George Harrison
+#ActorImage images/persons/365600.jpg
+#Genre Adventure | Comedy | Musical
+#Certificate APPROVED
+#Runtime 92 mins.
+#Movie
+#Title Von Ryan's Express
+#TitleImage images/titles/175.jpg
+#Outline An American POW leads a group mainly British prisoners to escape from the Germans in WWII.
+#Director Mark Robson
+#DirectorImage images/persons/733476.jpg
+#Actor Frank Sinatra
+#ActorImage images/persons/69.jpg
+#Actor Trevor Howard
+#ActorImage images/persons/2145.jpg
+#Actor Raffaella Carrà
+#ActorImage images/persons/141123.jpg
+#Genre Action | Adventure | War
+#Certificate UNRATED
+#Runtime 117 mins.
+#Movie
+#Title In Harm's Way
+#TitleImage images/titles/176.jpg
+#Outline A naval officer reprimanded after Pearl Harbor is later promoted to rear admiral and gets a second chance to prove himself against the Japanese.
+#Director Otto Preminger
+#DirectorImage images/persons/695937.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Kirk Douglas
+#ActorImage images/persons/18.jpg
+#Actor Patricia Neal
+#ActorImage images/persons/623658.jpg
+#Genre Drama | War
+#Certificate TV_14
+#Runtime 165 mins.
+#Movie
+#Title The Hill
+#TitleImage images/titles/177.jpg
+#Outline In a North African military prison during World War II, five new prisoners struggle to survive in the face of brutal punishment and sadistic guards.
+#Director Sidney Lumet
+#DirectorImage images/persons/1486.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Harry Andrews
+#ActorImage images/persons/28674.jpg
+#Actor Ian Bannen
+#ActorImage images/persons/846.jpg
+#Genre Drama | War
+#Certificate TV_14
+#Runtime 123 mins.
+#Movie
+#Title The Agony and the Ecstasy
+#TitleImage images/titles/178.jpg
+#Outline The biographical story of Michelangelo's troubles while painting the Sistine Chapel at the urging of Pope Julius II.
+#Director Carol Reed
+#DirectorImage images/persons/715346.jpg
+#Actor Charlton Heston
+#ActorImage images/persons/32.jpg
+#Actor Rex Harrison
+#ActorImage images/persons/1322.jpg
+#Actor Diane Cilento
+#ActorImage images/persons/162284.jpg
+#Genre Drama | History
+#Certificate APPROVED
+#Runtime 138 mins.
+#Movie
+#Title Cr�nica de un ni�o solo
+#TitleImage images/titles/179.jpg
+#Outline CHRONICLE OF A BOY ALONE, is an indictment of a fascist regime running roughshod over its most vulnerable citizens...
+#Director Leonardo Favio
+#DirectorImage images/persons/269420.jpg
+#Actor Diego Puente
+#ActorImage images/persons/699904.jpg
+#Actor Tino Pascali
+#ActorImage images/persons/664317.jpg
+#Actor Cacho Espíndola
+#ActorImage images/persons/261230.jpg
+#Genre Drama
+#Runtime 79 mins.
+#Movie
+#Title The Sons of Katie Elder
+#TitleImage images/titles/180.jpg
+#Outline Ranch owner Katie Elder's four sons determine to avenge the murder of their father and the swindling of their mother.
+#Director Henry Hathaway
+#DirectorImage images/persons/368871.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Dean Martin
+#ActorImage images/persons/1509.jpg
+#Actor Martha Hyer
+#ActorImage images/persons/405054.jpg
+#Genre Western
+#Certificate APPROVED
+#Runtime 122 mins.
+#Movie
+#Title Morituri
+#TitleImage images/titles/181.jpg
+#Outline A German living in India during World War II is blackmailed by the English to impersonate an SS officer...
+#Director Bernhard Wicki
+#DirectorImage images/persons/926919.jpg
+#Actor Marlon Brando
+#ActorImage images/persons/8.jpg
+#Actor Yul Brynner
+#ActorImage images/persons/989.jpg
+#Actor Janet Margolin
+#ActorImage images/persons/546755.jpg
+#Genre Drama | War
+#Certificate APPROVED
+#Runtime 123 mins.
+#Movie
+#Title How to Murder Your Wife
+#TitleImage images/titles/182.jpg
+#Outline A man who has set up the perfect lifestyle for himself makes the mistake of marrying while drunk... and his fantasies of murder are used against him.
+#Director Richard Quine
+#DirectorImage images/persons/703689.jpg
+#Actor Jack Lemmon
+#ActorImage images/persons/493.jpg
+#Actor Virna Lisi
+#ActorImage images/persons/514059.jpg
+#Actor Terry-Thomas
+#ActorImage images/persons/856103.jpg
+#Genre Comedy
+#Certificate APPROVED
+#Runtime 118 mins.
+#Movie
+#Title Red Beard
+#TitleImage images/titles/183.jpg
+#Outline In 19th century Japan, a rough tempered yet charitable town doctor trains a young intern.
+#Director Akira Kurosawa
+#DirectorImage images/persons/41.jpg
+#Actor Toshirô Mifune
+#ActorImage images/persons/1536.jpg
+#Actor Yûzô Kayama
+#ActorImage images/persons/443232.jpg
+#Actor Tsutomu Yamazaki
+#ActorImage images/persons/945734.jpg
+#Genre Drama
+#Certificate NOT_RATED
+#Runtime 185 mins.
+#Movie
+#Title Shenandoah
+#TitleImage images/titles/184.jpg
+#Outline In Shenandoah, Virginia, the widower farmer Charlie Anderson lives a peaceful life with his six sons - Jacob...
+#Director Andrew V. McLaglen
+#DirectorImage images/persons/572132.jpg
+#Actor James Stewart
+#ActorImage images/persons/71.jpg
+#Actor Doug McClure
+#ActorImage images/persons/565982.jpg
+#Actor Glenn Corbett
+#ActorImage images/persons/179148.jpg
+#Genre Drama | War | Western
+#Certificate APPROVED
+#Runtime 105 mins.
+#Movie
+#Title Agatha Christie's 'Ten Little Indians'
+#TitleImage images/titles/185.jpg
+#Outline Agatha Christie tale of 10 people invited to an isolated place only to find that an unseen person is killing them one by one. One of them?
+#Director George Pollock
+#DirectorImage images/persons/689659.jpg
+#Actor Hugh O'Brian
+#ActorImage images/persons/639385.jpg
+#Actor Shirley Eaton
+#ActorImage images/persons/247881.jpg
+#Actor Fabian
+#ActorImage images/persons/3104.jpg
+#Genre Crime | Mystery | Thriller
+#Runtime 91 mins.
+#Movie
+#Title Mirage
+#TitleImage images/titles/186.jpg
+#Outline A New York man suffers amnesia. He soon learns that he's mixed up in a life-and-death situation, but what exactly is it?
+#Director Edward Dmytryk
+#DirectorImage images/persons/229424.jpg
+#Actor Gregory Peck
+#ActorImage images/persons/60.jpg
+#Actor Diane Baker
+#ActorImage images/persons/832.jpg
+#Actor Walter Matthau
+#ActorImage images/persons/527.jpg
+#Genre Mystery | Thriller
+#Certificate APPROVED
+#Runtime 108 mins.
+#Movie
+#Title Monster a-Go Go
+#TitleImage images/titles/187.jpg
+#Outline A space capsule crash-lands, and the astronaut aboard disappears. Is there a connection between the missing man and the monster roaming the area?
+#Director Bill Rebane
+#DirectorImage images/persons/714215.jpg
+#Actor Phil Morton
+#ActorImage images/persons/608068.jpg
+#Actor June Travis
+#ActorImage images/persons/871403.jpg
+#Actor George Perry
+#ActorImage images/persons/675079.jpg
+#Genre Sci-Fi | Horror
+#Certificate TV_PG
+#Runtime 70 mins.
+#Movie
+#Title That Darn Cat!
+#TitleImage images/titles/188.jpg
+#Outline A woman is kidnapped. While in captivity, she manages to send a message out with a wandering cat. The cat's owner calls the FBI...
+#Director Robert Stevenson
+#DirectorImage images/persons/829038.jpg
+#Actor Hayley Mills
+#ActorImage images/persons/1539.jpg
+#Actor Dean Jones
+#ActorImage images/persons/427894.jpg
+#Actor Dorothy Provine
+#ActorImage images/persons/699063.jpg
+#Genre Family | Comedy | Thriller
+#Certificate APPROVED
+#Runtime 112 mins.
+#Movie
+#Title Darling
+#TitleImage images/titles/189.jpg
+#Outline A beautiful but amoral model sleeps her way to the top of the London fashion scene at the height of the Swinging Sixties.
+#Director John Schlesinger
+#DirectorImage images/persons/772259.jpg
+#Actor Julie Christie
+#ActorImage images/persons/1046.jpg
+#Actor Dirk Bogarde
+#ActorImage images/persons/1958.jpg
+#Actor Laurence Harvey
+#ActorImage images/persons/2131.jpg
+#Genre Drama | Romance
+#Certificate TV_MA
+#Runtime 128 mins.
+#Movie
+#Title Juliet of the Spirits
+#TitleImage images/titles/190.jpg
+#Outline Visions, memories, and mysticism all help a 40-something woman to find the strength to leave her cheating husband.
+#Director Federico Fellini
+#DirectorImage images/persons/19.jpg
+#Actor Giulietta Masina
+#ActorImage images/persons/556399.jpg
+#Actor Sandra Milo
+#ActorImage images/persons/590452.jpg
+#Actor Mario Pisu
+#ActorImage images/persons/685609.jpg
+#Genre Comedy | Drama | Fantasy
+#Certificate NOT_RATED
+#Runtime 137 mins.
+#Movie
+#Title Dr. Who and the Daleks
+#TitleImage images/titles/191.jpg
+#Outline An eccentric inventor and his companions travel in his TARDIS to the Planet Skaro and battle the evil menace of the Daleks.
+#Director Gordon Flemyng
+#DirectorImage images/persons/281865.jpg
+#Actor Peter Cushing
+#ActorImage images/persons/1088.jpg
+#Actor Roy Castle
+#ActorImage images/persons/145321.jpg
+#Actor Jennie Linden
+#ActorImage images/persons/511614.jpg
+#Genre Sci-Fi
+#Runtime 82 mins.
+#Movie
+#Title The War Lord
+#TitleImage images/titles/192.jpg
+#Outline A knight in the service of a duke goes to a coastal villiage where an earlier attempt to build a defensive castle has failed...
+#Director Franklin J. Schaffner
+#DirectorImage images/persons/769874.jpg
+#Actor Charlton Heston
+#ActorImage images/persons/32.jpg
+#Actor Richard Boone
+#ActorImage images/persons/95524.jpg
+#Actor Rosemary Forsyth
+#ActorImage images/persons/287071.jpg
+#Genre Drama | History
+#Certificate APPROVED
+#Runtime 123 mins.
+#Movie
+#Title Do Not Disturb
+#TitleImage images/titles/193.jpg
+#Outline American couple Mike and Janet Harper move to England for Mike's work, his company which deals in wool textiles and wool fashions...
+#Director Ralph Levy
+#DirectorImage images/persons/506589.jpg
+#Actor Doris Day
+#ActorImage images/persons/13.jpg
+#Actor Rod Taylor
+#ActorImage images/persons/1792.jpg
+#Actor Hermione Baddeley
+#ActorImage images/persons/45968.jpg
+#Genre Comedy
+#Runtime 102 mins.
+#Movie
+#Title Orgy of the Dead
+#TitleImage images/titles/194.jpg
+#Outline John and his girlfriend Shirley go in search of a cemetary in order to inspire John for writing his next horror story...
+#Director Stephen C. Apostolof
+#DirectorImage images/persons/32154.jpg
+#Actor Criswell
+#ActorImage images/persons/188186.jpg
+#Actor Fawn Silver
+#ActorImage images/persons/798690.jpg
+#Actor Pat Barrington
+#ActorImage images/persons/57496.jpg
+#Genre Fantasy | Horror
+#Certificate UNRATED
+#Runtime 92 mins.
+#Movie
+#Title A Patch of Blue
+#TitleImage images/titles/195.jpg
+#Outline A blind, uneducated white girl is befriended by a black man, who becomes determined to help her escape her impoverished and abusive home life.
+#Director Guy Green
+#DirectorImage images/persons/337885.jpg
+#Actor Sidney Poitier
+#ActorImage images/persons/1627.jpg
+#Actor Shelley Winters
+#ActorImage images/persons/1859.jpg
+#Actor Elizabeth Hartman
+#ActorImage images/persons/366946.jpg
+#Genre Drama
+#Certificate UNRATED
+#Runtime 105 mins.
+#Movie
+#Title Major Dundee
+#TitleImage images/titles/196.jpg
+#Outline During the last winter of the Civil War, cavalry officer Amos Dundee leads a contentious troop of Army regulars...
+#Director Sam Peckinpah
+#DirectorImage images/persons/1603.jpg
+#Actor Charlton Heston
+#ActorImage images/persons/32.jpg
+#Actor Richard Harris
+#ActorImage images/persons/1321.jpg
+#Actor Jim Hutton
+#ActorImage images/persons/1380.jpg
+#Genre Adventure | War | Western
+#Certificate APPROVED
+#Runtime 123 mins.
+#Movie
+#Title The Heroes of Telemark
+#TitleImage images/titles/197.jpg
+#Outline Norwegian resistance tries to stop German troops to produce an atomic bomb component during WW2. Based on a true story.
+#Director Anthony Mann
+#DirectorImage images/persons/542649.jpg
+#Actor Kirk Douglas
+#ActorImage images/persons/18.jpg
+#Actor Richard Harris
+#ActorImage images/persons/1321.jpg
+#Actor Ulla Jacobsson
+#ActorImage images/persons/414965.jpg
+#Genre Action | Drama | History | War
+#Certificate APPROVED
+#Runtime 131 mins.
+#Movie
+#Title Beach Blanket Bingo
+#TitleImage images/titles/198.jpg
+#Outline In the fourth of the highly successful Frankie and Annette beach party movies, a motorcycle gang led...
+#Director William Asher
+#DirectorImage images/persons/38906.jpg
+#Actor Frankie Avalon
+#ActorImage images/persons/811.jpg
+#Actor Annette Funicello
+#ActorImage images/persons/2088.jpg
+#Actor Deborah Walley
+#ActorImage images/persons/909117.jpg
+#Genre Comedy | Musical | Romance
+#Certificate UNRATED
+#Runtime 98 mins.
+#Movie
+#Title Operation Crossbow
+#TitleImage images/titles/199.jpg
+#Outline Allied agents attempt to infiltrate the Nazis' rocket research site.
+#Director Michael Anderson
+#DirectorImage images/persons/27183.jpg
+#Actor Sophia Loren
+#ActorImage images/persons/47.jpg
+#Actor George Peppard
+#ActorImage images/persons/577.jpg
+#Actor Trevor Howard
+#ActorImage images/persons/2145.jpg
+#Genre Action | Drama | War
+#Certificate PG_13
+#Runtime 115 mins.
+#Movie
+#Title Genghis Khan
+#TitleImage images/titles/200.jpg
+#Director Henry Levin
+#DirectorImage images/persons/505610.jpg
+#Actor Stephen Boyd
+#ActorImage images/persons/963.jpg
+#Actor Omar Sharif
+#ActorImage images/persons/1725.jpg
+#Actor James Mason
+#ActorImage images/persons/51.jpg
+#Genre Adventure | Drama | History | War
+#Runtime 127 mins.

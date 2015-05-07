@@ -1,0 +1,756 @@
+#Movie
+#Title Love Actually
+#TitleImage images/titles/2051.jpg
+#Outline Follows the lives of eight very different couples in dealing with their love lives in various loosely and interrelated tales all set during a frantic month before Christmas in London, England.
+#Director Richard Curtis
+#DirectorImage images/persons/193485.jpg
+#Actor Hugh Grant
+#ActorImage images/persons/424.jpg
+#Actor Martine McCutcheon
+#ActorImage images/persons/567356.jpg
+#Actor Liam Neeson
+#ActorImage images/persons/553.jpg
+#Genre Comedy | Drama | Romance
+#Certificate R
+#Runtime 135 mins.
+#Movie
+#Title The Lord of the Rings: The Return of the King
+#TitleImage images/titles/2052.jpg
+#Outline Aragorn leads the World of Men against Sauron's army to draw the dark lord's gaze from Frodo and Sam who are on the doorstep of Mount Doom with the One Ring.
+#Director Peter Jackson
+#DirectorImage images/persons/1392.jpg
+#Actor Elijah Wood
+#ActorImage images/persons/704.jpg
+#Actor Viggo Mortensen
+#ActorImage images/persons/1557.jpg
+#Actor Ian McKellen
+#ActorImage images/persons/5212.jpg
+#Genre Action | Adventure | Fantasy
+#Certificate PG_13
+#Runtime 201 mins.
+#Movie
+#Title Finding Nemo
+#TitleImage images/titles/2053.jpg
+#Outline After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+#Director Andrew Stanton
+#DirectorImage images/persons/4056.jpg
+#Director Lee Unkrich
+#DirectorImage images/persons/881279.jpg
+#Actor Albert Brooks
+#ActorImage images/persons/983.jpg
+#Actor Ellen DeGeneres
+#ActorImage images/persons/1122.jpg
+#Actor Alexander Gould
+#ActorImage images/persons/1071252.jpg
+#Genre Animation | Adventure | Comedy | Family
+#Certificate G
+#Runtime 100 mins.
+#Movie
+#Title Oldboy
+#TitleImage images/titles/2054.jpg
+#Outline After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.
+#Director Chan-wook Park
+#DirectorImage images/persons/661791.jpg
+#Actor Min-sik Choi
+#ActorImage images/persons/158856.jpg
+#Actor Ji-tae Yu
+#ActorImage images/persons/949167.jpg
+#Actor Hye-jeong Kang
+#ActorImage images/persons/1367246.jpg
+#Genre Drama | Mystery | Thriller
+#Certificate R
+#Runtime 120 mins.
+#Movie
+#Title Pirates of the Caribbean: The Curse of the Black Pearl
+#TitleImage images/titles/2055.jpg
+#Outline Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.
+#Director Gore Verbinski
+#DirectorImage images/persons/893659.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Actor Geoffrey Rush
+#ActorImage images/persons/1691.jpg
+#Actor Orlando Bloom
+#ActorImage images/persons/89217.jpg
+#Genre Action | Adventure | Fantasy
+#Certificate PG_13
+#Runtime 143 mins.
+#Movie
+#Title Big Fish
+#TitleImage images/titles/2056.jpg
+#Outline A son tries to learn more about his dying father by reliving stories and myths he told about his life.
+#Director Tim Burton
+#DirectorImage images/persons/318.jpg
+#Actor Ewan McGregor
+#ActorImage images/persons/191.jpg
+#Actor Albert Finney
+#ActorImage images/persons/1215.jpg
+#Actor Billy Crudup
+#ActorImage images/persons/1082.jpg
+#Genre Adventure | Drama | Fantasy | Mystery
+#Certificate PG_13
+#Runtime 125 mins.
+#Movie
+#Title Kill Bill: Vol. 1
+#TitleImage images/titles/2057.jpg
+#Outline The Bride wakes up after a long coma. The baby that she carried before entering the coma is gone. The only thing on her mind is to have revenge on the assassination team that betrayed her - a team she was once part of.
+#Director Quentin Tarantino
+#DirectorImage images/persons/233.jpg
+#Actor Uma Thurman
+#ActorImage images/persons/235.jpg
+#Actor David Carradine
+#ActorImage images/persons/1016.jpg
+#Actor Daryl Hannah
+#ActorImage images/persons/435.jpg
+#Genre Action | Crime | Thriller
+#Certificate TV_14
+#Runtime 111 mins.
+#Movie
+#Title Mystic River
+#TitleImage images/titles/2058.jpg
+#Outline With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one loses a daughter.
+#Director Clint Eastwood
+#DirectorImage images/persons/142.jpg
+#Actor Sean Penn
+#ActorImage images/persons/576.jpg
+#Actor Tim Robbins
+#ActorImage images/persons/209.jpg
+#Actor Kevin Bacon
+#ActorImage images/persons/102.jpg
+#Genre Crime | Drama | Mystery | Thriller
+#Certificate R
+#Runtime 138 mins.
+#Movie
+#Title Underworld
+#TitleImage images/titles/2059.jpg
+#Outline Selene, a beautiful vampire warrior, is entrenched in a war between the vampire and werewolf races. Although she is aligned with the vampires, she falls in love with Michael, a werewolf who longs for the war to end.
+#Director Len Wiseman
+#DirectorImage images/persons/936482.jpg
+#Actor Kate Beckinsale
+#ActorImage images/persons/295.jpg
+#Actor Scott Speedman
+#ActorImage images/persons/5454.jpg
+#Actor Shane Brolly
+#ActorImage images/persons/111274.jpg
+#Genre Action | Fantasy | Thriller
+#Certificate R
+#Runtime 121 mins.
+#Movie
+#Title Elf
+#TitleImage images/titles/2060.jpg
+#Outline After inadvertently wreaking havoc on the elf community due to his ungainly size, a man raised as an elf at the North Pole is sent to the U.S. in search of his true identity.
+#Director Jon Favreau
+#DirectorImage images/persons/269463.jpg
+#Actor Will Ferrell
+#ActorImage images/persons/2071.jpg
+#Actor James Caan
+#ActorImage images/persons/1001.jpg
+#Actor Bob Newhart
+#ActorImage images/persons/627878.jpg
+#Genre Comedy | Family | Fantasy | Romance
+#Certificate PG
+#Runtime 97 mins.
+#Movie
+#Title Old School
+#TitleImage images/titles/2061.jpg
+#Outline Three men are disenchanted with life and try to recapture their college days.
+#Director Todd Phillips
+#DirectorImage images/persons/680846.jpg
+#Actor Luke Wilson
+#ActorImage images/persons/5561.jpg
+#Actor Vince Vaughn
+#ActorImage images/persons/681.jpg
+#Actor Will Ferrell
+#ActorImage images/persons/2071.jpg
+#Genre Comedy
+#Certificate UNRATED
+#Runtime 91 mins.
+#Movie
+#Title Lost in Translation
+#TitleImage images/titles/2062.jpg
+#Outline A fading movie star with a sense of emptiness, and a neglected young wife meet as strangers in Tokyo and form an unlikely bond.
+#Director Sofia Coppola
+#DirectorImage images/persons/1068.jpg
+#Actor Bill Murray
+#ActorImage images/persons/195.jpg
+#Actor Scarlett Johansson
+#ActorImage images/persons/424060.jpg
+#Actor Giovanni Ribisi
+#ActorImage images/persons/610.jpg
+#Genre Drama
+#Certificate R
+#Runtime 101 mins.
+#Movie
+#Title Terminator 3: Rise of the Machines
+#TitleImage images/titles/2063.jpg
+#Outline John Connor is now in his 20's, and a female terminator, called T-X or Terminatrix, is after him. Another T-101 is sent back through time to protect John once again on the verge of the rise of the machines.
+#Director Jonathan Mostow
+#DirectorImage images/persons/609236.jpg
+#Actor Arnold Schwarzenegger
+#ActorImage images/persons/216.jpg
+#Actor Nick Stahl
+#ActorImage images/persons/1763.jpg
+#Actor Kristanna Loken
+#ActorImage images/persons/518085.jpg
+#Genre Action | Sci-Fi | Thriller
+#Certificate R
+#Runtime 109 mins.
+#Movie
+#Title The Dreamers
+#TitleImage images/titles/2064.jpg
+#Outline A young American studying in Paris in 1968 strikes up a friendship with a French brother and sister. Set against the background of the '68 Paris student riots.
+#Director Bernardo Bertolucci
+#DirectorImage images/persons/934.jpg
+#Actor Michael Pitt
+#ActorImage images/persons/685856.jpg
+#Actor Louis Garrel
+#ActorImage images/persons/308039.jpg
+#Actor Eva Green
+#ActorImage images/persons/1200692.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 115 mins.
+#Movie
+#Title The Matrix Reloaded
+#TitleImage images/titles/2065.jpg
+#Outline Neo and the rebel leaders estimate that they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. During this, Neo must decide how he can save Trinity from a dark fate in his dreams.
+#Director Andy Wachowski
+#DirectorImage images/persons/905152.jpg
+#Director Lana Wachowski
+#DirectorImage images/persons/905154.jpg
+#Actor Keanu Reeves
+#ActorImage images/persons/206.jpg
+#Actor Laurence Fishburne
+#ActorImage images/persons/401.jpg
+#Actor Carrie-Anne Moss
+#ActorImage images/persons/5251.jpg
+#Genre Action | Sci-Fi
+#Certificate R
+#Runtime 138 mins.
+#Movie
+#Title Hulk
+#TitleImage images/titles/2066.jpg
+#Outline Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.
+#Director Ang Lee
+#DirectorImage images/persons/487.jpg
+#Actor Eric Bana
+#ActorImage images/persons/51509.jpg
+#Actor Jennifer Connelly
+#ActorImage images/persons/124.jpg
+#Actor Sam Elliott
+#ActorImage images/persons/385.jpg
+#Genre Action | Sci-Fi
+#Certificate PG_13
+#Runtime 138 mins.
+#Movie
+#Title The Italian Job
+#TitleImage images/titles/2067.jpg
+#Outline After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.
+#Director F. Gary Gray
+#DirectorImage images/persons/336620.jpg
+#Actor Donald Sutherland
+#ActorImage images/persons/661.jpg
+#Actor Mark Wahlberg
+#ActorImage images/persons/242.jpg
+#Actor Edward Norton
+#ActorImage images/persons/1570.jpg
+#Genre Action | Crime | Thriller
+#Certificate PG_13
+#Runtime 111 mins.
+#Movie
+#Title Peter Pan
+#TitleImage images/titles/2068.jpg
+#Outline The Darling family children receive a visit from Peter Pan, who takes them to Never Never Land where an ongoing war with the evil Pirate Captain Hook is taking place.
+#Director P.J. Hogan
+#DirectorImage images/persons/389591.jpg
+#Actor Jeremy Sumpter
+#ActorImage images/persons/838911.jpg
+#Actor Jason Isaacs
+#ActorImage images/persons/5042.jpg
+#Actor Olivia Williams
+#ActorImage images/persons/931404.jpg
+#Genre Adventure | Family | Fantasy | Romance
+#Certificate PG
+#Runtime 113 mins.
+#Movie
+#Title X2
+#TitleImage images/titles/2069.jpg
+#Outline The X-Men band together to find a mutant assassin who has made an attempt on the President's life, while the Mutant Academy is attacked by military forces.
+#Director Bryan Singer
+#DirectorImage images/persons/1741.jpg
+#Actor Patrick Stewart
+#ActorImage images/persons/1772.jpg
+#Actor Hugh Jackman
+#ActorImage images/persons/413168.jpg
+#Actor Halle Berry
+#ActorImage images/persons/932.jpg
+#Genre Action | Adventure | Sci-Fi | Thriller
+#Certificate PG_13
+#Runtime 133 mins.
+#Movie
+#Title Thirteen
+#TitleImage images/titles/2070.jpg
+#Outline A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.
+#Director Catherine Hardwicke
+#DirectorImage images/persons/362566.jpg
+#Actor Evan Rachel Wood
+#ActorImage images/persons/939697.jpg
+#Actor Holly Hunter
+#ActorImage images/persons/456.jpg
+#Actor Nikki Reed
+#ActorImage images/persons/1223023.jpg
+#Genre Biography | Drama
+#Certificate R
+#Runtime 100 mins.
+#Movie
+#Title The Matrix Revolutions
+#TitleImage images/titles/2071.jpg
+#Outline The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
+#Director Andy Wachowski
+#DirectorImage images/persons/905152.jpg
+#Director Lana Wachowski
+#DirectorImage images/persons/905154.jpg
+#Actor Keanu Reeves
+#ActorImage images/persons/206.jpg
+#Actor Laurence Fishburne
+#ActorImage images/persons/401.jpg
+#Actor Carrie-Anne Moss
+#ActorImage images/persons/5251.jpg
+#Genre Action | Adventure | Sci-Fi
+#Certificate R
+#Runtime 129 mins.
+#Movie
+#Title Identity
+#TitleImage images/titles/2072.jpg
+#Outline Stranded at a desolate Nevada motel during a nasty rainstorm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.
+#Director James Mangold
+#DirectorImage images/persons/3506.jpg
+#Actor John Cusack
+#ActorImage images/persons/131.jpg
+#Actor Ray Liotta
+#ActorImage images/persons/501.jpg
+#Actor Amanda Peet
+#ActorImage images/persons/1605.jpg
+#Genre Mystery | Thriller
+#Certificate R
+#Runtime 90 mins.
+#Movie
+#Title Daredevil
+#TitleImage images/titles/2073.jpg
+#Outline A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.
+#Director Mark Steven Johnson
+#DirectorImage images/persons/425756.jpg
+#Actor Ben Affleck
+#ActorImage images/persons/255.jpg
+#Actor Jennifer Garner
+#ActorImage images/persons/4950.jpg
+#Actor Colin Farrell
+#ActorImage images/persons/268199.jpg
+#Genre Action | Crime | Fantasy | Thriller
+#Certificate TV_14
+#Runtime 103 mins.
+#Movie
+#Title The Last Samurai
+#TitleImage images/titles/2074.jpg
+#Outline An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.
+#Director Edward Zwick
+#DirectorImage images/persons/1880.jpg
+#Actor Tom Cruise
+#ActorImage images/persons/129.jpg
+#Actor Ken Watanabe
+#ActorImage images/persons/913822.jpg
+#Actor Billy Connolly
+#ActorImage images/persons/175262.jpg
+#Genre Action | Adventure | Drama | History | War
+#Certificate R
+#Runtime 154 mins.
+#Movie
+#Title The School of Rock
+#TitleImage images/titles/2075.jpg
+#Outline A wannabe rock star in need of cash poses as a substitute teacher at a prep school, and tries to turn his class into a rock band.
+#Director Richard Linklater
+#DirectorImage images/persons/500.jpg
+#Actor Jack Black
+#ActorImage images/persons/85312.jpg
+#Actor Mike White
+#ActorImage images/persons/925234.jpg
+#Actor Joan Cusack
+#ActorImage images/persons/349.jpg
+#Genre Comedy | Music
+#Certificate PG_13
+#Runtime 108 mins.
+#Movie
+#Title Wrong Turn
+#TitleImage images/titles/2076.jpg
+#Outline Six people find themselves trapped in the woods of West Virginia, hunted down by "cannibalistic mountain men grossly disfigured through generations of in-breeding."
+#Director Rob Schmidt
+#DirectorImage images/persons/3343.jpg
+#Actor Eliza Dushku
+#ActorImage images/persons/244630.jpg
+#Actor Jeremy Sisto
+#ActorImage images/persons/5438.jpg
+#Actor Emmanuelle Chriqui
+#ActorImage images/persons/4825.jpg
+#Genre Horror | Thriller
+#Certificate R
+#Runtime 84 mins.
+#Movie
+#Title 21 Grams
+#TitleImage images/titles/2077.jpg
+#Outline A freak accident brings together a critically ill mathematician, a grieving mother and a born-again ex-con.
+#Director Alejandro González Iñárritu
+#DirectorImage images/persons/327944.jpg
+#Actor Sean Penn
+#ActorImage images/persons/576.jpg
+#Actor Benicio Del Toro
+#ActorImage images/persons/1125.jpg
+#Actor Naomi Watts
+#ActorImage images/persons/915208.jpg
+#Genre Crime | Drama | Thriller
+#Certificate R
+#Runtime 124 mins.
+#Movie
+#Title Cold Mountain
+#TitleImage images/titles/2078.jpg
+#Outline In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.
+#Director Anthony Minghella
+#DirectorImage images/persons/5237.jpg
+#Actor Jude Law
+#ActorImage images/persons/179.jpg
+#Actor Nicole Kidman
+#ActorImage images/persons/173.jpg
+#Actor Renée Zellweger
+#ActorImage images/persons/250.jpg
+#Genre Drama | Romance | War
+#Certificate R
+#Runtime 154 mins.
+#Movie
+#Title Cheaper by the Dozen
+#TitleImage images/titles/2079.jpg
+#Outline With his wife doing a book tour, a father of twelve must handle a new job and his unstable brood.
+#Director Shawn Levy
+#DirectorImage images/persons/506613.jpg
+#Actor Steve Martin
+#ActorImage images/persons/188.jpg
+#Actor Bonnie Hunt
+#ActorImage images/persons/1372.jpg
+#Actor Hilary Duff
+#ActorImage images/persons/240381.jpg
+#Genre Comedy | Family
+#Certificate PG
+#Runtime 98 mins.
+#Movie
+#Title Monster
+#TitleImage images/titles/2080.jpg
+#Outline Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.
+#Director Patty Jenkins
+#DirectorImage images/persons/420941.jpg
+#Actor Charlize Theron
+#ActorImage images/persons/234.jpg
+#Actor Christina Ricci
+#ActorImage images/persons/207.jpg
+#Actor Bruce Dern
+#ActorImage images/persons/1136.jpg
+#Genre Biography | Crime | Drama
+#Certificate R
+#Runtime 109 mins.
+#Movie
+#Title Holes
+#TitleImage images/titles/2081.jpg
+#Outline A wrongfully convicted boy is sent to a brutal desert detention camp where he joins the job of digging holes for some mysterious reason.
+#Director Andrew Davis
+#DirectorImage images/persons/1112.jpg
+#Actor Shia LaBeouf
+#ActorImage images/persons/479471.jpg
+#Actor Sigourney Weaver
+#ActorImage images/persons/244.jpg
+#Actor Jon Voight
+#ActorImage images/persons/685.jpg
+#Genre Adventure | Comedy | Drama | Family | Mystery | Romance
+#Certificate PG
+#Runtime 117 mins.
+#Movie
+#Title Anger Management
+#TitleImage images/titles/2082.jpg
+#Outline Sandler plays a businessman who is wrongly sentenced to an anger-management program, where he meets an aggressive instructor.
+#Director Peter Segal
+#DirectorImage images/persons/781842.jpg
+#Actor Jack Nicholson
+#ActorImage images/persons/197.jpg
+#Actor Adam Sandler
+#ActorImage images/persons/1191.jpg
+#Actor Marisa Tomei
+#ActorImage images/persons/673.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 106 mins.
+#Movie
+#Title Master and Commander: The Far Side of the World
+#TitleImage images/titles/2083.jpg
+#Outline During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.
+#Director Peter Weir
+#DirectorImage images/persons/1837.jpg
+#Actor Russell Crowe
+#ActorImage images/persons/128.jpg
+#Actor Paul Bettany
+#ActorImage images/persons/79273.jpg
+#Actor Billy Boyd
+#ActorImage images/persons/101710.jpg
+#Genre Action | Adventure | Drama | War
+#Certificate PG_13
+#Runtime 138 mins.
+#Movie
+#Title Bruce Almighty
+#TitleImage images/titles/2084.jpg
+#Outline A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.
+#Director Tom Shadyac
+#DirectorImage images/persons/1723.jpg
+#Actor Jim Carrey
+#ActorImage images/persons/120.jpg
+#Actor Jennifer Aniston
+#ActorImage images/persons/98.jpg
+#Actor Morgan Freeman
+#ActorImage images/persons/151.jpg
+#Genre Comedy | Drama | Fantasy
+#Certificate PG_13
+#Runtime 101 mins.
+#Movie
+#Title Paycheck
+#TitleImage images/titles/2085.jpg
+#Outline What seemed like a breezy idea for an engineer to net him millions of dollars, leaves him on the run for his life and piecing together why he's being chased.
+#Director John Woo
+#DirectorImage images/persons/247.jpg
+#Actor Ben Affleck
+#ActorImage images/persons/255.jpg
+#Actor Aaron Eckhart
+#ActorImage images/persons/1173.jpg
+#Actor Uma Thurman
+#ActorImage images/persons/235.jpg
+#Genre Sci-Fi | Thriller | Action | Mystery
+#Certificate PG_13
+#Runtime 119 mins.
+#Movie
+#Title The Texas Chainsaw Massacre
+#TitleImage images/titles/2086.jpg
+#Outline A group of friends passing through are stalked and hunted down by a deformed killer with a chainsaw in order to sustain his poor family who can only afford to eat what they kill.
+#Director Marcus Nispel
+#DirectorImage images/persons/1197971.jpg
+#Actor Jessica Biel
+#ActorImage images/persons/4754.jpg
+#Actor Jonathan Tucker
+#ActorImage images/persons/6958.jpg
+#Actor Andrew Bryniarski
+#ActorImage images/persons/117420.jpg
+#Genre Horror | Thriller
+#Certificate R
+#Runtime 98 mins.
+#Movie
+#Title The League of Extraordinary Gentlemen
+#TitleImage images/titles/2087.jpg
+#Outline In an alternate Victorian Age world, a group of famous contemporary fantasy, SF and adventure characters team up on a secret mission.
+#Director Stephen Norrington
+#DirectorImage images/persons/635759.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Stuart Townsend
+#ActorImage images/persons/870204.jpg
+#Actor Peta Wilson
+#ActorImage images/persons/933959.jpg
+#Genre Action | Fantasy | Sci-Fi
+#Certificate PG_13
+#Runtime 110 mins.
+#Movie
+#Title American Wedding
+#TitleImage images/titles/2088.jpg
+#Outline It's the wedding of Jim and Michelle and the gathering of their families and friends, including Jim's old friends from high school and Michelle's little sister.
+#Director Jesse Dylan
+#DirectorImage images/persons/245888.jpg
+#Actor Jason Biggs
+#ActorImage images/persons/4755.jpg
+#Actor Alyson Hannigan
+#ActorImage images/persons/4989.jpg
+#Actor Seann William Scott
+#ActorImage images/persons/5405.jpg
+#Genre Comedy | Romance
+#Certificate UNRATED
+#Runtime 96 mins.
+#Movie
+#Title The Recruit
+#TitleImage images/titles/2089.jpg
+#Outline A brilliant young CIA trainee is asked by his mentor to help find a mole in the Agency.
+#Director Roger Donaldson
+#DirectorImage images/persons/2044.jpg
+#Actor Al Pacino
+#ActorImage images/persons/199.jpg
+#Actor Colin Farrell
+#ActorImage images/persons/268199.jpg
+#Actor Bridget Moynahan
+#ActorImage images/persons/5256.jpg
+#Genre Action | Crime | Drama | Thriller
+#Certificate PG_13
+#Runtime 115 mins.
+#Movie
+#Title 2 Fast 2 Furious
+#TitleImage images/titles/2090.jpg
+#Outline Former cop, Brian O'Conner is finally arrested after letting his leader escape the law. To avoid the consequences, he must now work with an old college friend and help the police arrest a local drug exporter.
+#Director John Singleton
+#DirectorImage images/persons/5436.jpg
+#Actor Paul Walker
+#ActorImage images/persons/908094.jpg
+#Actor Tyrese Gibson
+#ActorImage images/persons/879085.jpg
+#Actor Cole Hauser
+#ActorImage images/persons/369513.jpg
+#Genre Action | Crime | Thriller
+#Certificate PG_13
+#Runtime 107 mins.
+#Movie
+#Title S.W.A.T.
+#TitleImage images/titles/2091.jpg
+#Outline An imprisoned drug kingpin offers a huge cash reward to anyone that can break him out of police custody and only the LAPD's Special Weapons and Tactics team can prevent it.
+#Director Clark Johnson
+#DirectorImage images/persons/424800.jpg
+#Actor Samuel L. Jackson
+#ActorImage images/persons/168.jpg
+#Actor Colin Farrell
+#ActorImage images/persons/268199.jpg
+#Actor Michelle Rodriguez
+#ActorImage images/persons/735442.jpg
+#Genre Action | Crime | Thriller
+#Certificate PG_13
+#Runtime 117 mins.
+#Movie
+#Title Spring, Summer, Fall, Winter... and Spring
+#TitleImage images/titles/2092.jpg
+#Outline This film takes place in an isolated lake, where an old monk lives on a small floating temple. The wise master has also a young boy with him that teaches to become a monk. And we watch as seasons and years pass by.
+#Director Ki-duk Kim
+#DirectorImage images/persons/1104118.jpg
+#Actor Ki-duk Kim
+#ActorImage images/persons/1104118.jpg
+#Actor Yeong-su Oh
+#ActorImage images/persons/1301454.jpg
+#Actor Jong-ho Kim
+#ActorImage images/persons/1414385.jpg
+#Genre Drama
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Once Upon a Time in Mexico
+#TitleImage images/titles/2093.jpg
+#Outline Hitman "El Mariachi" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general.
+#Director Robert Rodriguez
+#DirectorImage images/persons/1675.jpg
+#Actor Antonio Banderas
+#ActorImage images/persons/104.jpg
+#Actor Salma Hayek
+#ActorImage images/persons/161.jpg
+#Actor Johnny Depp
+#ActorImage images/persons/136.jpg
+#Genre Action | Thriller
+#Certificate R
+#Runtime 102 mins.
+#Movie
+#Title How to Lose a Guy in 10 Days
+#TitleImage images/titles/2094.jpg
+#Outline Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days. Andie Anderson covers the "How To" beat for "Composure" magazine and is assigned to write an article on "How to Lose a Guy in 10 days." They meet in a bar shortly after the bet is made.
+#Director Donald Petrie
+#DirectorImage images/persons/677953.jpg
+#Actor Kate Hudson
+#ActorImage images/persons/5028.jpg
+#Actor Matthew McConaughey
+#ActorImage images/persons/190.jpg
+#Actor Adam Goldberg
+#ActorImage images/persons/4965.jpg
+#Genre Comedy | Romance
+#Certificate PG_13
+#Runtime 116 mins.
+#Movie
+#Title Bad Boys II
+#TitleImage images/titles/2095.jpg
+#Outline Two loose-cannon narcotics cops investigate the flow of Ecstacy into Florida.
+#Director Michael Bay
+#DirectorImage images/persons/881.jpg
+#Actor Will Smith
+#ActorImage images/persons/226.jpg
+#Actor Martin Lawrence
+#ActorImage images/persons/1454.jpg
+#Actor Gabrielle Union
+#ActorImage images/persons/5517.jpg
+#Genre Action | Comedy | Crime | Thriller
+#Certificate R
+#Runtime 147 mins.
+#Movie
+#Title The Rundown
+#TitleImage images/titles/2096.jpg
+#Outline A tough aspiring chef is hired to bring home a mobster's son from the Amazon but becomes involved in the fight against an oppressive town operator and the search for a legendary treasure.
+#Director Peter Berg
+#DirectorImage images/persons/916.jpg
+#Actor Dwayne Johnson
+#ActorImage images/persons/425005.jpg
+#Actor Seann William Scott
+#ActorImage images/persons/5405.jpg
+#Actor Christopher Walken
+#ActorImage images/persons/686.jpg
+#Genre Action | Adventure | Comedy | Thriller
+#Certificate PG_13
+#Runtime 104 mins.
+#Movie
+#Title Johnny English
+#TitleImage images/titles/2097.jpg
+#Outline After a sudden attack on the MI5, Johnny English, Britain's most confident yet unintelligent spy, becomes Britain's only spy.
+#Director Peter Howitt
+#DirectorImage images/persons/398185.jpg
+#Actor Rowan Atkinson
+#ActorImage images/persons/100.jpg
+#Actor John Malkovich
+#ActorImage images/persons/518.jpg
+#Actor Natalie Imbruglia
+#ActorImage images/persons/1386.jpg
+#Genre Action | Adventure | Comedy
+#Certificate PG
+#Runtime 88 mins.
+#Movie
+#Title Something's Gotta Give
+#TitleImage images/titles/2098.jpg
+#Outline A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age.
+#Director Nancy Meyers
+#DirectorImage images/persons/583600.jpg
+#Actor Jack Nicholson
+#ActorImage images/persons/197.jpg
+#Actor Diane Keaton
+#ActorImage images/persons/473.jpg
+#Actor Keanu Reeves
+#ActorImage images/persons/206.jpg
+#Genre Comedy | Romance
+#Certificate PG_13
+#Runtime 128 mins.
+#Movie
+#Title Freddy vs. Jason
+#TitleImage images/titles/2099.jpg
+#Outline Freddy Krueger and Jason Voorhees return to terrorize the teenage population. Except this time, they're out to get each other, too.
+#Director Ronny Yu
+#DirectorImage images/persons/950553.jpg
+#Actor Robert Englund
+#ActorImage images/persons/387.jpg
+#Actor Ken Kirzinger
+#ActorImage images/persons/457090.jpg
+#Actor Kelly Rowland
+#ActorImage images/persons/746714.jpg
+#Genre Horror | Thriller
+#Certificate R
+#Runtime 97 mins.
+#Movie
+#Title Love Me If You Dare
+#TitleImage images/titles/2100.jpg
+#Outline As adults, best friends Julien and Sophie continue the odd game they started as children -- a fearless...
+#Director Yann Samuell
+#DirectorImage images/persons/1367933.jpg
+#Actor Guillaume Canet
+#ActorImage images/persons/133899.jpg
+#Actor Marion Cotillard
+#ActorImage images/persons/182839.jpg
+#Actor Thibault Verhaeghe
+#ActorImage images/persons/1392135.jpg
+#Genre Comedy | Drama | Romance
+#Certificate R
+#Runtime 93 mins.

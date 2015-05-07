@@ -1,0 +1,723 @@
+#Movie
+#Title On Her Majesty's Secret Service
+#TitleImage images/titles/351.jpg
+#Outline James Bond woos a mob boss's daughter and goes undercover to uncover the true reason for Blofeld's allergy research in the Swiss Alps that involves beautiful women from around the world.
+#Director Peter R. Hunt
+#DirectorImage images/persons/402597.jpg
+#Actor George Lazenby
+#ActorImage images/persons/493872.jpg
+#Actor Diana Rigg
+#ActorImage images/persons/1671.jpg
+#Actor Telly Savalas
+#ActorImage images/persons/1699.jpg
+#Genre Action | Adventure | Crime | Romance | Thriller
+#Runtime 142 mins.
+#Movie
+#Title Butch Cassidy and the Sundance Kid
+#TitleImage images/titles/352.jpg
+#Outline Two Western bank/train robbers flee to Bolivia when the law gets too close.
+#Director George Roy Hill
+#DirectorImage images/persons/1351.jpg
+#Actor Paul Newman
+#ActorImage images/persons/56.jpg
+#Actor Robert Redford
+#ActorImage images/persons/602.jpg
+#Actor Katharine Ross
+#ActorImage images/persons/1684.jpg
+#Genre Adventure | Biography | Crime | Western
+#Runtime 110 mins.
+#Movie
+#Title Easy Rider
+#TitleImage images/titles/353.jpg
+#Outline Two counterculture bikers travel from Los Angeles to New Orleans in search of America.
+#Director Dennis Hopper
+#DirectorImage images/persons/454.jpg
+#Actor Peter Fonda
+#ActorImage images/persons/1228.jpg
+#Actor Dennis Hopper
+#ActorImage images/persons/454.jpg
+#Actor Jack Nicholson
+#ActorImage images/persons/197.jpg
+#Genre Drama
+#Certificate R
+#Runtime 95 mins.
+#Movie
+#Title Midnight Cowboy
+#TitleImage images/titles/354.jpg
+#Outline A naive male prostitute and his sickly friend struggle to survive on the streets of New York City.
+#Director John Schlesinger
+#DirectorImage images/persons/772259.jpg
+#Actor Dustin Hoffman
+#ActorImage images/persons/163.jpg
+#Actor Jon Voight
+#ActorImage images/persons/685.jpg
+#Actor Sylvia Miles
+#ActorImage images/persons/587249.jpg
+#Genre Drama
+#Certificate R
+#Runtime 113 mins.
+#Movie
+#Title The Wild Bunch
+#TitleImage images/titles/355.jpg
+#Outline An aging group of outlaws look for one last big score as the "traditional" American West is disappearing around them.
+#Director Sam Peckinpah
+#DirectorImage images/persons/1603.jpg
+#Actor William Holden
+#ActorImage images/persons/34.jpg
+#Actor Ernest Borgnine
+#ActorImage images/persons/308.jpg
+#Actor Robert Ryan
+#ActorImage images/persons/752813.jpg
+#Genre Western
+#Certificate R
+#Runtime 145 mins.
+#Movie
+#Title True Grit
+#TitleImage images/titles/356.jpg
+#Outline A drunken, hard-nosed U.S. Marshal and a Texas Ranger help a stubborn young woman track down her father's murderer in Indian territory.
+#Director Henry Hathaway
+#DirectorImage images/persons/368871.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Kim Darby
+#ActorImage images/persons/200981.jpg
+#Actor Glen Campbell
+#ActorImage images/persons/4794.jpg
+#Genre Adventure | Western | Drama
+#Certificate TV_14
+#Runtime 128 mins.
+#Movie
+#Title The Italian Job
+#TitleImage images/titles/357.jpg
+#Outline Comic caper movie about a plan to steal a gold shipment from the streets of Turin by creating a traffic jam.
+#Director Peter Collinson
+#DirectorImage images/persons/172772.jpg
+#Actor Michael Caine
+#ActorImage images/persons/323.jpg
+#Actor Noel Coward
+#ActorImage images/persons/2021.jpg
+#Actor Benny Hill
+#ActorImage images/persons/1350.jpg
+#Genre Action | Comedy | Crime | Thriller
+#Certificate G
+#Runtime 99 mins.
+#Movie
+#Title Topaz
+#TitleImage images/titles/358.jpg
+#Outline A French intelligence agent becomes embroiled in the Cold War politics first with uncovering the events leading up to the 1962 Cuban Missle Crisis, and then back to France to break up an international Russian spy ring.
+#Director Alfred Hitchcock
+#DirectorImage images/persons/33.jpg
+#Actor Frederick Stafford
+#ActorImage images/persons/821277.jpg
+#Actor Dany Robin
+#ActorImage images/persons/732184.jpg
+#Actor John Vernon
+#ActorImage images/persons/6893.jpg
+#Genre Thriller
+#Runtime 143 mins.
+#Movie
+#Title Battle of Britain
+#TitleImage images/titles/359.jpg
+#Outline In 1940, the British Royal Air Force fights a desperate battle vs. the Nazi Germany Air Force for control of British air space to prevent a Nazi invasion of Britain.
+#Director Guy Hamilton
+#DirectorImage images/persons/357891.jpg
+#Actor Michael Caine
+#ActorImage images/persons/323.jpg
+#Actor Trevor Howard
+#ActorImage images/persons/2145.jpg
+#Actor Harry Andrews
+#ActorImage images/persons/28674.jpg
+#Genre Action | Drama | History | War
+#Certificate G
+#Runtime 132 mins.
+#Movie
+#Title Z
+#TitleImage images/titles/360.jpg
+#Outline Following the murder of a prominent leftist, an investigator tries to uncover the truth while government officials attempt to cover up their roles.
+#Director Costa-Gavras
+#DirectorImage images/persons/2020.jpg
+#Actor Yves Montand
+#ActorImage images/persons/598971.jpg
+#Actor Irene Papas
+#ActorImage images/persons/660327.jpg
+#Actor Jean-Louis Trintignant
+#ActorImage images/persons/4462.jpg
+#Genre Crime | Drama | History | Mystery | Thriller
+#Runtime 127 mins.
+#Movie
+#Title Hello, Dolly!
+#TitleImage images/titles/361.jpg
+#Outline A matchmaker named Dolly Levi takes a trip to Yonkers, New York to see the "well-known unmarried half-a-millionaire," Horace Vandergelder...
+#Director Gene Kelly
+#DirectorImage images/persons/37.jpg
+#Actor Barbra Streisand
+#ActorImage images/persons/659.jpg
+#Actor Walter Matthau
+#ActorImage images/persons/527.jpg
+#Actor Michael Crawford
+#ActorImage images/persons/186903.jpg
+#Genre Romance | Comedy | Musical | Family
+#Certificate G
+#Runtime 146 mins.
+#Movie
+#Title 100 Rifles
+#TitleImage images/titles/362.jpg
+#Outline Reynolds plays Yaqui Joe, an Indian who robs a bank in order to buy guns for his people who are being savagely repressed by the government...
+#Director Tom Gries
+#DirectorImage images/persons/340981.jpg
+#Actor Jim Brown
+#ActorImage images/persons/987.jpg
+#Actor Raquel Welch
+#ActorImage images/persons/79.jpg
+#Actor Burt Reynolds
+#ActorImage images/persons/608.jpg
+#Genre Adventure | War | Western
+#Certificate R
+#Runtime 110 mins.
+#Movie
+#Title The Bridge at Remagen
+#TitleImage images/titles/363.jpg
+#Outline As the Allied armies close in, the Nazis decide to blow up the last Rhine bridge, trapping their own men on the wrong side. But will it happen?
+#Director John Guillermin
+#DirectorImage images/persons/347086.jpg
+#Actor George Segal
+#ActorImage images/persons/1719.jpg
+#Actor Robert Vaughn
+#ActorImage images/persons/1816.jpg
+#Actor Ben Gazzara
+#ActorImage images/persons/1262.jpg
+#Genre Action | Drama | War
+#Runtime 115 mins.
+#Movie
+#Title Hercules in New York
+#TitleImage images/titles/364.jpg
+#Outline Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.
+#Director Arthur Allan Seidelman
+#DirectorImage images/persons/782381.jpg
+#Actor Arnold Stang
+#ActorImage images/persons/822205.jpg
+#Actor Arnold Schwarzenegger
+#ActorImage images/persons/216.jpg
+#Actor Deborah Loomis
+#ActorImage images/persons/519678.jpg
+#Genre Adventure | Family | Fantasy
+#Certificate G
+#Runtime 75 mins.
+#Movie
+#Title Army of Shadows
+#TitleImage images/titles/365.jpg
+#Outline France, 1942, during the occupation. Philippe Gerbier, a civil engineer, is one of the French Resistance's chiefs...
+#Director Jean-Pierre Melville
+#DirectorImage images/persons/578483.jpg
+#Actor Lino Ventura
+#ActorImage images/persons/893341.jpg
+#Actor Paul Meurisse
+#ActorImage images/persons/582890.jpg
+#Actor Jean-Pierre Cassel
+#ActorImage images/persons/144045.jpg
+#Genre Drama | War
+#Certificate NOT_RATED
+#Movie
+#Title Blue Movie
+#TitleImage images/titles/366.jpg
+#Outline Viva (playing herself) and Louis Waldon (playing himself) spend an idyllic afternoon together in an apartment in New York City.
+#Director Andy Warhol
+#DirectorImage images/persons/912238.jpg
+#Actor Viva
+#ActorImage images/persons/900201.jpg
+#Actor Louis Waldon
+#ActorImage images/persons/907247.jpg
+#Genre Drama | Romance
+#Runtime 105 mins.
+#Movie
+#Title Kes
+#TitleImage images/titles/367.jpg
+#Outline A young, English working-class boy spends his free time caring for and training his pet falcon.
+#Director Ken Loach
+#DirectorImage images/persons/516360.jpg
+#Actor David Bradley
+#ActorImage images/persons/103193.jpg
+#Actor Brian Glover
+#ActorImage images/persons/323093.jpg
+#Actor Freddie Fletcher
+#ActorImage images/persons/282001.jpg
+#Genre Drama
+#Runtime 110 mins.
+#Movie
+#Title Paint Your Wagon
+#TitleImage images/titles/368.jpg
+#Outline Two unlikely prospector partners share the same wife in a California gold rush mining town.
+#Director Joshua Logan
+#DirectorImage images/persons/517597.jpg
+#Actor Lee Marvin
+#ActorImage images/persons/1511.jpg
+#Actor Clint Eastwood
+#ActorImage images/persons/142.jpg
+#Actor Jean Seberg
+#ActorImage images/persons/781029.jpg
+#Genre Comedy | Drama | Musical | Romance | Western
+#Certificate TV_14
+#Runtime 158 mins.
+#Movie
+#Title Mackenna's Gold
+#TitleImage images/titles/369.jpg
+#Outline The gangster Colorado kidnaps Marshal McKenna. He believes that McKenna has seen a map which leads to...
+#Director J. Lee Thompson
+#DirectorImage images/persons/496746.jpg
+#Actor Gregory Peck
+#ActorImage images/persons/60.jpg
+#Actor Omar Sharif
+#ActorImage images/persons/1725.jpg
+#Actor Telly Savalas
+#ActorImage images/persons/1699.jpg
+#Genre Romance | Western
+#Runtime 128 mins.
+#Movie
+#Title The Prime of Miss Jean Brodie
+#TitleImage images/titles/370.jpg
+#Outline A headstrong young teacher in a private school in 1930s Edinburgh ignores the curriculum and influences her impressionable 12 year old charges with her over-romanticized world view.
+#Director Ronald Neame
+#DirectorImage images/persons/623768.jpg
+#Actor Maggie Smith
+#ActorImage images/persons/1749.jpg
+#Actor Gordon Jackson
+#ActorImage images/persons/413561.jpg
+#Actor Robert Stephens
+#ActorImage images/persons/827137.jpg
+#Genre Comedy | Drama | Romance
+#Runtime 116 mins.
+#Movie
+#Title Fellini Satyricon
+#TitleImage images/titles/371.jpg
+#Outline In first century Rome, two student friends, Encolpio and Ascilto, argue about ownership of the boy Gitone...
+#Director Federico Fellini
+#DirectorImage images/persons/19.jpg
+#Actor Martin Potter
+#ActorImage images/persons/693318.jpg
+#Actor Hiram Keller
+#ActorImage images/persons/445657.jpg
+#Actor Max Born
+#ActorImage images/persons/97034.jpg
+#Genre Drama
+#Certificate R
+#Runtime 128 mins.
+#Movie
+#Title Take the Money and Run
+#TitleImage images/titles/372.jpg
+#Outline The life and times of Virgil Starkwell, inept bank robber.
+#Director Woody Allen
+#DirectorImage images/persons/95.jpg
+#Actor Woody Allen
+#ActorImage images/persons/95.jpg
+#Actor Janet Margolin
+#ActorImage images/persons/546755.jpg
+#Actor Marcel Hillaire
+#ActorImage images/persons/384787.jpg
+#Genre Comedy | Crime
+#Runtime 85 mins.
+#Movie
+#Title The Red Tent
+#TitleImage images/titles/373.jpg
+#Outline The commander of a failed 1928 Arctic airship expedition is remembering the events of the "Italia" airship flight...
+#Director Mikhail Kalatozov
+#DirectorImage images/persons/435563.jpg
+#Actor Sean Connery
+#ActorImage images/persons/125.jpg
+#Actor Peter Finch
+#ActorImage images/persons/2075.jpg
+#Actor Claudia Cardinale
+#ActorImage images/persons/1012.jpg
+#Genre Adventure | Drama
+#Certificate G
+#Runtime 158 mins.
+#Movie
+#Title They Shoot Horses, Don't They?
+#TitleImage images/titles/374.jpg
+#Outline The lives of a disparate group of contestants intertwine in an inhumanely grueling dance marathon.
+#Director Sydney Pollack
+#DirectorImage images/persons/1628.jpg
+#Actor Jane Fonda
+#ActorImage images/persons/404.jpg
+#Actor Michael Sarrazin
+#ActorImage images/persons/765546.jpg
+#Actor Susannah York
+#ActorImage images/persons/948772.jpg
+#Genre Drama
+#Movie
+#Title Pippi Longstocking
+#TitleImage images/titles/375.jpg
+#Outline Pippi Longstocking, a super-strong redheaded little girl, moves into her father's cottage Villa Villekulla, and has adventures with her next-door neighbors Tommy and Annika in this compilation film of the classic Swedish TV series.
+#Director Olle Hellbom
+#DirectorImage images/persons/375224.jpg
+#Actor Inger Nilsson
+#ActorImage images/persons/632227.jpg
+#Actor Maria Persson
+#ActorImage images/persons/675627.jpg
+#Actor Pär Sundberg
+#ActorImage images/persons/839090.jpg
+#Genre Adventure | Family
+#Certificate G
+#Movie
+#Title Sweet Charity
+#TitleImage images/titles/376.jpg
+#Outline Taxi dancer Charity continues to have Faith in the human race despite apparently endless disappointments at its hands...
+#Director Bob Fosse
+#DirectorImage images/persons/2080.jpg
+#Actor Shirley MacLaine
+#ActorImage images/persons/511.jpg
+#Actor John McMartin
+#ActorImage images/persons/533979.jpg
+#Actor Ricardo Montalban
+#ActorImage images/persons/1544.jpg
+#Genre Comedy | Drama | Music | Musical | Romance
+#Certificate G
+#Runtime 149 mins.
+#Movie
+#Title Women in Love
+#TitleImage images/titles/377.jpg
+#Outline The battle of the sexes and relationships among the elite of Britian's industrial Midlands in the 1920s...
+#Director Ken Russell
+#DirectorImage images/persons/1692.jpg
+#Actor Alan Bates
+#ActorImage images/persons/869.jpg
+#Actor Oliver Reed
+#ActorImage images/persons/1657.jpg
+#Actor Glenda Jackson
+#ActorImage images/persons/413559.jpg
+#Genre Drama | Romance
+#Certificate R
+#Runtime 131 mins.
+#Movie
+#Title The Undefeated
+#TitleImage images/titles/378.jpg
+#Outline After the Civil War, ex-Union Colonel John Henry Thomas and ex-Confederate Colonel James Langdon are...
+#Director Andrew V. McLaglen
+#DirectorImage images/persons/572132.jpg
+#Actor John Wayne
+#ActorImage images/persons/78.jpg
+#Actor Rock Hudson
+#ActorImage images/persons/1369.jpg
+#Actor Antonio Aguilar
+#ActorImage images/persons/13487.jpg
+#Genre Western
+#Certificate G
+#Runtime 119 mins.
+#Movie
+#Title Anne of the Thousand Days
+#TitleImage images/titles/379.jpg
+#Outline Henry VIII of England discards one wife, Katharine of Aragon, who has failed to produce a male heir, in favor of the young and beautiful Anne Boleyn.
+#Director Charles Jarrott
+#DirectorImage images/persons/418986.jpg
+#Actor Richard Burton
+#ActorImage images/persons/9.jpg
+#Actor Geneviève Bujold
+#ActorImage images/persons/991.jpg
+#Actor Irene Papas
+#ActorImage images/persons/660327.jpg
+#Genre Drama | History
+#Runtime 145 mins.
+#Movie
+#Title The Damned
+#TitleImage images/titles/380.jpg
+#Outline The dramatic collapse of a wealthy, industrialist/Junker family during the reign of the Third Reich.
+#Director Luchino Visconti
+#DirectorImage images/persons/899581.jpg
+#Actor Dirk Bogarde
+#ActorImage images/persons/1958.jpg
+#Actor Ingrid Thulin
+#ActorImage images/persons/862026.jpg
+#Actor Helmut Griem
+#ActorImage images/persons/340926.jpg
+#Genre Drama
+#Certificate X
+#Runtime 156 mins.
+#Movie
+#Title The Swimming Pool
+#TitleImage images/titles/381.jpg
+#Outline Delon, Schneider and Ronet are a love triangle that leads to disaster.
+#Director Jacques Deray
+#DirectorImage images/persons/220227.jpg
+#Actor Alain Delon
+#ActorImage images/persons/1128.jpg
+#Actor Romy Schneider
+#ActorImage images/persons/2769.jpg
+#Actor Maurice Ronet
+#ActorImage images/persons/740067.jpg
+#Genre Crime | Drama
+#Runtime 120 mins.
+#Movie
+#Title The Battle of Neretva
+#TitleImage images/titles/382.jpg
+#Outline In January 1943 German army, afraid of Allied invasion of Balkans, launched great offensive against Yugoslav Partisans in Western Bosnia...
+#Director Veljko Bulajic
+#DirectorImage images/persons/119819.jpg
+#Actor Yul Brynner
+#ActorImage images/persons/989.jpg
+#Actor Hardy Krüger
+#ActorImage images/persons/473228.jpg
+#Actor Franco Nero
+#ActorImage images/persons/626259.jpg
+#Genre Drama | War
+#Certificate G
+#Runtime 175 mins.
+#Movie
+#Title Bob & Carol & Ted & Alice
+#TitleImage images/titles/383.jpg
+#Outline Documentary film-maker Bob Saunders and his wife Carol attend a group therapy session that serves as the backdrop for the opening scenes of the film...
+#Director Paul Mazursky
+#DirectorImage images/persons/5196.jpg
+#Actor Natalie Wood
+#ActorImage images/persons/81.jpg
+#Actor Robert Culp
+#ActorImage images/persons/191685.jpg
+#Actor Elliott Gould
+#ActorImage images/persons/1285.jpg
+#Genre Comedy | Drama
+#Certificate R
+#Runtime 105 mins.
+#Movie
+#Title If It's Tuesday, This Must Be Belgium
+#TitleImage images/titles/384.jpg
+#Outline Womanizing Brit Charlie Cartwright is about to conduct Worldwind Tour #225, a nine country, eighteen day bus trip from London to Rome...
+#Director Mel Stuart
+#DirectorImage images/persons/835799.jpg
+#Actor Suzanne Pleshette
+#ActorImage images/persons/687189.jpg
+#Actor Ian McShane
+#ActorImage images/persons/574534.jpg
+#Actor Mildred Natwick
+#ActorImage images/persons/622450.jpg
+#Genre Adventure | Comedy | Romance
+#Runtime 99 mins.
+#Movie
+#Title More
+#TitleImage images/titles/385.jpg
+#Outline In the late 60's, after graduating in Mathematics, the German Stefan Brückner hitchhikes from Lübeck to Paris to see the world without money...
+#Director Barbet Schroeder
+#DirectorImage images/persons/775447.jpg
+#Actor Mimsy Farmer
+#ActorImage images/persons/2069.jpg
+#Actor Klaus Grünberg
+#ActorImage images/persons/345063.jpg
+#Actor Heinz Engelmann
+#ActorImage images/persons/257269.jpg
+#Genre Drama | Romance | Crime
+#Runtime 117 mins.
+#Movie
+#Title Cactus Flower
+#TitleImage images/titles/386.jpg
+#Outline A dentist pretends to be married to avoid commitment, but when he falls for his girlfriend and proposes, he must recruit his lovelorn nurse to pose as his wife.
+#Director Gene Saks
+#DirectorImage images/persons/757256.jpg
+#Actor Walter Matthau
+#ActorImage images/persons/527.jpg
+#Actor Ingrid Bergman
+#ActorImage images/persons/6.jpg
+#Actor Goldie Hawn
+#ActorImage images/persons/443.jpg
+#Genre Comedy | Romance
+#Runtime 103 mins.
+#Movie
+#Title Age of Consent
+#TitleImage images/titles/387.jpg
+#Outline An elderly artist thinks he has become too stale and is past his prime. His friend (and agent) persuades...
+#Director Michael Powell
+#DirectorImage images/persons/3836.jpg
+#Actor James Mason
+#ActorImage images/persons/51.jpg
+#Actor Helen Mirren
+#ActorImage images/persons/545.jpg
+#Actor Jack MacGowran
+#ActorImage images/persons/532290.jpg
+#Genre Biography | Comedy | Drama | Romance
+#Certificate R
+#Runtime 103 mins.
+#Movie
+#Title Support Your Local Sheriff!
+#TitleImage images/titles/388.jpg
+#Outline In the old west, a man becomes a sheriff just for the pay, figuring he can decamp if things get tough. In the end, he uses ingenuity instead.
+#Director Burt Kennedy
+#DirectorImage images/persons/447944.jpg
+#Actor James Garner
+#ActorImage images/persons/1258.jpg
+#Actor Joan Hackett
+#ActorImage images/persons/352466.jpg
+#Actor Walter Brennan
+#ActorImage images/persons/974.jpg
+#Genre Comedy | Western
+#Certificate G
+#Runtime 92 mins.
+#Movie
+#Title The Diamond Arm
+#TitleImage images/titles/389.jpg
+#Outline Semyon Gorbunkov goes on a cruise. In Istanbul, he slips and breaks his arm. What he didn't know is...
+#Director Leonid Gaidai
+#DirectorImage images/persons/301145.jpg
+#Actor Yuri Nikulin
+#ActorImage images/persons/631994.jpg
+#Actor Nina Grebeshkova
+#ActorImage images/persons/337380.jpg
+#Actor Andrey Mironov
+#ActorImage images/persons/592490.jpg
+#Genre Adventure | Comedy | Crime | Thriller
+#Runtime 100 mins.
+#Movie
+#Title My Night at Maud's
+#TitleImage images/titles/390.jpg
+#Outline The narrator (Jean-Louis), a devout Catholic, moves to a provincial town and vows to marry Francoise...
+#Director Eric Rohmer
+#DirectorImage images/persons/6445.jpg
+#Actor Jean-Louis Trintignant
+#ActorImage images/persons/4462.jpg
+#Actor Françoise Fabian
+#ActorImage images/persons/264554.jpg
+#Actor Marie-Christine Barrault
+#ActorImage images/persons/56763.jpg
+#Genre Drama
+#Certificate PG
+#Runtime 110 mins.
+#Movie
+#Title The House That Screamed
+#TitleImage images/titles/391.jpg
+#Outline Lilli Palmer owns and runs a school for wayward girls in France. Her absolute discipline has fostered a social order among the girls with rampant sex...
+#Director Narciso Ibáñez Serrador
+#DirectorImage images/persons/406654.jpg
+#Actor Lilli Palmer
+#ActorImage images/persons/658339.jpg
+#Actor Cristina Galbó
+#ActorImage images/persons/301785.jpg
+#Actor John Moulder-Brown
+#ActorImage images/persons/609699.jpg
+#Genre Horror | Thriller
+#Runtime 99 mins.
+#Movie
+#Title Burn!
+#TitleImage images/titles/392.jpg
+#Outline The professional mercenary Sir William Walker instigates a slave revolt on the Caribbean island of Queimada...
+#Director Gillo Pontecorvo
+#DirectorImage images/persons/690597.jpg
+#Actor Marlon Brando
+#ActorImage images/persons/8.jpg
+#Actor Evaristo Márquez
+#ActorImage images/persons/617304.jpg
+#Actor Norman Hill
+#ActorImage images/persons/384551.jpg
+#Genre Action | Drama | Thriller
+#Runtime 132 mins.
+#Movie
+#Title Alice's Restaurant
+#TitleImage images/titles/393.jpg
+#Outline A cinematic adaption of Arlo Guthrie's classic song story.
+#Director Arthur Penn
+#DirectorImage images/persons/671957.jpg
+#Actor Arlo Guthrie
+#ActorImage images/persons/349241.jpg
+#Actor Patricia Quinn
+#ActorImage images/persons/703947.jpg
+#Actor James Broderick
+#ActorImage images/persons/110814.jpg
+#Genre Comedy | Drama
+#Runtime 111 mins.
+#Movie
+#Title Journey to the Far Side of the Sun
+#TitleImage images/titles/394.jpg
+#Outline A planet is discovered in the same orbit as Earth's but is located on the exact opposite side of the sun...
+#Director Robert Parrish
+#DirectorImage images/persons/663577.jpg
+#Actor Roy Thinnes
+#ActorImage images/persons/858186.jpg
+#Actor Ian Hendry
+#ActorImage images/persons/376915.jpg
+#Actor Patrick Wymark
+#ActorImage images/persons/943859.jpg
+#Genre Sci-Fi
+#Certificate G
+#Runtime 101 mins.
+#Movie
+#Title Change of Habit
+#TitleImage images/titles/395.jpg
+#Outline Only a few songs as Elvis plays it straight as Dr John Carpenter. Mary Tyler Moore stars opposite as...
+#Director William A. Graham
+#DirectorImage images/persons/334353.jpg
+#Actor Elvis Presley
+#ActorImage images/persons/62.jpg
+#Actor Mary Tyler Moore
+#ActorImage images/persons/1546.jpg
+#Actor Barbara McNair
+#ActorImage images/persons/573552.jpg
+#Genre Crime | Drama | Music
+#Certificate G
+#Runtime 93 mins.
+#Movie
+#Title Medea
+#TitleImage images/titles/396.jpg
+#Outline To win the kingdom his uncle took from his father, Jason must steal the golden fleece from the land of barbarians...
+#Director Pier Paolo Pasolini
+#DirectorImage images/persons/1596.jpg
+#Actor Maria Callas
+#ActorImage images/persons/6568.jpg
+#Actor Massimo Girotti
+#ActorImage images/persons/320988.jpg
+#Actor Laurent Terzieff
+#ActorImage images/persons/856187.jpg
+#Genre Drama | Fantasy
+#Runtime 110 mins.
+#Movie
+#Title The Computer Wore Tennis Shoes
+#TitleImage images/titles/397.jpg
+#Outline Some college students manage to persuade the town's big businessman, A. J. Arno, to donate a computer to their college...
+#Director Robert Butler
+#DirectorImage images/persons/125111.jpg
+#Actor Kurt Russell
+#ActorImage images/persons/621.jpg
+#Actor Cesar Romero
+#ActorImage images/persons/3110.jpg
+#Actor Joe Flynn
+#ActorImage images/persons/283499.jpg
+#Genre Family | Comedy
+#Certificate G
+#Runtime 91 mins.
+#Movie
+#Title The Passion of Anna
+#TitleImage images/titles/398.jpg
+#Outline Andreas, a man struggling with the recent demise of his marriage and his own emotional isolation, befriends...
+#Director Ingmar Bergman
+#DirectorImage images/persons/5.jpg
+#Actor Liv Ullmann
+#ActorImage images/persons/880521.jpg
+#Actor Bibi Andersson
+#ActorImage images/persons/761.jpg
+#Actor Max von Sydow
+#ActorImage images/persons/1884.jpg
+#Genre Drama
+#Certificate R
+#Runtime 101 mins.
+#Movie
+#Title Sabata
+#TitleImage images/titles/399.jpg
+#Outline Several pillars of society have robbed an Army safe containing $100,000 so they can buy the land upon which the coming railroad will be built...
+#Director Gianfranco Parolini
+#DirectorImage images/persons/40789.jpg
+#Actor Lee Van Cleef
+#ActorImage images/persons/1812.jpg
+#Actor William Berger
+#ActorImage images/persons/74125.jpg
+#Actor Ignazio Spalla
+#ActorImage images/persons/761033.jpg
+#Genre Western
+#Runtime 111 mins.
+#Movie
+#Title Carry on Camping
+#TitleImage images/titles/400.jpg
+#Outline Sid and Bernie keep having their amorous intentions snubbed by their girlfriends Joan and Anthea. The boys suggest a camping holiday...
+#Director Gerald Thomas
+#DirectorImage images/persons/858873.jpg
+#Actor Kenneth Williams
+#ActorImage images/persons/931054.jpg
+#Actor Sid James
+#ActorImage images/persons/416228.jpg
+#Actor Charles Hawtrey
+#ActorImage images/persons/1889.jpg
+#Genre Comedy
+#Certificate R
+#Runtime 88 mins.
